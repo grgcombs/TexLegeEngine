@@ -1,0 +1,9 @@
+github "Mantle/Mantle"
+github "Overcoat/Overcoat" "master"
+github "CocoaLumberjack/CocoaLumberjack" >= 2.2.0
+github "AFNetworking/AFNetworking"
+github "iv-mexx/FormatterKit" "supportFrameworks"
+github "grgcombs/Asterism" "pullReq/frameworks"
+github "MatthewYork/DateTools"
+github "SnapKit/Masonry"
+github "yapstudios/YapDatabase" >= 2.7
