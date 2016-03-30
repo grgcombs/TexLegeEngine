@@ -23,6 +23,6 @@ before_deploy:
     - carthage build --no-skip-current --platform iOS
     - carthage archive $FRAMEWORK_NAME
 script: 
-    bin/setup
-    xctool -sdk iphonesimulator -scheme TexLegeEngine-iOS test 
+    - bin/setup
+    - xctool -sdk iphonesimulator -scheme TexLegeEngine-iOS test 
 
