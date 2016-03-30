@@ -18,9 +18,9 @@ notifications:
         on_success: change
         on_failure: always
 before_script:
-    - carthage bootstrap
+    - carthage bootstrap --no-build
 before_deploy:
-    - carthage build --no-skip-current
+    - carthage build --no-skip-current --platform iOS
     - carthage archive $FRAMEWORK_NAME
 script: 
     bin/setup
