@@ -1,0 +1,5 @@
+// Build settings for debug builds.
+
+#include "../External/XCConfigs/iOS/iOS-Framework.xcconfig"
+#include "../External/XCConfigs/Base/Configurations/Debug.xcconfig"
+#include "TexLegeEngine.xcconfig"

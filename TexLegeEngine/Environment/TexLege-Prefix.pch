@@ -1,0 +1,26 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import "TexLege-Environment.h"
+#import <Availability.h>
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <Asterism/Asterism.h>
+    #import <ReactiveCocoa/ReactiveCocoa.h>
+    #import <CocoaLumberjack/CocoaLumberjack.h>
+    #import <CocoaLumberjack/DDLog.h>
+
+    #ifdef DEBUG
+        static DDLogLevel ddLogLevel = DDLogLevelDebug;
+    #else
+        static DDLogLevel ddLogLevel = DDLogLevelWarning;
+    #endif
+
+    #import "TXLConstants.h"
+    #import "TXLTypeCheck.h"
+#endif

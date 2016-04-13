@@ -1,0 +1,5 @@
+// Build settings for ad-hoc and app store builds.
+
+#include "../External/XCConfigs/iOS/iOS-Framework.xcconfig"
+#include "../External/XCConfigs/Base/Configurations/Release.xcconfig"
+#include "TexLegeEngine.xcconfig"

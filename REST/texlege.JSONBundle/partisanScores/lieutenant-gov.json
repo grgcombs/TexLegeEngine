@@ -1,0 +1,33 @@
+[{
+  "score_id": "1425",
+  "leg_id": "TXL000202",
+  "score_avg": 1.31923,
+  "score": 1.32024,
+  "std_error": 0.0545,
+  "session": 80,
+  "updated_at": "2015-06-19 16:57:04"
+}, {
+  "score_id": "1426",
+  "leg_id": "TXL000202",
+  "score_avg": 1.31923,
+  "score": 1.27783,
+  "std_error": 0.034,
+  "session": 81,
+  "updated_at": "2015-06-19 16:57:05"
+}, {
+  "score_id": "1427",
+  "leg_id": "TXL000202",
+  "score_avg": 1.31923,
+  "score": 1.35964,
+  "std_error": 0.0139,
+  "session": 82,
+  "updated_at": "2015-06-19 16:57:07"
+}, {
+  "score_id": "1428",
+  "leg_id": "TXL000202",
+  "score_avg": 1.31923,
+  "score": 1.16329,
+  "std_error": 0.0139,
+  "session": 83,
+  "updated_at": "2015-06-19 16:57:08"
+}]

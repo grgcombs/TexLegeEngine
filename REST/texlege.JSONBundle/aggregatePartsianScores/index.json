@@ -1,0 +1,337 @@
+[{
+  "aggregate_id": "11",
+  "chamber": "lower",
+  "party_id": 1,
+  "score": -0.42222,
+  "session": 72,
+  "updated_at": "2010-11-01 00:00:00"
+}, {
+  "aggregate_id": "1",
+  "chamber": "lower",
+  "party_id": 2,
+  "score": 0.54409,
+  "session": 72,
+  "updated_at": "2010-11-01 00:00:00"
+}, {
+  "aggregate_id": "33",
+  "chamber": "upper",
+  "party_id": 1,
+  "score": -0.53205,
+  "session": 72,
+  "updated_at": "2011-06-20 13:49:00"
+}, {
+  "aggregate_id": "36",
+  "chamber": "upper",
+  "party_id": 2,
+  "score": 0.73478,
+  "session": 72,
+  "updated_at": "2011-06-20 13:49:00"
+}, {
+  "aggregate_id": "12",
+  "chamber": "lower",
+  "party_id": 1,
+  "score": -0.449964135,
+  "session": 73,
+  "updated_at": "2010-11-01 00:00:00"
+}, {
+  "aggregate_id": "2",
+  "chamber": "lower",
+  "party_id": 2,
+  "score": 0.559875531,
+  "session": 73,
+  "updated_at": "2010-11-01 00:00:00"
+}, {
+  "aggregate_id": "41",
+  "chamber": "upper",
+  "party_id": 1,
+  "score": -0.480434,
+  "session": 73,
+  "updated_at": "2011-06-20 13:49:00"
+}, {
+  "aggregate_id": "37",
+  "chamber": "upper",
+  "party_id": 2,
+  "score": 0.729304,
+  "session": 73,
+  "updated_at": "2011-06-20 13:49:00"
+}, {
+  "aggregate_id": "13",
+  "chamber": "lower",
+  "party_id": 1,
+  "score": -0.445684078,
+  "session": 74,
+  "updated_at": "2010-11-01 00:00:00"
+}, {
+  "aggregate_id": "3",
+  "chamber": "lower",
+  "party_id": 2,
+  "score": 0.552640372,
+  "session": 74,
+  "updated_at": "2010-11-01 00:00:00"
+}, {
+  "aggregate_id": "42",
+  "chamber": "upper",
+  "party_id": 1,
+  "score": -0.451322,
+  "session": 74,
+  "updated_at": "2011-06-20 13:49:00"
+}, {
+  "aggregate_id": "38",
+  "chamber": "upper",
+  "party_id": 2,
+  "score": 0.707211,
+  "session": 74,
+  "updated_at": "2011-06-20 13:49:00"
+}, {
+  "aggregate_id": "14",
+  "chamber": "lower",
+  "party_id": 1,
+  "score": -0.536115388,
+  "session": 75,
+  "updated_at": "2010-11-01 00:00:00"
+}, {
+  "aggregate_id": "4",
+  "chamber": "lower",
+  "party_id": 2,
+  "score": 0.621388023,
+  "session": 75,
+  "updated_at": "2010-11-01 00:00:00"
+}, {
+  "aggregate_id": "43",
+  "chamber": "upper",
+  "party_id": 1,
+  "score": -0.61633,
+  "session": 75,
+  "updated_at": "2011-06-20 13:49:00"
+}, {
+  "aggregate_id": "39",
+  "chamber": "upper",
+  "party_id": 2,
+  "score": 0.797597,
+  "session": 75,
+  "updated_at": "2011-06-20 13:49:00"
+}, {
+  "aggregate_id": "15",
+  "chamber": "lower",
+  "party_id": 1,
+  "score": -0.581599285,
+  "session": 76,
+  "updated_at": "2010-11-01 00:00:00"
+}, {
+  "aggregate_id": "5",
+  "chamber": "lower",
+  "party_id": 2,
+  "score": 0.629700791,
+  "session": 76,
+  "updated_at": "2010-11-01 00:00:00"
+}, {
+  "aggregate_id": "27",
+  "chamber": "upper",
+  "party_id": 1,
+  "score": -0.60042,
+  "session": 76,
+  "updated_at": "2011-06-20 13:49:00"
+}, {
+  "aggregate_id": "21",
+  "chamber": "upper",
+  "party_id": 2,
+  "score": 0.771496,
+  "session": 76,
+  "updated_at": "2011-06-20 13:49:00"
+}, {
+  "aggregate_id": "16",
+  "chamber": "lower",
+  "party_id": 1,
+  "score": -0.585928296,
+  "session": 77,
+  "updated_at": "2010-11-01 00:00:00"
+}, {
+  "aggregate_id": "6",
+  "chamber": "lower",
+  "party_id": 2,
+  "score": 0.621778609,
+  "session": 77,
+  "updated_at": "2010-11-01 00:00:00"
+}, {
+  "aggregate_id": "28",
+  "chamber": "upper",
+  "party_id": 1,
+  "score": -0.602352,
+  "session": 77,
+  "updated_at": "2011-06-20 13:49:00"
+}, {
+  "aggregate_id": "22",
+  "chamber": "upper",
+  "party_id": 2,
+  "score": 0.814249,
+  "session": 77,
+  "updated_at": "2011-06-20 13:49:00"
+}, {
+  "aggregate_id": "17",
+  "chamber": "lower",
+  "party_id": 1,
+  "score": -0.644611479,
+  "session": 78,
+  "updated_at": "2010-11-01 00:00:00"
+}, {
+  "aggregate_id": "7",
+  "chamber": "lower",
+  "party_id": 2,
+  "score": 0.621042716,
+  "session": 78,
+  "updated_at": "2010-11-01 00:00:00"
+}, {
+  "aggregate_id": "29",
+  "chamber": "upper",
+  "party_id": 1,
+  "score": -0.625955,
+  "session": 78,
+  "updated_at": "2011-06-20 13:49:00"
+}, {
+  "aggregate_id": "23",
+  "chamber": "upper",
+  "party_id": 2,
+  "score": 0.879971,
+  "session": 78,
+  "updated_at": "2011-06-20 13:49:00"
+}, {
+  "aggregate_id": "18",
+  "chamber": "lower",
+  "party_id": 1,
+  "score": -0.695038928,
+  "session": 79,
+  "updated_at": "2010-11-01 00:00:00"
+}, {
+  "aggregate_id": "8",
+  "chamber": "lower",
+  "party_id": 2,
+  "score": 0.621042716,
+  "session": 79,
+  "updated_at": "2010-11-01 00:00:00"
+}, {
+  "aggregate_id": "30",
+  "chamber": "upper",
+  "party_id": 1,
+  "score": -0.621295,
+  "session": 79,
+  "updated_at": "2011-06-20 13:49:00"
+}, {
+  "aggregate_id": "24",
+  "chamber": "upper",
+  "party_id": 2,
+  "score": 0.873631,
+  "session": 79,
+  "updated_at": "2011-06-20 13:49:00"
+}, {
+  "aggregate_id": "19",
+  "chamber": "lower",
+  "party_id": 1,
+  "score": -0.689908867,
+  "session": 80,
+  "updated_at": "2010-11-01 00:00:00"
+}, {
+  "aggregate_id": "9",
+  "chamber": "lower",
+  "party_id": 2,
+  "score": 0.636998902,
+  "session": 80,
+  "updated_at": "2010-11-01 00:00:00"
+}, {
+  "aggregate_id": "31",
+  "chamber": "upper",
+  "party_id": 1,
+  "score": -0.701976,
+  "session": 80,
+  "updated_at": "2011-06-20 13:49:00"
+}, {
+  "aggregate_id": "25",
+  "chamber": "upper",
+  "party_id": 2,
+  "score": 0.858678,
+  "session": 80,
+  "updated_at": "2011-06-20 13:49:00"
+}, {
+  "aggregate_id": "20",
+  "chamber": "lower",
+  "party_id": 1,
+  "score": -0.816011438,
+  "session": 81,
+  "updated_at": "2010-11-01 00:00:00"
+}, {
+  "aggregate_id": "10",
+  "chamber": "lower",
+  "party_id": 2,
+  "score": 0.734943024,
+  "session": 81,
+  "updated_at": "2010-11-01 00:00:00"
+}, {
+  "aggregate_id": "32",
+  "chamber": "upper",
+  "party_id": 1,
+  "score": -0.726935,
+  "session": 81,
+  "updated_at": "2011-06-20 13:49:00"
+}, {
+  "aggregate_id": "26",
+  "chamber": "upper",
+  "party_id": 2,
+  "score": 0.887799,
+  "session": 81,
+  "updated_at": "2011-06-20 13:49:00"
+}, {
+  "aggregate_id": "35",
+  "chamber": "lower",
+  "party_id": 1,
+  "score": -0.82659458,
+  "session": 82,
+  "updated_at": "2011-06-15 00:00:00"
+}, {
+  "aggregate_id": "34",
+  "chamber": "lower",
+  "party_id": 2,
+  "score": 0.70358421,
+  "session": 82,
+  "updated_at": "2011-06-15 00:00:00"
+}, {
+  "aggregate_id": "44",
+  "chamber": "upper",
+  "party_id": 1,
+  "score": -0.743625,
+  "session": 82,
+  "updated_at": "2011-06-20 13:49:00"
+}, {
+  "aggregate_id": "40",
+  "chamber": "upper",
+  "party_id": 2,
+  "score": 0.952801,
+  "session": 82,
+  "updated_at": "2011-06-20 13:49:00"
+}, {
+  "aggregate_id": "45",
+  "chamber": "lower",
+  "party_id": 1,
+  "score": -0.7575,
+  "session": 83,
+  "updated_at": "2014-08-19 16:58:01"
+}, {
+  "aggregate_id": "46",
+  "chamber": "lower",
+  "party_id": 2,
+  "score": 0.4385,
+  "session": 83,
+  "updated_at": "2014-08-19 16:58:24"
+}, {
+  "aggregate_id": "48",
+  "chamber": "upper",
+  "party_id": 1,
+  "score": -0.7289,
+  "session": 83,
+  "updated_at": "2014-08-20 11:02:27"
+}, {
+  "aggregate_id": "47",
+  "chamber": "upper",
+  "party_id": 2,
+  "score": 0.4019,
+  "session": 83,
+  "updated_at": "2014-08-20 11:00:46"
+}]

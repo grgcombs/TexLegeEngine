@@ -1,0 +1,3 @@
+[submodule "External/XCConfigs"]
+	path = External/XCConfigs
+	url = git://github.com/jspahrsummers/xcconfigs.git

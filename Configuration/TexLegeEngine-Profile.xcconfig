@@ -1,0 +1,7 @@
+// Build settings for profile builds.
+
+#include "../External/XCConfigs/iOS/iOS-Framework.xcconfig"
+#include "../External/XCConfigs/Base/Configurations/Profile.xcconfig"
+#include "TexLegeEngine.xcconfig"
+
+ONLY_ACTIVE_ARCH = YES

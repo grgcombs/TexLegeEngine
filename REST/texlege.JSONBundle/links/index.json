@@ -1,0 +1,145 @@
+[{
+  "label": "TexLege Information",
+  "section": 0,
+  "sortOrder": 1,
+  "updated": "2013-01-13 13:53:00",
+  "url": "aboutView"
+}, {
+  "label": "TexLege User's Guide",
+  "section": 0,
+  "sortOrder": 2,
+  "updated": "2013-01-13 13:53:01",
+  "url": "http://www.texlege.com/TexLegeUsersGuide/"
+}, {
+  "label": "Contact TexLege Support",
+  "section": 0,
+  "sortOrder": 3,
+  "updated": "2013-01-13 13:53:02",
+  "url": "mailto:support@texlege.com"
+}, {
+  "label": "TexLege Website",
+  "section": 0,
+  "sortOrder": 4,
+  "updated": "2013-01-13 13:54:02",
+  "url": "http://www.texlege.com"
+}, {
+  "label": "Acknowledgements & Attributions",
+  "section": 0,
+  "sortOrder": 5,
+  "updated": "2013-01-13 13:58:30",
+  "url": "http://www.texlege.com/acknowledgements/"
+}, {
+  "label": "Open States for iOS",
+  "section": 0,
+  "sortOrder": 6,
+  "updated": "2013-01-13 13:58:27",
+  "url": "https://itunes.apple.com/app/open-states/id500672932?mt=8"
+}, {
+  "label": "Texas Legislature Online",
+  "section": 1,
+  "sortOrder": 7,
+  "updated": "2013-01-13 13:58:22",
+  "url": "http://www.legis.state.tx.us/"
+}, {
+  "label": "Legislative Reference Library",
+  "section": 1,
+  "sortOrder": 8,
+  "updated": "2013-01-13 13:58:18",
+  "url": "http://www.lrl.state.tx.us/"
+}, {
+  "label": "House Live Stream (In Session)",
+  "section": 1,
+  "sortOrder": 9,
+  "updated": "2013-01-13 13:58:09",
+  "url": "http://realvideoe.house.state.tx.us:8080/iphone/broadcast/chamberm.mp4.m3u8"
+}, {
+  "label": "Senate Live Stream (In Session)",
+  "section": 1,
+  "sortOrder": 10,
+  "updated": "2013-01-13 13:58:07",
+  "url": "http://realvideoe.senate.state.tx.us:8080/iphone/broadcast/chamberm.mp4.m3u8"
+}, {
+  "label": "Texas Legislative Council",
+  "section": 1,
+  "sortOrder": 11,
+  "updated": "2013-01-13 13:58:04",
+  "url": "http://www.tlc.state.tx.us/"
+}, {
+  "label": "House Resource Organization",
+  "section": 1,
+  "sortOrder": 12,
+  "updated": "2013-01-13 13:58:02",
+  "url": "http://www.hro.house.state.tx.us/"
+}, {
+  "label": "Senate Research Center",
+  "section": 1,
+  "sortOrder": 13,
+  "updated": "2013-01-13 13:57:59",
+  "url": "http://www.senate.state.tx.us/SRC/Pub.htm"
+}, {
+  "label": "Open States Project",
+  "section": 1,
+  "sortOrder": 15,
+  "updated": "2013-01-13 13:57:47",
+  "url": "http://openstates.org"
+}, {
+  "label": "Sunlight Foundation",
+  "section": 1,
+  "sortOrder": 16,
+  "updated": "2013-01-13 13:57:41",
+  "url": "http://sunlightfoundation.com/"
+}, {
+  "label": "Follow The Money",
+  "section": 1,
+  "sortOrder": 17,
+  "updated": "2013-01-13 13:57:39",
+  "url": "http://www.followthemoney.org/database/state_overview.phtml?s=TX"
+}, {
+  "label": "Project Vote Smart",
+  "section": 1,
+  "sortOrder": 18,
+  "updated": "2013-01-13 13:57:35",
+  "url": "http://votesmart.org/issues/TX"
+}, {
+  "label": "Texas Ethics Commission",
+  "section": 1,
+  "sortOrder": 19,
+  "updated": "2013-01-13 13:57:33",
+  "url": "http://www.ethics.state.tx.us/"
+}, {
+  "label": "Welcome to Texas Politics",
+  "section": 1,
+  "sortOrder": 20,
+  "updated": "2013-01-13 13:57:31",
+  "url": "http://texaspolitics.laits.utexas.edu/"
+}, {
+  "label": "The Handbook of Texas",
+  "section": 1,
+  "sortOrder": 21,
+  "updated": "2013-01-13 13:57:28",
+  "url": "http://www.tshaonline.org/handbook/online/"
+}, {
+  "label": "Texas House Speakers Oral History",
+  "section": 1,
+  "sortOrder": 22,
+  "updated": "2013-01-13 13:57:27",
+  "url": "http://www.cah.utexas.edu/projects/speakers.php"
+}, {
+  "label": "Legislator Twitter Feeds",
+  "section": 1,
+  "sortOrder": 23,
+  "updated": "2013-01-13 13:57:25",
+  "url": "https://twitter.com/TexasTribune/texas-legislators/"
+}, {
+  "label": "Who Represents Me?",
+  "section": 1,
+  "sortOrder": 24,
+  "updated": "2013-01-13 13:57:23",
+  "url": "http://www.fyi.legis.state.tx.us/"
+}, {
+  "label": "Texas Secretary of State",
+  "section": 1,
+  "sortOrder": 25,
+  "updated": "2013-01-13 13:56:56",
+  "url": "http://www.sos.state.tx.us/"
+}]

@@ -1,0 +1,3221 @@
+[{
+  "all_ids": [
+    "TXC000010"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Land & Resource Management",
+  "subcommittee": null,
+  "members": [{
+    "name": "Scott Sanford",
+    "role": "member",
+    "leg_id": "TXL000459"
+  }, {
+    "name": "John Cyrier",
+    "role": "member",
+    "leg_id": "TXL000516"
+  }, {
+    "name": "Matt Krause",
+    "role": "member",
+    "leg_id": "TXL000444"
+  }, {
+    "name": "Ed Thompson",
+    "role": "vice chair",
+    "leg_id": "TXL000466"
+  }, {
+    "name": "Cecil Bell, Jr.",
+    "role": "member",
+    "leg_id": "TXL000425"
+  }, {
+    "name": "Eddie Lucio III",
+    "role": "member",
+    "leg_id": "TXL000303"
+  }, {
+    "name": "Joe Deshotel",
+    "role": "chair",
+    "leg_id": "TXL000245"
+  }],
+  "id": "TXC000010",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000214"
+  ],
+  "updated_at": "2015-02-20 02:21:10",
+  "parent_id": null,
+  "committee": "Higher Education-S/C on Post-Secondary & Workforce Readiness",
+  "subcommittee": null,
+  "members": [{
+    "name": "Travis Clardy",
+    "role": "chair",
+    "leg_id": "TXL000430"
+  }, {
+    "name": "Chris Turner",
+    "role": "member",
+    "leg_id": "TXL000354"
+  }, {
+    "name": "John Raney",
+    "role": "member",
+    "leg_id": "TXL000415"
+  }, {
+    "name": "Armando Martinez",
+    "role": "member",
+    "leg_id": "TXL000308"
+  }, {
+    "name": "Geanie Morrison",
+    "role": "member",
+    "leg_id": "TXL000318"
+  }],
+  "id": "TXC000214",
+  "created_at": "2015-02-20 02:21:10",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000216"
+  ],
+  "updated_at": "2015-02-24 02:33:56",
+  "parent_id": null,
+  "committee": "Economic & Small Business Development-S/C on Small Business",
+  "subcommittee": null,
+  "members": [{
+    "name": "Eric Johnson",
+    "role": "member",
+    "leg_id": "TXL000289"
+  }, {
+    "name": "Jason Isaac",
+    "role": "chair",
+    "leg_id": "TXL000386"
+  }, {
+    "name": "Will Metcalf",
+    "role": "member",
+    "leg_id": "TXL000502"
+  }, {
+    "name": "Wayne Faircloth",
+    "role": "member",
+    "leg_id": "TXL000506"
+  }, {
+    "name": "Hubert Vo",
+    "role": "member",
+    "leg_id": "TXL000359"
+  }],
+  "id": "TXC000216",
+  "created_at": "2015-02-24 02:33:56",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000152"
+  ],
+  "updated_at": "2013-02-05 02:41:46",
+  "parent_id": null,
+  "committee": "International Trade & Intergovernmental Affairs",
+  "subcommittee": null,
+  "members": [{
+    "name": "Dustin Burrows",
+    "role": "member",
+    "leg_id": "TXL000500"
+  }, {
+    "name": "Linda Koop",
+    "role": "member",
+    "leg_id": "TXL000491"
+  }, {
+    "name": "Diego Bernal",
+    "role": "member",
+    "leg_id": "TXL000517"
+  }, {
+    "name": "Scott Turner",
+    "role": "member",
+    "leg_id": "TXL000468"
+  }, {
+    "name": "Rodney Anderson",
+    "role": "member",
+    "leg_id": "TXL000370"
+  }, {
+    "name": "J. M. Lozano",
+    "role": "vice chair",
+    "leg_id": "TXL000391"
+  }, {
+    "name": "Rafael Anchia",
+    "role": "chair",
+    "leg_id": "TXL000217"
+  }],
+  "id": "TXC000152",
+  "created_at": "2013-02-05 02:41:46",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000205"
+  ],
+  "updated_at": "2015-02-05 01:35:33",
+  "parent_id": null,
+  "committee": "Emerging Issues In Texas Law Enforcement, Select",
+  "subcommittee": null,
+  "members": [{
+    "name": "Linda Koop",
+    "role": "member",
+    "leg_id": "TXL000491"
+  }, {
+    "name": "James White",
+    "role": "member",
+    "leg_id": "TXL000410"
+  }, {
+    "name": "Allen Fletcher",
+    "role": "chair",
+    "leg_id": "TXL000258"
+  }, {
+    "name": "Dawnna Dukes",
+    "role": "vice chair",
+    "leg_id": "TXL000247"
+  }, {
+    "name": "Armando Martinez",
+    "role": "member",
+    "leg_id": "TXL000308"
+  }, {
+    "name": "Dan Flynn",
+    "role": "member",
+    "leg_id": "TXL000260"
+  }, {
+    "name": "Marisa Marquez",
+    "role": "member",
+    "leg_id": "TXL000307"
+  }],
+  "id": "TXC000205",
+  "created_at": "2015-02-05 01:35:33",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000022"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "State Affairs",
+  "subcommittee": null,
+  "members": [{
+    "name": "Sylvester Turner",
+    "role": "member",
+    "leg_id": "TXL000355"
+  }, {
+    "name": "Byron Cook",
+    "role": "chair",
+    "leg_id": "TXL000236"
+  }, {
+    "name": "Dan Huberty",
+    "role": "member",
+    "leg_id": "TXL000385"
+  }, {
+    "name": "Ina Minjarez",
+    "role": "member",
+    "leg_id": "TXL000519"
+  }, {
+    "name": "Marsha Farney",
+    "role": "member",
+    "leg_id": "TXL000435"
+  }, {
+    "name": "Patricia Harless",
+    "role": "member",
+    "leg_id": "TXL000273"
+  }, {
+    "name": "Charlie Geren",
+    "role": "member",
+    "leg_id": "TXL000264"
+  }, {
+    "name": "Helen Giddings",
+    "role": "vice chair",
+    "leg_id": "TXL000265"
+  }, {
+    "name": "John Kuempel",
+    "role": "member",
+    "leg_id": "TXL000387"
+  }, {
+    "name": "Rene Oliveira",
+    "role": "member",
+    "leg_id": "TXL000320"
+  }, {
+    "name": "Jessica Farrar",
+    "role": "member",
+    "leg_id": "TXL000257"
+  }, {
+    "name": "Tom Craddick",
+    "role": "member",
+    "leg_id": "TXL000239"
+  }, {
+    "name": "John Smithee",
+    "role": "member",
+    "leg_id": "TXL000344"
+  }],
+  "id": "TXC000022",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000206"
+  ],
+  "updated_at": "2015-02-05 01:35:33",
+  "parent_id": null,
+  "committee": "Government Transparency & Operation",
+  "subcommittee": null,
+  "members": [{
+    "name": "Roland Gutierrez",
+    "role": "member",
+    "leg_id": "TXL000269"
+  }, {
+    "name": "Jeff Leach",
+    "role": "member",
+    "leg_id": "TXL000445"
+  }, {
+    "name": "Scott Turner",
+    "role": "member",
+    "leg_id": "TXL000468"
+  }, {
+    "name": "Rick Galindo",
+    "role": "member",
+    "leg_id": "TXL000492"
+  }, {
+    "name": "Larry Gonzales",
+    "role": "member",
+    "leg_id": "TXL000381"
+  }, {
+    "name": "Gary Elkins",
+    "role": "chair",
+    "leg_id": "TXL000253"
+  }, {
+    "name": "Armando Walle",
+    "role": "vice chair",
+    "leg_id": "TXL000360"
+  }],
+  "id": "TXC000206",
+  "created_at": "2015-02-05 01:35:33",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000150"
+  ],
+  "updated_at": "2013-02-05 02:41:45",
+  "parent_id": null,
+  "committee": "Special Purpose Districts",
+  "subcommittee": null,
+  "members": [{
+    "name": "William Zedler",
+    "role": "member",
+    "leg_id": "TXL000412"
+  }, {
+    "name": "Pat Fallon",
+    "role": "member",
+    "leg_id": "TXL000434"
+  }, {
+    "name": "Jonathan Stickland",
+    "role": "member",
+    "leg_id": "TXL000465"
+  }, {
+    "name": "Wayne Faircloth",
+    "role": "member",
+    "leg_id": "TXL000506"
+  }, {
+    "name": "Carol Alvarado",
+    "role": "vice chair",
+    "leg_id": "TXL000216"
+  }, {
+    "name": "Doug Miller",
+    "role": "chair",
+    "leg_id": "TXL000315"
+  }, {
+    "name": "Trey Martinez Fischer",
+    "role": "member",
+    "leg_id": "TXL000309"
+  }],
+  "id": "TXC000150",
+  "created_at": "2013-02-05 02:41:45",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000011"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Higher Education",
+  "subcommittee": null,
+  "members": [{
+    "name": "Travis Clardy",
+    "role": "member",
+    "leg_id": "TXL000430"
+  }, {
+    "name": "Chris Turner",
+    "role": "member",
+    "leg_id": "TXL000354"
+  }, {
+    "name": "John Raney",
+    "role": "member",
+    "leg_id": "TXL000415"
+  }, {
+    "name": "Myra Crownover",
+    "role": "member",
+    "leg_id": "TXL000241"
+  }, {
+    "name": "Donna Howard",
+    "role": "vice chair",
+    "leg_id": "TXL000283"
+  }, {
+    "name": "John Zerwas",
+    "role": "chair",
+    "leg_id": "TXL000363"
+  }, {
+    "name": "Armando Martinez",
+    "role": "member",
+    "leg_id": "TXL000308"
+  }, {
+    "name": "Roberto Alonzo",
+    "role": "member",
+    "leg_id": "TXL000215"
+  }, {
+    "name": "Geanie Morrison",
+    "role": "member",
+    "leg_id": "TXL000318"
+  }],
+  "id": "TXC000011",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000007"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Urban Affairs",
+  "subcommittee": null,
+  "members": [{
+    "name": "Diego Bernal",
+    "role": "member",
+    "leg_id": "TXL000517"
+  }, {
+    "name": "Rodney Anderson",
+    "role": "member",
+    "leg_id": "TXL000370"
+  }, {
+    "name": "Matt Schaefer",
+    "role": "member",
+    "leg_id": "TXL000460"
+  }, {
+    "name": "Molly White",
+    "role": "member",
+    "leg_id": "TXL000508"
+  }, {
+    "name": "Carol Alvarado",
+    "role": "chair",
+    "leg_id": "TXL000216"
+  }, {
+    "name": "Todd Hunter",
+    "role": "vice chair",
+    "leg_id": "TXL000286"
+  }, {
+    "name": "Gary Elkins",
+    "role": "member",
+    "leg_id": "TXL000253"
+  }],
+  "id": "TXC000007",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000079"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "General Investigating & Ethics",
+  "subcommittee": null,
+  "members": [{
+    "name": "Joseph Moody",
+    "role": "member",
+    "leg_id": "TXL000317"
+  }, {
+    "name": "Lyle Larson",
+    "role": "member",
+    "leg_id": "TXL000389"
+  }, {
+    "name": "Nicole Collier",
+    "role": "vice chair",
+    "leg_id": "TXL000431"
+  }, {
+    "name": "Chris Turner",
+    "role": "member",
+    "leg_id": "TXL000354"
+  }, {
+    "name": "Todd Hunter",
+    "role": "member",
+    "leg_id": "TXL000286"
+  }, {
+    "name": "John Kuempel",
+    "role": "chair",
+    "leg_id": "TXL000387"
+  }, {
+    "name": "Sarah Davis",
+    "role": "member",
+    "leg_id": "TXL000378"
+  }],
+  "id": "TXC000079",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000080"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Culture, Recreation & Tourism",
+  "subcommittee": null,
+  "members": [{
+    "name": "Ryan Guillen",
+    "role": "chair",
+    "leg_id": "TXL000268"
+  }, {
+    "name": "Andrew Murr",
+    "role": "member",
+    "leg_id": "TXL000480"
+  }, {
+    "name": "Lyle Larson",
+    "role": "member",
+    "leg_id": "TXL000389"
+  }, {
+    "name": "Wayne Smith",
+    "role": "member",
+    "leg_id": "TXL000342"
+  }, {
+    "name": "John Frullo",
+    "role": "member",
+    "leg_id": "TXL000379"
+  }, {
+    "name": "Dawnna Dukes",
+    "role": "vice chair",
+    "leg_id": "TXL000247"
+  }, {
+    "name": "Marisa Marquez",
+    "role": "member",
+    "leg_id": "TXL000307"
+  }],
+  "id": "TXC000080",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000149"
+  ],
+  "updated_at": "2013-02-05 02:41:45",
+  "parent_id": null,
+  "committee": "Pensions",
+  "subcommittee": null,
+  "members": [{
+    "name": "Stephanie Klick",
+    "role": "member",
+    "leg_id": "TXL000443"
+  }, {
+    "name": "Ana Hernandez",
+    "role": "member",
+    "leg_id": "TXL000277"
+  }, {
+    "name": "Justin Rodriguez",
+    "role": "member",
+    "leg_id": "TXL000457"
+  }, {
+    "name": "Dennis Paul",
+    "role": "member",
+    "leg_id": "TXL000484"
+  }, {
+    "name": "Phil Stephenson",
+    "role": "member",
+    "leg_id": "TXL000464"
+  }, {
+    "name": "Dan Flynn",
+    "role": "chair",
+    "leg_id": "TXL000260"
+  }, {
+    "name": "Roberto Alonzo",
+    "role": "vice chair",
+    "leg_id": "TXL000215"
+  }],
+  "id": "TXC000149",
+  "created_at": "2013-02-05 02:41:45",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000035"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Business & Industry",
+  "subcommittee": null,
+  "members": [{
+    "name": "Ramon Romero, Jr.",
+    "role": "member",
+    "leg_id": "TXL000509"
+  }, {
+    "name": "Matt Rinaldi",
+    "role": "member",
+    "leg_id": "TXL000493"
+  }, {
+    "name": "Ron Simmons",
+    "role": "vice chair",
+    "leg_id": "TXL000462"
+  }, {
+    "name": "Nicole Collier",
+    "role": "member",
+    "leg_id": "TXL000431"
+  }, {
+    "name": "Jason Villalba",
+    "role": "member",
+    "leg_id": "TXL000470"
+  }, {
+    "name": "Allen Fletcher",
+    "role": "member",
+    "leg_id": "TXL000258"
+  }, {
+    "name": "Rene Oliveira",
+    "role": "chair",
+    "leg_id": "TXL000320"
+  }],
+  "id": "TXC000035",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000061"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Environmental Regulation",
+  "subcommittee": null,
+  "members": [{
+    "name": "Jason Isaac",
+    "role": "member",
+    "leg_id": "TXL000386"
+  }, {
+    "name": "Kyle Kacal",
+    "role": "member",
+    "leg_id": "TXL000441"
+  }, {
+    "name": "Eddie Rodriguez",
+    "role": "vice chair",
+    "leg_id": "TXL000338"
+  }, {
+    "name": "Ed Thompson",
+    "role": "member",
+    "leg_id": "TXL000466"
+  }, {
+    "name": "Ron Reynolds",
+    "role": "member",
+    "leg_id": "TXL000404"
+  }, {
+    "name": "Ken King",
+    "role": "member",
+    "leg_id": "TXL000442"
+  }, {
+    "name": "Phil King",
+    "role": "member",
+    "leg_id": "TXL000295"
+  }, {
+    "name": "J. M. Lozano",
+    "role": "member",
+    "leg_id": "TXL000391"
+  }, {
+    "name": "Geanie Morrison",
+    "role": "chair",
+    "leg_id": "TXL000318"
+  }],
+  "id": "TXC000061",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000204"
+  ],
+  "updated_at": "2015-02-05 01:35:33",
+  "parent_id": null,
+  "committee": "Juvenile Justice & Family Issues",
+  "subcommittee": null,
+  "members": [{
+    "name": "Scott Sanford",
+    "role": "member",
+    "leg_id": "TXL000459"
+  }, {
+    "name": "Gilbert Peña",
+    "role": "member",
+    "leg_id": "TXL000498"
+  }, {
+    "name": "Bryan Hughes",
+    "role": "member",
+    "leg_id": "TXL000285"
+  }, {
+    "name": "Harold Dutton Jr.",
+    "role": "chair",
+    "leg_id": "TXL000249"
+  }, {
+    "name": "Toni Rose",
+    "role": "member",
+    "leg_id": "TXL000458"
+  }, {
+    "name": "James White",
+    "role": "member",
+    "leg_id": "TXL000410"
+  }, {
+    "name": "Debbie Riddle",
+    "role": "vice chair",
+    "leg_id": "TXL000335"
+  }],
+  "id": "TXC000204",
+  "created_at": "2015-02-05 01:35:33",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000207"
+  ],
+  "updated_at": "2015-02-05 01:35:33",
+  "parent_id": null,
+  "committee": "State & Federal Power & Responsibility, Select",
+  "subcommittee": null,
+  "members": [{
+    "name": "Travis Clardy",
+    "role": "member",
+    "leg_id": "TXL000430"
+  }, {
+    "name": "Phil King",
+    "role": "chair",
+    "leg_id": "TXL000295"
+  }, {
+    "name": "Charles Anderson",
+    "role": "member",
+    "leg_id": "TXL000218"
+  }, {
+    "name": "Tan Parker",
+    "role": "member",
+    "leg_id": "TXL000325"
+  }, {
+    "name": "Armando Walle",
+    "role": "member",
+    "leg_id": "TXL000360"
+  }, {
+    "name": "Paul Workman",
+    "role": "vice chair",
+    "leg_id": "TXL000411"
+  }, {
+    "name": "Borris L. Miles",
+    "role": "member",
+    "leg_id": "TXL000395"
+  }],
+  "id": "TXC000207",
+  "created_at": "2015-02-05 01:35:33",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000215"
+  ],
+  "updated_at": "2015-02-24 02:33:56",
+  "parent_id": null,
+  "committee": "Public Education-S/C on Educator Quality",
+  "subcommittee": null,
+  "members": [{
+    "name": "Gary VanDeaver",
+    "role": "member",
+    "leg_id": "TXL000494"
+  }, {
+    "name": "Dan Huberty",
+    "role": "chair",
+    "leg_id": "TXL000385"
+  }, {
+    "name": "Harold Dutton Jr.",
+    "role": "member",
+    "leg_id": "TXL000249"
+  }, {
+    "name": "Marsha Farney",
+    "role": "member",
+    "leg_id": "TXL000435"
+  }, {
+    "name": "Joe Deshotel",
+    "role": "member",
+    "leg_id": "TXL000245"
+  }],
+  "id": "TXC000215",
+  "created_at": "2015-02-24 02:33:56",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000208"
+  ],
+  "updated_at": "2015-02-13 01:55:10",
+  "parent_id": null,
+  "committee": "Appropriations - S/C on Article II",
+  "subcommittee": null,
+  "members": [{
+    "name": "Four Price",
+    "role": "chair",
+    "leg_id": "TXL000402"
+  }, {
+    "name": "Oscar Longoria",
+    "role": "member",
+    "leg_id": "TXL000446"
+  }, {
+    "name": "J.D. Sheffield",
+    "role": "member",
+    "leg_id": "TXL000461"
+  }, {
+    "name": "Cindy Burkett",
+    "role": "member",
+    "leg_id": "TXL000373"
+  }, {
+    "name": "Dawnna Dukes",
+    "role": "vice chair",
+    "leg_id": "TXL000247"
+  }, {
+    "name": "Sarah Davis",
+    "role": "member",
+    "leg_id": "TXL000378"
+  }, {
+    "name": "Armando Walle",
+    "role": "member",
+    "leg_id": "TXL000360"
+  }],
+  "id": "TXC000208",
+  "created_at": "2015-02-13 01:55:10",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000212"
+  ],
+  "updated_at": "2015-02-13 01:55:10",
+  "parent_id": null,
+  "committee": "Appropriations - S/C on Article III",
+  "subcommittee": null,
+  "members": [{
+    "name": "Gary VanDeaver",
+    "role": "member",
+    "leg_id": "TXL000494"
+  }, {
+    "name": "Trent Ashby",
+    "role": "chair",
+    "leg_id": "TXL000424"
+  }, {
+    "name": "Dade Phelan",
+    "role": "member",
+    "leg_id": "TXL000496"
+  }, {
+    "name": "John Raney",
+    "role": "member",
+    "leg_id": "TXL000415"
+  }, {
+    "name": "Helen Giddings",
+    "role": "vice chair",
+    "leg_id": "TXL000265"
+  }, {
+    "name": "Donna Howard",
+    "role": "member",
+    "leg_id": "TXL000283"
+  }, {
+    "name": "Marisa Marquez",
+    "role": "member",
+    "leg_id": "TXL000307"
+  }],
+  "id": "TXC000212",
+  "created_at": "2015-02-13 01:55:10",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000211"
+  ],
+  "updated_at": "2015-02-13 01:55:10",
+  "parent_id": null,
+  "committee": "Appropriations - S/C on Articles VI, VII & VIII",
+  "subcommittee": null,
+  "members": [{
+    "name": "Giovanni Capriglione",
+    "role": "member",
+    "leg_id": "TXL000429"
+  }, {
+    "name": "Linda Koop",
+    "role": "member",
+    "leg_id": "TXL000491"
+  }, {
+    "name": "Cecil Bell, Jr.",
+    "role": "member",
+    "leg_id": "TXL000425"
+  }, {
+    "name": "Justin Rodriguez",
+    "role": "member",
+    "leg_id": "TXL000457"
+  }, {
+    "name": "Sergio Muñoz, Jr.",
+    "role": "vice chair",
+    "leg_id": "TXL000396"
+  }, {
+    "name": "Larry Gonzales",
+    "role": "chair",
+    "leg_id": "TXL000381"
+  }],
+  "id": "TXC000211",
+  "created_at": "2015-02-13 01:55:10",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000210"
+  ],
+  "updated_at": "2015-02-13 01:55:10",
+  "parent_id": null,
+  "committee": "Appropriations - S/C on Articles I, IV & V",
+  "subcommittee": null,
+  "members": [{
+    "name": "Rick Miller",
+    "role": "vice chair",
+    "leg_id": "TXL000449"
+  }, {
+    "name": "Bryan Hughes",
+    "role": "member",
+    "leg_id": "TXL000285"
+  }, {
+    "name": "Sylvester Turner",
+    "role": "chair",
+    "leg_id": "TXL000355"
+  }, {
+    "name": "Greg Bonnen",
+    "role": "member",
+    "leg_id": "TXL000426"
+  }, {
+    "name": "Ruth Jones McClendon",
+    "role": "member",
+    "leg_id": "TXL000310"
+  }, {
+    "name": "Borris L. Miles",
+    "role": "member",
+    "leg_id": "TXL000395"
+  }],
+  "id": "TXC000210",
+  "created_at": "2015-02-13 01:55:10",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000033"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Insurance",
+  "subcommittee": null,
+  "members": [{
+    "name": "Kenneth Sheets",
+    "role": "member",
+    "leg_id": "TXL000407"
+  }, {
+    "name": "R.D. \"Bobby\" Guerra",
+    "role": "member",
+    "leg_id": "TXL000439"
+  }, {
+    "name": "Dennis Paul",
+    "role": "member",
+    "leg_id": "TXL000484"
+  }, {
+    "name": "Morgan Meyer",
+    "role": "member",
+    "leg_id": "TXL000504"
+  }, {
+    "name": "Greg Bonnen",
+    "role": "member",
+    "leg_id": "TXL000426"
+  }, {
+    "name": "John Frullo",
+    "role": "chair",
+    "leg_id": "TXL000379"
+  }, {
+    "name": "Sergio Muñoz, Jr.",
+    "role": "vice chair",
+    "leg_id": "TXL000396"
+  }, {
+    "name": "Hubert Vo",
+    "role": "member",
+    "leg_id": "TXL000359"
+  }, {
+    "name": "Paul Workman",
+    "role": "member",
+    "leg_id": "TXL000411"
+  }],
+  "id": "TXC000033",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000005"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Redistricting",
+  "subcommittee": null,
+  "members": [{
+    "name": "Jim Keffer",
+    "role": "member",
+    "leg_id": "TXL000291"
+  }, {
+    "name": "Todd Hunter",
+    "role": "member",
+    "leg_id": "TXL000286"
+  }, {
+    "name": "Larry Gonzales",
+    "role": "member",
+    "leg_id": "TXL000381"
+  }, {
+    "name": "Joe Pickett",
+    "role": "member",
+    "leg_id": "TXL000331"
+  }, {
+    "name": "Rene Oliveira",
+    "role": "member",
+    "leg_id": "TXL000320"
+  }, {
+    "name": "Tan Parker",
+    "role": "member",
+    "leg_id": "TXL000325"
+  }, {
+    "name": "J. M. Lozano",
+    "role": "chair",
+    "leg_id": "TXL000391"
+  }, {
+    "name": "Senfronia Thompson",
+    "role": "member",
+    "leg_id": "TXL000352"
+  }, {
+    "name": "Yvonne Davis",
+    "role": "vice chair",
+    "leg_id": "TXL000244"
+  }],
+  "id": "TXC000005",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000015"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Human Services",
+  "subcommittee": null,
+  "members": [{
+    "name": "Elliott Naishtat",
+    "role": "member",
+    "leg_id": "TXL000319"
+  }, {
+    "name": "Stephanie Klick",
+    "role": "member",
+    "leg_id": "TXL000443"
+  }, {
+    "name": "Gilbert Peña",
+    "role": "member",
+    "leg_id": "TXL000498"
+  }, {
+    "name": "Mark Keough",
+    "role": "member",
+    "leg_id": "TXL000485"
+  }, {
+    "name": "Four Price",
+    "role": "member",
+    "leg_id": "TXL000402"
+  }, {
+    "name": "Stuart Spitzer",
+    "role": "member",
+    "leg_id": "TXL000483"
+  }, {
+    "name": "Toni Rose",
+    "role": "vice chair",
+    "leg_id": "TXL000458"
+  }, {
+    "name": "Susan King",
+    "role": "member",
+    "leg_id": "TXL000293"
+  }, {
+    "name": "Richard Peña Raymond",
+    "role": "chair",
+    "leg_id": "TXL000334"
+  }],
+  "id": "TXC000015",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000024"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Transportation",
+  "subcommittee": null,
+  "members": [{
+    "name": "Celia Israel",
+    "role": "member",
+    "leg_id": "TXL000475"
+  }, {
+    "name": "Ron Simmons",
+    "role": "member",
+    "leg_id": "TXL000462"
+  }, {
+    "name": "Andrew Murr",
+    "role": "member",
+    "leg_id": "TXL000480"
+  }, {
+    "name": "Chris Paddie",
+    "role": "member",
+    "leg_id": "TXL000454"
+  }, {
+    "name": "Ina Minjarez",
+    "role": "member",
+    "leg_id": "TXL000519"
+  }, {
+    "name": "Patricia Harless",
+    "role": "member",
+    "leg_id": "TXL000273"
+  }, {
+    "name": "Allen Fletcher",
+    "role": "member",
+    "leg_id": "TXL000258"
+  }, {
+    "name": "Cindy Burkett",
+    "role": "member",
+    "leg_id": "TXL000373"
+  }, {
+    "name": "Joe Pickett",
+    "role": "chair",
+    "leg_id": "TXL000331"
+  }, {
+    "name": "Armando Martinez",
+    "role": "vice chair",
+    "leg_id": "TXL000308"
+  }, {
+    "name": "Larry Phillips",
+    "role": "member",
+    "leg_id": "TXL000329"
+  }, {
+    "name": "Ruth Jones McClendon",
+    "role": "member",
+    "leg_id": "TXL000310"
+  }, {
+    "name": "Yvonne Davis",
+    "role": "member",
+    "leg_id": "TXL000244"
+  }],
+  "id": "TXC000024",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000060"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Licensing & Administrative Procedures",
+  "subcommittee": null,
+  "members": [{
+    "name": "Roland Gutierrez",
+    "role": "vice chair",
+    "leg_id": "TXL000269"
+  }, {
+    "name": "Ryan Guillen",
+    "role": "member",
+    "leg_id": "TXL000268"
+  }, {
+    "name": "Craig Goldman",
+    "role": "member",
+    "leg_id": "TXL000437"
+  }, {
+    "name": "Wayne Smith",
+    "role": "chair",
+    "leg_id": "TXL000342"
+  }, {
+    "name": "Charlie Geren",
+    "role": "member",
+    "leg_id": "TXL000264"
+  }, {
+    "name": "John Kuempel",
+    "role": "member",
+    "leg_id": "TXL000387"
+  }, {
+    "name": "Doug Miller",
+    "role": "member",
+    "leg_id": "TXL000315"
+  }, {
+    "name": "Senfronia Thompson",
+    "role": "member",
+    "leg_id": "TXL000352"
+  }, {
+    "name": "Borris L. Miles",
+    "role": "member",
+    "leg_id": "TXL000395"
+  }],
+  "id": "TXC000060",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000001"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Local & Consent Calendars",
+  "subcommittee": null,
+  "members": [{
+    "name": "Roland Gutierrez",
+    "role": "member",
+    "leg_id": "TXL000269"
+  }, {
+    "name": "Giovanni Capriglione",
+    "role": "member",
+    "leg_id": "TXL000429"
+  }, {
+    "name": "Travis Clardy",
+    "role": "vice chair",
+    "leg_id": "TXL000430"
+  }, {
+    "name": "Kenneth Sheets",
+    "role": "member",
+    "leg_id": "TXL000407"
+  }, {
+    "name": "Jason Isaac",
+    "role": "member",
+    "leg_id": "TXL000386"
+  }, {
+    "name": "Tony Dale",
+    "role": "member",
+    "leg_id": "TXL000433"
+  }, {
+    "name": "R.D. \"Bobby\" Guerra",
+    "role": "member",
+    "leg_id": "TXL000439"
+  }, {
+    "name": "Drew Springer, Jr.",
+    "role": "member",
+    "leg_id": "TXL000463"
+  }, {
+    "name": "Poncho Nevárez",
+    "role": "member",
+    "leg_id": "TXL000452"
+  }, {
+    "name": "Sergio Muñoz, Jr.",
+    "role": "member",
+    "leg_id": "TXL000396"
+  }, {
+    "name": "Cindy Burkett",
+    "role": "member",
+    "leg_id": "TXL000373"
+  }, {
+    "name": "Larry Gonzales",
+    "role": "member",
+    "leg_id": "TXL000381"
+  }, {
+    "name": "Senfronia Thompson",
+    "role": "chair",
+    "leg_id": "TXL000352"
+  }],
+  "id": "TXC000001",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000209"
+  ],
+  "updated_at": "2015-02-13 01:55:10",
+  "parent_id": null,
+  "committee": "Appropriations - S/C on Budget Transparency & Reform",
+  "subcommittee": null,
+  "members": [{
+    "name": "Linda Koop",
+    "role": "member",
+    "leg_id": "TXL000491"
+  }, {
+    "name": "Greg Bonnen",
+    "role": "member",
+    "leg_id": "TXL000426"
+  }, {
+    "name": "Sarah Davis",
+    "role": "chair",
+    "leg_id": "TXL000378"
+  }, {
+    "name": "Armando Walle",
+    "role": "member",
+    "leg_id": "TXL000360"
+  }, {
+    "name": "Marisa Marquez",
+    "role": "vice chair",
+    "leg_id": "TXL000307"
+  }],
+  "id": "TXC000209",
+  "created_at": "2015-02-13 01:55:10",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000018"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Public Health",
+  "subcommittee": null,
+  "members": [{
+    "name": "Elliott Naishtat",
+    "role": "vice chair",
+    "leg_id": "TXL000319"
+  }, {
+    "name": "Garnet Coleman",
+    "role": "member",
+    "leg_id": "TXL000235"
+  }, {
+    "name": "Rick Miller",
+    "role": "member",
+    "leg_id": "TXL000449"
+  }, {
+    "name": "Nicole Collier",
+    "role": "member",
+    "leg_id": "TXL000431"
+  }, {
+    "name": "R.D. \"Bobby\" Guerra",
+    "role": "member",
+    "leg_id": "TXL000439"
+  }, {
+    "name": "William Zedler",
+    "role": "member",
+    "leg_id": "TXL000412"
+  }, {
+    "name": "J.D. Sheffield",
+    "role": "member",
+    "leg_id": "TXL000461"
+  }, {
+    "name": "César José Blanco",
+    "role": "member",
+    "leg_id": "TXL000497"
+  }, {
+    "name": "Myra Crownover",
+    "role": "chair",
+    "leg_id": "TXL000241"
+  }, {
+    "name": "Sarah Davis",
+    "role": "member",
+    "leg_id": "TXL000378"
+  }, {
+    "name": "John Zerwas",
+    "role": "member",
+    "leg_id": "TXL000363"
+  }],
+  "id": "TXC000018",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000071"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "County Affairs",
+  "subcommittee": null,
+  "members": [{
+    "name": "Leighton Schubert",
+    "role": "member",
+    "leg_id": "TXL000515"
+  }, {
+    "name": "Dustin Burrows",
+    "role": "member",
+    "leg_id": "TXL000500"
+  }, {
+    "name": "Tony Tinderholt",
+    "role": "member",
+    "leg_id": "TXL000499"
+  }, {
+    "name": "Ramon Romero, Jr.",
+    "role": "member",
+    "leg_id": "TXL000509"
+  }, {
+    "name": "Garnet Coleman",
+    "role": "chair",
+    "leg_id": "TXL000235"
+  }, {
+    "name": "Gene Wu",
+    "role": "member",
+    "leg_id": "TXL000472"
+  }, {
+    "name": "Stuart Spitzer",
+    "role": "member",
+    "leg_id": "TXL000483"
+  }, {
+    "name": "Jonathan Stickland",
+    "role": "member",
+    "leg_id": "TXL000465"
+  }, {
+    "name": "Joe Farias",
+    "role": "vice chair",
+    "leg_id": "TXL000256"
+  }],
+  "id": "TXC000071",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000025"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Natural Resources",
+  "subcommittee": null,
+  "members": [{
+    "name": "DeWayne Burns",
+    "role": "member",
+    "leg_id": "TXL000507"
+  }, {
+    "name": "Trent Ashby",
+    "role": "vice chair",
+    "leg_id": "TXL000424"
+  }, {
+    "name": "Lyle Larson",
+    "role": "member",
+    "leg_id": "TXL000389"
+  }, {
+    "name": "Kyle Kacal",
+    "role": "member",
+    "leg_id": "TXL000441"
+  }, {
+    "name": "Poncho Nevárez",
+    "role": "member",
+    "leg_id": "TXL000452"
+  }, {
+    "name": "James Frank",
+    "role": "member",
+    "leg_id": "TXL000436"
+  }, {
+    "name": "Jim Keffer",
+    "role": "chair",
+    "leg_id": "TXL000291"
+  }, {
+    "name": "Eddie Lucio III",
+    "role": "member",
+    "leg_id": "TXL000303"
+  }, {
+    "name": "Dennis Bonnen",
+    "role": "member",
+    "leg_id": "TXL000223"
+  }, {
+    "name": "Tracy King",
+    "role": "member",
+    "leg_id": "TXL000294"
+  }, {
+    "name": "Paul Workman",
+    "role": "member",
+    "leg_id": "TXL000411"
+  }],
+  "id": "TXC000025",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000021"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Elections",
+  "subcommittee": null,
+  "members": [{
+    "name": "Celia Israel",
+    "role": "member",
+    "leg_id": "TXL000475"
+  }, {
+    "name": "Mike Schofield",
+    "role": "member",
+    "leg_id": "TXL000510"
+  }, {
+    "name": "Craig Goldman",
+    "role": "vice chair",
+    "leg_id": "TXL000437"
+  }, {
+    "name": "Ron Reynolds",
+    "role": "member",
+    "leg_id": "TXL000404"
+  }, {
+    "name": "Pat Fallon",
+    "role": "member",
+    "leg_id": "TXL000434"
+  }, {
+    "name": "Dade Phelan",
+    "role": "member",
+    "leg_id": "TXL000496"
+  }, {
+    "name": "Jodie Laubenberg",
+    "role": "chair",
+    "leg_id": "TXL000299"
+  }],
+  "id": "TXC000021",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000096"
+  ],
+  "updated_at": "2011-02-10 17:44:51",
+  "parent_id": null,
+  "committee": "Economic & Small Business Development",
+  "subcommittee": null,
+  "members": [{
+    "name": "Eric Johnson",
+    "role": "vice chair",
+    "leg_id": "TXL000289"
+  }, {
+    "name": "Jason Isaac",
+    "role": "member",
+    "leg_id": "TXL000386"
+  }, {
+    "name": "Eddie Rodriguez",
+    "role": "member",
+    "leg_id": "TXL000338"
+  }, {
+    "name": "Jason Villalba",
+    "role": "member",
+    "leg_id": "TXL000470"
+  }, {
+    "name": "Will Metcalf",
+    "role": "member",
+    "leg_id": "TXL000502"
+  }, {
+    "name": "Wayne Faircloth",
+    "role": "member",
+    "leg_id": "TXL000506"
+  }, {
+    "name": "Charles Anderson",
+    "role": "member",
+    "leg_id": "TXL000218"
+  }, {
+    "name": "Angie Chen Button",
+    "role": "chair",
+    "leg_id": "TXL000228"
+  }, {
+    "name": "Hubert Vo",
+    "role": "member",
+    "leg_id": "TXL000359"
+  }],
+  "id": "TXC000096",
+  "created_at": "2011-02-10 17:44:51",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000057"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Calendars",
+  "subcommittee": null,
+  "members": [{
+    "name": "Eric Johnson",
+    "role": "member",
+    "leg_id": "TXL000289"
+  }, {
+    "name": "Four Price",
+    "role": "member",
+    "leg_id": "TXL000402"
+  }, {
+    "name": "Lyle Larson",
+    "role": "member",
+    "leg_id": "TXL000389"
+  }, {
+    "name": "Eddie Rodriguez",
+    "role": "member",
+    "leg_id": "TXL000338"
+  }, {
+    "name": "Byron Cook",
+    "role": "member",
+    "leg_id": "TXL000236"
+  }, {
+    "name": "Dan Huberty",
+    "role": "member",
+    "leg_id": "TXL000385"
+  }, {
+    "name": "Ken King",
+    "role": "member",
+    "leg_id": "TXL000442"
+  }, {
+    "name": "Patricia Harless",
+    "role": "member",
+    "leg_id": "TXL000273"
+  }, {
+    "name": "Charlie Geren",
+    "role": "member",
+    "leg_id": "TXL000264"
+  }, {
+    "name": "Debbie Riddle",
+    "role": "member",
+    "leg_id": "TXL000335"
+  }, {
+    "name": "Helen Giddings",
+    "role": "member",
+    "leg_id": "TXL000265"
+  }, {
+    "name": "Todd Hunter",
+    "role": "chair",
+    "leg_id": "TXL000286"
+  }, {
+    "name": "Sarah Davis",
+    "role": "member",
+    "leg_id": "TXL000378"
+  }, {
+    "name": "Eddie Lucio III",
+    "role": "vice chair",
+    "leg_id": "TXL000303"
+  }, {
+    "name": "Roberto Alonzo",
+    "role": "member",
+    "leg_id": "TXL000215"
+  }],
+  "id": "TXC000057",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000019"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Criminal Jurisprudence",
+  "subcommittee": null,
+  "members": [{
+    "name": "Jeff Leach",
+    "role": "member",
+    "leg_id": "TXL000445"
+  }, {
+    "name": "David Simpson",
+    "role": "member",
+    "leg_id": "TXL000408"
+  }, {
+    "name": "Joseph Moody",
+    "role": "vice chair",
+    "leg_id": "TXL000317"
+  }, {
+    "name": "Terry Canales",
+    "role": "member",
+    "leg_id": "TXL000428"
+  }, {
+    "name": "Matt Shaheen",
+    "role": "member",
+    "leg_id": "TXL000495"
+  }, {
+    "name": "Todd Hunter",
+    "role": "member",
+    "leg_id": "TXL000286"
+  }, {
+    "name": "Abel Herrero",
+    "role": "chair",
+    "leg_id": "TXL000278"
+  }],
+  "id": "TXC000019",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000070"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "House Administration",
+  "subcommittee": null,
+  "members": [{
+    "name": "Trent Ashby",
+    "role": "member",
+    "leg_id": "TXL000424"
+  }, {
+    "name": "Chris Paddie",
+    "role": "member",
+    "leg_id": "TXL000454"
+  }, {
+    "name": "Ken King",
+    "role": "member",
+    "leg_id": "TXL000442"
+  }, {
+    "name": "Marsha Farney",
+    "role": "member",
+    "leg_id": "TXL000435"
+  }, {
+    "name": "John Raney",
+    "role": "member",
+    "leg_id": "TXL000415"
+  }, {
+    "name": "Charlie Geren",
+    "role": "chair",
+    "leg_id": "TXL000264"
+  }, {
+    "name": "Hubert Vo",
+    "role": "member",
+    "leg_id": "TXL000359"
+  }, {
+    "name": "Donna Howard",
+    "role": "member",
+    "leg_id": "TXL000283"
+  }, {
+    "name": "Roberto Alonzo",
+    "role": "member",
+    "leg_id": "TXL000215"
+  }, {
+    "name": "Marisa Marquez",
+    "role": "vice chair",
+    "leg_id": "TXL000307"
+  }, {
+    "name": "Alma Allen",
+    "role": "member",
+    "leg_id": "TXL000214"
+  }],
+  "id": "TXC000070",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000151"
+  ],
+  "updated_at": "2013-02-05 02:41:46",
+  "parent_id": null,
+  "committee": "Investments & Financial Services",
+  "subcommittee": null,
+  "members": [{
+    "name": "Giovanni Capriglione",
+    "role": "member",
+    "leg_id": "TXL000429"
+  }, {
+    "name": "Oscar Longoria",
+    "role": "vice chair",
+    "leg_id": "TXL000446"
+  }, {
+    "name": "Brooks Landgraf",
+    "role": "member",
+    "leg_id": "TXL000490"
+  }, {
+    "name": "Phil Stephenson",
+    "role": "member",
+    "leg_id": "TXL000464"
+  }, {
+    "name": "Joe Pickett",
+    "role": "member",
+    "leg_id": "TXL000331"
+  }, {
+    "name": "Tan Parker",
+    "role": "chair",
+    "leg_id": "TXL000325"
+  }, {
+    "name": "Dan Flynn",
+    "role": "member",
+    "leg_id": "TXL000260"
+  }],
+  "id": "TXC000151",
+  "created_at": "2013-02-05 02:41:46",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000098"
+  ],
+  "updated_at": "2011-02-10 17:44:51",
+  "parent_id": null,
+  "committee": "Agriculture & Livestock",
+  "subcommittee": null,
+  "members": [{
+    "name": "John Cyrier",
+    "role": "member",
+    "leg_id": "TXL000516"
+  }, {
+    "name": "Matt Rinaldi",
+    "role": "member",
+    "leg_id": "TXL000493"
+  }, {
+    "name": "David Simpson",
+    "role": "member",
+    "leg_id": "TXL000408"
+  }, {
+    "name": "Drew Springer, Jr.",
+    "role": "member",
+    "leg_id": "TXL000463"
+  }, {
+    "name": "Mary González",
+    "role": "member",
+    "leg_id": "TXL000438"
+  }, {
+    "name": "Charles Anderson",
+    "role": "vice chair",
+    "leg_id": "TXL000218"
+  }, {
+    "name": "Tracy King",
+    "role": "chair",
+    "leg_id": "TXL000294"
+  }],
+  "id": "TXC000098",
+  "created_at": "2011-02-10 17:44:51",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000058"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Defense & Veterans' Affairs",
+  "subcommittee": null,
+  "members": [{
+    "name": "James Frank",
+    "role": "vice chair",
+    "leg_id": "TXL000436"
+  }, {
+    "name": "Matt Schaefer",
+    "role": "member",
+    "leg_id": "TXL000460"
+  }, {
+    "name": "César José Blanco",
+    "role": "member",
+    "leg_id": "TXL000497"
+  }, {
+    "name": "Matt Shaheen",
+    "role": "member",
+    "leg_id": "TXL000495"
+  }, {
+    "name": "Joe Farias",
+    "role": "member",
+    "leg_id": "TXL000256"
+  }, {
+    "name": "Susan King",
+    "role": "chair",
+    "leg_id": "TXL000293"
+  }, {
+    "name": "Jimmie Don Aycock",
+    "role": "member",
+    "leg_id": "TXL000219"
+  }],
+  "id": "TXC000058",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000218"
+  ],
+  "updated_at": "2015-03-11 01:09:02",
+  "parent_id": null,
+  "committee": "Transportation-S/C on Long-term Infrastructure Planning",
+  "subcommittee": null,
+  "members": [{
+    "name": "Celia Israel",
+    "role": "member",
+    "leg_id": "TXL000475"
+  }, {
+    "name": "Ron Simmons",
+    "role": "chair",
+    "leg_id": "TXL000462"
+  }, {
+    "name": "Andrew Murr",
+    "role": "member",
+    "leg_id": "TXL000480"
+  }, {
+    "name": "Chris Paddie",
+    "role": "member",
+    "leg_id": "TXL000454"
+  }, {
+    "name": "Patricia Harless",
+    "role": "member",
+    "leg_id": "TXL000273"
+  }, {
+    "name": "Cindy Burkett",
+    "role": "member",
+    "leg_id": "TXL000373"
+  }, {
+    "name": "Yvonne Davis",
+    "role": "member",
+    "leg_id": "TXL000244"
+  }],
+  "id": "TXC000218",
+  "created_at": "2015-03-11 01:09:02",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000016"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Corrections",
+  "subcommittee": null,
+  "members": [{
+    "name": "Leighton Schubert",
+    "role": "member",
+    "leg_id": "TXL000515"
+  }, {
+    "name": "Tony Tinderholt",
+    "role": "member",
+    "leg_id": "TXL000499"
+  }, {
+    "name": "Matt Krause",
+    "role": "member",
+    "leg_id": "TXL000444"
+  }, {
+    "name": "Mark Keough",
+    "role": "member",
+    "leg_id": "TXL000485"
+  }, {
+    "name": "Jim Murphy",
+    "role": "chair",
+    "leg_id": "TXL000397"
+  }, {
+    "name": "James White",
+    "role": "vice chair",
+    "leg_id": "TXL000410"
+  }, {
+    "name": "Alma Allen",
+    "role": "member",
+    "leg_id": "TXL000214"
+  }],
+  "id": "TXC000016",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000219"
+  ],
+  "updated_at": "2015-03-12 21:39:17",
+  "parent_id": null,
+  "committee": "Investments & Financial Services-S/C on Bond Indebtedness",
+  "subcommittee": null,
+  "members": [{
+    "name": "Giovanni Capriglione",
+    "role": "chair",
+    "leg_id": "TXL000429"
+  }, {
+    "name": "Oscar Longoria",
+    "role": "member",
+    "leg_id": "TXL000446"
+  }, {
+    "name": "Brooks Landgraf",
+    "role": "member",
+    "leg_id": "TXL000490"
+  }, {
+    "name": "Phil Stephenson",
+    "role": "member",
+    "leg_id": "TXL000464"
+  }, {
+    "name": "Dan Flynn",
+    "role": "member",
+    "leg_id": "TXL000260"
+  }],
+  "id": "TXC000219",
+  "created_at": "2015-03-12 21:39:17",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000217"
+  ],
+  "updated_at": "2015-03-10 18:22:32",
+  "parent_id": null,
+  "committee": "Natural Resources-S/C on Special Water Districts",
+  "subcommittee": null,
+  "members": [{
+    "name": "DeWayne Burns",
+    "role": "member",
+    "leg_id": "TXL000507"
+  }, {
+    "name": "Lyle Larson",
+    "role": "chair",
+    "leg_id": "TXL000389"
+  }, {
+    "name": "Kyle Kacal",
+    "role": "member",
+    "leg_id": "TXL000441"
+  }, {
+    "name": "Poncho Nevárez",
+    "role": "member",
+    "leg_id": "TXL000452"
+  }, {
+    "name": "Tracy King",
+    "role": "member",
+    "leg_id": "TXL000294"
+  }],
+  "id": "TXC000217",
+  "created_at": "2015-03-10 18:22:32",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000095"
+  ],
+  "updated_at": "2011-02-10 17:44:51",
+  "parent_id": null,
+  "committee": "Homeland Security & Public Safety",
+  "subcommittee": null,
+  "members": [{
+    "name": "John Wray",
+    "role": "member",
+    "leg_id": "TXL000481"
+  }, {
+    "name": "DeWayne Burns",
+    "role": "member",
+    "leg_id": "TXL000507"
+  }, {
+    "name": "Eric Johnson",
+    "role": "member",
+    "leg_id": "TXL000289"
+  }, {
+    "name": "Joseph Moody",
+    "role": "member",
+    "leg_id": "TXL000317"
+  }, {
+    "name": "Tony Dale",
+    "role": "member",
+    "leg_id": "TXL000433"
+  }, {
+    "name": "Poncho Nevárez",
+    "role": "vice chair",
+    "leg_id": "TXL000452"
+  }, {
+    "name": "Will Metcalf",
+    "role": "member",
+    "leg_id": "TXL000502"
+  }, {
+    "name": "Molly White",
+    "role": "member",
+    "leg_id": "TXL000508"
+  }, {
+    "name": "Larry Phillips",
+    "role": "chair",
+    "leg_id": "TXL000329"
+  }],
+  "id": "TXC000095",
+  "created_at": "2011-02-10 17:44:51",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000003"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Judiciary & Civil Jurisprudence",
+  "subcommittee": null,
+  "members": [{
+    "name": "Mike Schofield",
+    "role": "member",
+    "leg_id": "TXL000510"
+  }, {
+    "name": "Travis Clardy",
+    "role": "member",
+    "leg_id": "TXL000430"
+  }, {
+    "name": "Kenneth Sheets",
+    "role": "member",
+    "leg_id": "TXL000407"
+  }, {
+    "name": "Ana Hernandez",
+    "role": "member",
+    "leg_id": "TXL000277"
+  }, {
+    "name": "Jessica Farrar",
+    "role": "vice chair",
+    "leg_id": "TXL000257"
+  }, {
+    "name": "Jodie Laubenberg",
+    "role": "member",
+    "leg_id": "TXL000299"
+  }, {
+    "name": "John Smithee",
+    "role": "chair",
+    "leg_id": "TXL000344"
+  }, {
+    "name": "Senfronia Thompson",
+    "role": "member",
+    "leg_id": "TXL000352"
+  }, {
+    "name": "Richard Peña Raymond",
+    "role": "member",
+    "leg_id": "TXL000334"
+  }],
+  "id": "TXC000003",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000082"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Appropriations",
+  "subcommittee": null,
+  "members": [{
+    "name": "Gary VanDeaver",
+    "role": "member",
+    "leg_id": "TXL000494"
+  }, {
+    "name": "Giovanni Capriglione",
+    "role": "member",
+    "leg_id": "TXL000429"
+  }, {
+    "name": "Trent Ashby",
+    "role": "member",
+    "leg_id": "TXL000424"
+  }, {
+    "name": "Rick Miller",
+    "role": "member",
+    "leg_id": "TXL000449"
+  }, {
+    "name": "Linda Koop",
+    "role": "member",
+    "leg_id": "TXL000491"
+  }, {
+    "name": "Four Price",
+    "role": "member",
+    "leg_id": "TXL000402"
+  }, {
+    "name": "Bryan Hughes",
+    "role": "member",
+    "leg_id": "TXL000285"
+  }, {
+    "name": "Sylvester Turner",
+    "role": "vice chair",
+    "leg_id": "TXL000355"
+  }, {
+    "name": "Oscar Longoria",
+    "role": "member",
+    "leg_id": "TXL000446"
+  }, {
+    "name": "Cecil Bell, Jr.",
+    "role": "member",
+    "leg_id": "TXL000425"
+  }, {
+    "name": "Justin Rodriguez",
+    "role": "member",
+    "leg_id": "TXL000457"
+  }, {
+    "name": "J.D. Sheffield",
+    "role": "member",
+    "leg_id": "TXL000461"
+  }, {
+    "name": "Dade Phelan",
+    "role": "member",
+    "leg_id": "TXL000496"
+  }, {
+    "name": "Greg Bonnen",
+    "role": "member",
+    "leg_id": "TXL000426"
+  }, {
+    "name": "Sergio Muñoz, Jr.",
+    "role": "member",
+    "leg_id": "TXL000396"
+  }, {
+    "name": "John Raney",
+    "role": "member",
+    "leg_id": "TXL000415"
+  }, {
+    "name": "Cindy Burkett",
+    "role": "member",
+    "leg_id": "TXL000373"
+  }, {
+    "name": "Helen Giddings",
+    "role": "member",
+    "leg_id": "TXL000265"
+  }, {
+    "name": "Dawnna Dukes",
+    "role": "member",
+    "leg_id": "TXL000247"
+  }, {
+    "name": "Larry Gonzales",
+    "role": "member",
+    "leg_id": "TXL000381"
+  }, {
+    "name": "Sarah Davis",
+    "role": "member",
+    "leg_id": "TXL000378"
+  }, {
+    "name": "Armando Walle",
+    "role": "member",
+    "leg_id": "TXL000360"
+  }, {
+    "name": "Donna Howard",
+    "role": "member",
+    "leg_id": "TXL000283"
+  }, {
+    "name": "John Otto",
+    "role": "chair",
+    "leg_id": "TXL000324"
+  }, {
+    "name": "Marisa Marquez",
+    "role": "member",
+    "leg_id": "TXL000307"
+  }, {
+    "name": "Ruth Jones McClendon",
+    "role": "member",
+    "leg_id": "TXL000310"
+  }, {
+    "name": "Borris L. Miles",
+    "role": "member",
+    "leg_id": "TXL000395"
+  }],
+  "id": "TXC000082",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000062"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Energy Resources",
+  "subcommittee": null,
+  "members": [{
+    "name": "Tony Dale",
+    "role": "member",
+    "leg_id": "TXL000433"
+  }, {
+    "name": "Chris Paddie",
+    "role": "vice chair",
+    "leg_id": "TXL000454"
+  }, {
+    "name": "Gene Wu",
+    "role": "member",
+    "leg_id": "TXL000472"
+  }, {
+    "name": "Terry Canales",
+    "role": "member",
+    "leg_id": "TXL000428"
+  }, {
+    "name": "Brooks Landgraf",
+    "role": "member",
+    "leg_id": "TXL000490"
+  }, {
+    "name": "Morgan Meyer",
+    "role": "member",
+    "leg_id": "TXL000504"
+  }, {
+    "name": "Phil King",
+    "role": "member",
+    "leg_id": "TXL000295"
+  }, {
+    "name": "Debbie Riddle",
+    "role": "member",
+    "leg_id": "TXL000335"
+  }, {
+    "name": "Jim Keffer",
+    "role": "member",
+    "leg_id": "TXL000291"
+  }, {
+    "name": "Abel Herrero",
+    "role": "member",
+    "leg_id": "TXL000278"
+  }, {
+    "name": "Tom Craddick",
+    "role": "member",
+    "leg_id": "TXL000239"
+  }, {
+    "name": "Rafael Anchia",
+    "role": "member",
+    "leg_id": "TXL000217"
+  }, {
+    "name": "Drew Darby",
+    "role": "chair",
+    "leg_id": "TXL000242"
+  }],
+  "id": "TXC000062",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000009"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Ways & Means",
+  "subcommittee": null,
+  "members": [{
+    "name": "John Wray",
+    "role": "member",
+    "leg_id": "TXL000481"
+  }, {
+    "name": "Dwayne Bohac",
+    "role": "member",
+    "leg_id": "TXL000221"
+  }, {
+    "name": "Drew Springer, Jr.",
+    "role": "member",
+    "leg_id": "TXL000463"
+  }, {
+    "name": "Chris Turner",
+    "role": "member",
+    "leg_id": "TXL000354"
+  }, {
+    "name": "Jim Murphy",
+    "role": "member",
+    "leg_id": "TXL000397"
+  }, {
+    "name": "Tan Parker",
+    "role": "member",
+    "leg_id": "TXL000325"
+  }, {
+    "name": "Angie Chen Button",
+    "role": "member",
+    "leg_id": "TXL000228"
+  }, {
+    "name": "Dennis Bonnen",
+    "role": "chair",
+    "leg_id": "TXL000223"
+  }, {
+    "name": "Drew Darby",
+    "role": "member",
+    "leg_id": "TXL000242"
+  }, {
+    "name": "Trey Martinez Fischer",
+    "role": "member",
+    "leg_id": "TXL000309"
+  }, {
+    "name": "Yvonne Davis",
+    "role": "vice chair",
+    "leg_id": "TXL000244"
+  }],
+  "id": "TXC000009",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000008"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Rules & Resolutions",
+  "subcommittee": null,
+  "members": [{
+    "name": "Andrew Murr",
+    "role": "member",
+    "leg_id": "TXL000480"
+  }, {
+    "name": "Kyle Kacal",
+    "role": "vice chair",
+    "leg_id": "TXL000441"
+  }, {
+    "name": "Cecil Bell, Jr.",
+    "role": "member",
+    "leg_id": "TXL000425"
+  }, {
+    "name": "Justin Rodriguez",
+    "role": "member",
+    "leg_id": "TXL000457"
+  }, {
+    "name": "J.D. Sheffield",
+    "role": "member",
+    "leg_id": "TXL000461"
+  }, {
+    "name": "César José Blanco",
+    "role": "member",
+    "leg_id": "TXL000497"
+  }, {
+    "name": "Wayne Faircloth",
+    "role": "member",
+    "leg_id": "TXL000506"
+  }, {
+    "name": "Carol Alvarado",
+    "role": "member",
+    "leg_id": "TXL000216"
+  }, {
+    "name": "Toni Rose",
+    "role": "member",
+    "leg_id": "TXL000458"
+  }, {
+    "name": "Angie Chen Button",
+    "role": "member",
+    "leg_id": "TXL000228"
+  }, {
+    "name": "Ruth Jones McClendon",
+    "role": "chair",
+    "leg_id": "TXL000310"
+  }],
+  "id": "TXC000008",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000027"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Public Education",
+  "subcommittee": null,
+  "members": [{
+    "name": "Gary VanDeaver",
+    "role": "member",
+    "leg_id": "TXL000494"
+  }, {
+    "name": "Dwayne Bohac",
+    "role": "member",
+    "leg_id": "TXL000221"
+  }, {
+    "name": "Dan Huberty",
+    "role": "member",
+    "leg_id": "TXL000385"
+  }, {
+    "name": "Harold Dutton Jr.",
+    "role": "member",
+    "leg_id": "TXL000249"
+  }, {
+    "name": "Mary González",
+    "role": "member",
+    "leg_id": "TXL000438"
+  }, {
+    "name": "Rick Galindo",
+    "role": "member",
+    "leg_id": "TXL000492"
+  }, {
+    "name": "Ken King",
+    "role": "member",
+    "leg_id": "TXL000442"
+  }, {
+    "name": "Marsha Farney",
+    "role": "member",
+    "leg_id": "TXL000435"
+  }, {
+    "name": "Alma Allen",
+    "role": "vice chair",
+    "leg_id": "TXL000214"
+  }, {
+    "name": "Joe Deshotel",
+    "role": "member",
+    "leg_id": "TXL000245"
+  }, {
+    "name": "Jimmie Don Aycock",
+    "role": "chair",
+    "leg_id": "TXL000219"
+  }],
+  "id": "TXC000027",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "lower"
+}, {
+  "all_ids": [
+    "TXC000213"
+  ],
+  "updated_at": "2015-02-19 02:09:39",
+  "parent_id": null,
+  "committee": "Government Facilities, Select",
+  "subcommittee": null,
+  "members": [{
+    "name": "Kevin Eltife",
+    "role": "chair",
+    "leg_id": "TXL000189"
+  }, {
+    "name": "Kelly Hancock",
+    "role": "member",
+    "leg_id": "TXL000271"
+  }, {
+    "name": "Kirk Watson",
+    "role": "member",
+    "leg_id": "TXL000208"
+  }, {
+    "name": "John Whitmire",
+    "role": "member",
+    "leg_id": "TXL000211"
+  }, {
+    "name": "Kel Seliger",
+    "role": "member",
+    "leg_id": "TXL000203"
+  }],
+  "id": "TXC000213",
+  "created_at": "2015-02-19 02:09:39",
+  "chamber": "upper"
+}, {
+  "all_ids": [
+    "TXC000046"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Intergovernmental Relations",
+  "subcommittee": null,
+  "members": [{
+    "name": "Paul Bettencourt",
+    "role": "vice chair",
+    "leg_id": "TXL000482"
+  }, {
+    "name": "Donna Campbell",
+    "role": "member",
+    "leg_id": "TXL000419"
+  }, {
+    "name": "Sylvia Garcia",
+    "role": "member",
+    "leg_id": "TXL000473"
+  }, {
+    "name": "Jose Menendez",
+    "role": "member",
+    "leg_id": "TXL000312"
+  }, {
+    "name": "Eddie Lucio Jr.",
+    "role": "chair",
+    "leg_id": "TXL000198"
+  }, {
+    "name": "Robert Nichols",
+    "role": "member",
+    "leg_id": "TXL000200"
+  }, {
+    "name": "Larry Taylor",
+    "role": "member",
+    "leg_id": "TXL000349"
+  }],
+  "id": "TXC000046",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "upper"
+}, {
+  "all_ids": [
+    "TXC000029"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Higher Education",
+  "subcommittee": null,
+  "members": [{
+    "name": "Paul Bettencourt",
+    "role": "member",
+    "leg_id": "TXL000482"
+  }, {
+    "name": "Charles Perry",
+    "role": "member",
+    "leg_id": "TXL000400"
+  }, {
+    "name": "Jose Menendez",
+    "role": "member",
+    "leg_id": "TXL000312"
+  }, {
+    "name": "Royce West",
+    "role": "vice chair",
+    "leg_id": "TXL000210"
+  }, {
+    "name": "Kirk Watson",
+    "role": "member",
+    "leg_id": "TXL000208"
+  }, {
+    "name": "Kel Seliger",
+    "role": "chair",
+    "leg_id": "TXL000203"
+  }, {
+    "name": "Konni Burton",
+    "role": "member",
+    "leg_id": "TXL000487"
+  }],
+  "id": "TXC000029",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "upper"
+}, {
+  "all_ids": [
+    "TXC000042"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Finance",
+  "subcommittee": null,
+  "members": [{
+    "name": "Paul Bettencourt",
+    "role": "member",
+    "leg_id": "TXL000482"
+  }, {
+    "name": "Robert Nichols",
+    "role": "member",
+    "leg_id": "TXL000200"
+  }, {
+    "name": "Carlos Uresti",
+    "role": "member",
+    "leg_id": "TXL000206"
+  }, {
+    "name": "Kevin Eltife",
+    "role": "member",
+    "leg_id": "TXL000189"
+  }, {
+    "name": "Jane Nelson",
+    "role": "chair",
+    "leg_id": "TXL000199"
+  }, {
+    "name": "Lois Kolkhorst",
+    "role": "member",
+    "leg_id": "TXL000297"
+  }, {
+    "name": "Royce West",
+    "role": "member",
+    "leg_id": "TXL000210"
+  }, {
+    "name": "Kelly Hancock",
+    "role": "member",
+    "leg_id": "TXL000271"
+  }, {
+    "name": "Kirk Watson",
+    "role": "member",
+    "leg_id": "TXL000208"
+  }, {
+    "name": "John Whitmire",
+    "role": "member",
+    "leg_id": "TXL000211"
+  }, {
+    "name": "Kel Seliger",
+    "role": "member",
+    "leg_id": "TXL000203"
+  }, {
+    "name": "Joan Huffman",
+    "role": "member",
+    "leg_id": "TXL000196"
+  }, {
+    "name": "Larry Taylor",
+    "role": "member",
+    "leg_id": "TXL000349"
+  }, {
+    "name": "Charles Schwertner",
+    "role": "member",
+    "leg_id": "TXL000405"
+  }, {
+    "name": "Juan Hinojosa",
+    "role": "vice chair",
+    "leg_id": "TXL000195"
+  }],
+  "id": "TXC000042",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "upper"
+}, {
+  "all_ids": [
+    "TXC000201"
+  ],
+  "updated_at": "2015-02-02 20:40:25",
+  "parent_id": null,
+  "committee": "Agriculture, Water & Rural Affairs",
+  "subcommittee": null,
+  "members": [{
+    "name": "Bob Hall",
+    "role": "member",
+    "leg_id": "TXL000503"
+  }, {
+    "name": "Charles Perry",
+    "role": "chair",
+    "leg_id": "TXL000400"
+  }, {
+    "name": "Judith Zaffirini",
+    "role": "vice chair",
+    "leg_id": "TXL000213"
+  }, {
+    "name": "Lois Kolkhorst",
+    "role": "member",
+    "leg_id": "TXL000297"
+  }, {
+    "name": "Jose Rodriguez",
+    "role": "member",
+    "leg_id": "TXL000414"
+  }, {
+    "name": "Juan Hinojosa",
+    "role": "member",
+    "leg_id": "TXL000195"
+  }, {
+    "name": "Brandon Creighton",
+    "role": "member",
+    "leg_id": "TXL000240"
+  }],
+  "id": "TXC000201",
+  "created_at": "2015-02-02 20:40:25",
+  "chamber": "upper"
+}, {
+  "all_ids": [
+    "TXC000051"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Criminal Justice",
+  "subcommittee": null,
+  "members": [{
+    "name": "Charles Perry",
+    "role": "member",
+    "leg_id": "TXL000400"
+  }, {
+    "name": "Jose Menendez",
+    "role": "member",
+    "leg_id": "TXL000312"
+  }, {
+    "name": "John Whitmire",
+    "role": "chair",
+    "leg_id": "TXL000211"
+  }, {
+    "name": "Joan Huffman",
+    "role": "vice chair",
+    "leg_id": "TXL000196"
+  }, {
+    "name": "Juan Hinojosa",
+    "role": "member",
+    "leg_id": "TXL000195"
+  }, {
+    "name": "Brandon Creighton",
+    "role": "member",
+    "leg_id": "TXL000240"
+  }, {
+    "name": "Konni Burton",
+    "role": "member",
+    "leg_id": "TXL000487"
+  }],
+  "id": "TXC000051",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "upper"
+}, {
+  "all_ids": [
+    "TXC000103"
+  ],
+  "updated_at": "2011-02-10 17:44:52",
+  "parent_id": null,
+  "committee": "Administration",
+  "subcommittee": null,
+  "members": [{
+    "name": "Don Huffines",
+    "role": "member",
+    "leg_id": "TXL000479"
+  }, {
+    "name": "Donna Campbell",
+    "role": "member",
+    "leg_id": "TXL000419"
+  }, {
+    "name": "Carlos Uresti",
+    "role": "vice chair",
+    "leg_id": "TXL000206"
+  }, {
+    "name": "Kevin Eltife",
+    "role": "member",
+    "leg_id": "TXL000189"
+  }, {
+    "name": "Royce West",
+    "role": "member",
+    "leg_id": "TXL000210"
+  }, {
+    "name": "Kelly Hancock",
+    "role": "chair",
+    "leg_id": "TXL000271"
+  }, {
+    "name": "Charles Schwertner",
+    "role": "member",
+    "leg_id": "TXL000405"
+  }],
+  "id": "TXC000103",
+  "created_at": "2011-02-10 17:44:52",
+  "chamber": "upper"
+}, {
+  "all_ids": [
+    "TXC000203"
+  ],
+  "updated_at": "2015-02-02 20:40:25",
+  "parent_id": null,
+  "committee": "Veteran Affairs & Military Installations-S/C Border Security",
+  "subcommittee": null,
+  "members": [{
+    "name": "Bob Hall",
+    "role": "vice chair",
+    "leg_id": "TXL000503"
+  }, {
+    "name": "Eddie Lucio Jr.",
+    "role": "member",
+    "leg_id": "TXL000198"
+  }, {
+    "name": "Brian Birdwell",
+    "role": "chair",
+    "leg_id": "TXL000364"
+  }],
+  "id": "TXC000203",
+  "created_at": "2015-02-02 20:40:25",
+  "chamber": "upper"
+}, {
+  "all_ids": [
+    "TXC000202"
+  ],
+  "updated_at": "2015-02-02 20:40:25",
+  "parent_id": null,
+  "committee": "Natural Resources & Economic Development",
+  "subcommittee": null,
+  "members": [{
+    "name": "Bob Hall",
+    "role": "member",
+    "leg_id": "TXL000503"
+  }, {
+    "name": "Eddie Lucio Jr.",
+    "role": "member",
+    "leg_id": "TXL000198"
+  }, {
+    "name": "Robert Nichols",
+    "role": "member",
+    "leg_id": "TXL000200"
+  }, {
+    "name": "Carlos Uresti",
+    "role": "member",
+    "leg_id": "TXL000206"
+  }, {
+    "name": "Judith Zaffirini",
+    "role": "member",
+    "leg_id": "TXL000213"
+  }, {
+    "name": "Kelly Hancock",
+    "role": "member",
+    "leg_id": "TXL000271"
+  }, {
+    "name": "Troy Fraser",
+    "role": "chair",
+    "leg_id": "TXL000191"
+  }, {
+    "name": "Craig Estes",
+    "role": "vice chair",
+    "leg_id": "TXL000190"
+  }, {
+    "name": "Kel Seliger",
+    "role": "member",
+    "leg_id": "TXL000203"
+  }, {
+    "name": "Brian Birdwell",
+    "role": "member",
+    "leg_id": "TXL000364"
+  }, {
+    "name": "Juan Hinojosa",
+    "role": "member",
+    "leg_id": "TXL000195"
+  }],
+  "id": "TXC000202",
+  "created_at": "2015-02-02 20:40:25",
+  "chamber": "upper"
+}, {
+  "all_ids": [
+    "TXC000044"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Nominations",
+  "subcommittee": null,
+  "members": [{
+    "name": "Van Taylor",
+    "role": "vice chair",
+    "leg_id": "TXL000350"
+  }, {
+    "name": "Kirk Watson",
+    "role": "member",
+    "leg_id": "TXL000208"
+  }, {
+    "name": "Troy Fraser",
+    "role": "member",
+    "leg_id": "TXL000191"
+  }, {
+    "name": "Craig Estes",
+    "role": "member",
+    "leg_id": "TXL000190"
+  }, {
+    "name": "Jose Rodriguez",
+    "role": "member",
+    "leg_id": "TXL000414"
+  }, {
+    "name": "Brian Birdwell",
+    "role": "chair",
+    "leg_id": "TXL000364"
+  }, {
+    "name": "Konni Burton",
+    "role": "member",
+    "leg_id": "TXL000487"
+  }],
+  "id": "TXC000044",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "upper"
+}, {
+  "all_ids": [
+    "TXC000030"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Veteran Affairs & Military Installations",
+  "subcommittee": null,
+  "members": [{
+    "name": "Bob Hall",
+    "role": "member",
+    "leg_id": "TXL000503"
+  }, {
+    "name": "Donna Campbell",
+    "role": "chair",
+    "leg_id": "TXL000419"
+  }, {
+    "name": "Sylvia Garcia",
+    "role": "member",
+    "leg_id": "TXL000473"
+  }, {
+    "name": "Eddie Lucio Jr.",
+    "role": "member",
+    "leg_id": "TXL000198"
+  }, {
+    "name": "Jose Rodriguez",
+    "role": "member",
+    "leg_id": "TXL000414"
+  }, {
+    "name": "Brian Birdwell",
+    "role": "member",
+    "leg_id": "TXL000364"
+  }, {
+    "name": "Konni Burton",
+    "role": "vice chair",
+    "leg_id": "TXL000487"
+  }],
+  "id": "TXC000030",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "upper"
+}, {
+  "all_ids": [
+    "TXC000036"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Education",
+  "subcommittee": null,
+  "members": [{
+    "name": "Paul Bettencourt",
+    "role": "member",
+    "leg_id": "TXL000482"
+  }, {
+    "name": "Don Huffines",
+    "role": "member",
+    "leg_id": "TXL000479"
+  }, {
+    "name": "Donna Campbell",
+    "role": "member",
+    "leg_id": "TXL000419"
+  }, {
+    "name": "Sylvia Garcia",
+    "role": "member",
+    "leg_id": "TXL000473"
+  }, {
+    "name": "Van Taylor",
+    "role": "member",
+    "leg_id": "TXL000350"
+  }, {
+    "name": "Eddie Lucio Jr.",
+    "role": "vice chair",
+    "leg_id": "TXL000198"
+  }, {
+    "name": "Lois Kolkhorst",
+    "role": "member",
+    "leg_id": "TXL000297"
+  }, {
+    "name": "Royce West",
+    "role": "member",
+    "leg_id": "TXL000210"
+  }, {
+    "name": "Kel Seliger",
+    "role": "member",
+    "leg_id": "TXL000203"
+  }, {
+    "name": "Jose Rodriguez",
+    "role": "member",
+    "leg_id": "TXL000414"
+  }, {
+    "name": "Larry Taylor",
+    "role": "chair",
+    "leg_id": "TXL000349"
+  }],
+  "id": "TXC000036",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "upper"
+}, {
+  "all_ids": [
+    "TXC000142"
+  ],
+  "updated_at": "2012-10-09 02:03:30",
+  "parent_id": null,
+  "committee": "Transportation",
+  "subcommittee": null,
+  "members": [{
+    "name": "Bob Hall",
+    "role": "member",
+    "leg_id": "TXL000503"
+  }, {
+    "name": "Don Huffines",
+    "role": "vice chair",
+    "leg_id": "TXL000479"
+  }, {
+    "name": "Rodney Ellis",
+    "role": "member",
+    "leg_id": "TXL000188"
+  }, {
+    "name": "Sylvia Garcia",
+    "role": "member",
+    "leg_id": "TXL000473"
+  }, {
+    "name": "Van Taylor",
+    "role": "member",
+    "leg_id": "TXL000350"
+  }, {
+    "name": "Robert Nichols",
+    "role": "chair",
+    "leg_id": "TXL000200"
+  }, {
+    "name": "Lois Kolkhorst",
+    "role": "member",
+    "leg_id": "TXL000297"
+  }, {
+    "name": "Kelly Hancock",
+    "role": "member",
+    "leg_id": "TXL000271"
+  }, {
+    "name": "Troy Fraser",
+    "role": "member",
+    "leg_id": "TXL000191"
+  }],
+  "id": "TXC000142",
+  "created_at": "2012-10-09 02:03:30",
+  "chamber": "upper"
+}, {
+  "all_ids": [
+    "TXC000039"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Business & Commerce",
+  "subcommittee": null,
+  "members": [{
+    "name": "Don Huffines",
+    "role": "member",
+    "leg_id": "TXL000479"
+  }, {
+    "name": "Rodney Ellis",
+    "role": "member",
+    "leg_id": "TXL000188"
+  }, {
+    "name": "Kevin Eltife",
+    "role": "chair",
+    "leg_id": "TXL000189"
+  }, {
+    "name": "Kirk Watson",
+    "role": "member",
+    "leg_id": "TXL000208"
+  }, {
+    "name": "John Whitmire",
+    "role": "member",
+    "leg_id": "TXL000211"
+  }, {
+    "name": "Kel Seliger",
+    "role": "member",
+    "leg_id": "TXL000203"
+  }, {
+    "name": "Larry Taylor",
+    "role": "member",
+    "leg_id": "TXL000349"
+  }, {
+    "name": "Charles Schwertner",
+    "role": "member",
+    "leg_id": "TXL000405"
+  }, {
+    "name": "Brandon Creighton",
+    "role": "vice chair",
+    "leg_id": "TXL000240"
+  }],
+  "id": "TXC000039",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "upper"
+}, {
+  "all_ids": [
+    "TXC000049"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "State Affairs",
+  "subcommittee": null,
+  "members": [{
+    "name": "Rodney Ellis",
+    "role": "vice chair",
+    "leg_id": "TXL000188"
+  }, {
+    "name": "Judith Zaffirini",
+    "role": "member",
+    "leg_id": "TXL000213"
+  }, {
+    "name": "Jane Nelson",
+    "role": "member",
+    "leg_id": "TXL000199"
+  }, {
+    "name": "Troy Fraser",
+    "role": "member",
+    "leg_id": "TXL000191"
+  }, {
+    "name": "Craig Estes",
+    "role": "member",
+    "leg_id": "TXL000190"
+  }, {
+    "name": "Joan Huffman",
+    "role": "chair",
+    "leg_id": "TXL000196"
+  }, {
+    "name": "Brian Birdwell",
+    "role": "member",
+    "leg_id": "TXL000364"
+  }, {
+    "name": "Charles Schwertner",
+    "role": "member",
+    "leg_id": "TXL000405"
+  }, {
+    "name": "Brandon Creighton",
+    "role": "member",
+    "leg_id": "TXL000240"
+  }],
+  "id": "TXC000049",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "upper"
+}, {
+  "all_ids": [
+    "TXC000050"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Health & Human Services",
+  "subcommittee": null,
+  "members": [{
+    "name": "Donna Campbell",
+    "role": "member",
+    "leg_id": "TXL000419"
+  }, {
+    "name": "Charles Perry",
+    "role": "member",
+    "leg_id": "TXL000400"
+  }, {
+    "name": "Van Taylor",
+    "role": "member",
+    "leg_id": "TXL000350"
+  }, {
+    "name": "Carlos Uresti",
+    "role": "member",
+    "leg_id": "TXL000206"
+  }, {
+    "name": "Judith Zaffirini",
+    "role": "member",
+    "leg_id": "TXL000213"
+  }, {
+    "name": "Lois Kolkhorst",
+    "role": "vice chair",
+    "leg_id": "TXL000297"
+  }, {
+    "name": "Craig Estes",
+    "role": "member",
+    "leg_id": "TXL000190"
+  }, {
+    "name": "Jose Rodriguez",
+    "role": "member",
+    "leg_id": "TXL000414"
+  }, {
+    "name": "Charles Schwertner",
+    "role": "chair",
+    "leg_id": "TXL000405"
+  }],
+  "id": "TXC000050",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "upper"
+}, {
+  "all_ids": [
+    "TXC000040"
+  ],
+  "updated_at": "2011-05-19 17:41:34",
+  "parent_id": null,
+  "committee": "Committee of the Whole Senate",
+  "subcommittee": null,
+  "members": [{
+    "name": "Dan Patrick",
+    "role": "member",
+    "leg_id": "TXL000202"
+  }, {
+    "name": "Paul Bettencourt",
+    "role": "member",
+    "leg_id": "TXL000482"
+  }, {
+    "name": "Bob Hall",
+    "role": "member",
+    "leg_id": "TXL000503"
+  }, {
+    "name": "Don Huffines",
+    "role": "member",
+    "leg_id": "TXL000479"
+  }, {
+    "name": "Rodney Ellis",
+    "role": "member",
+    "leg_id": "TXL000188"
+  }, {
+    "name": "Donna Campbell",
+    "role": "member",
+    "leg_id": "TXL000419"
+  }, {
+    "name": "Charles Perry",
+    "role": "member",
+    "leg_id": "TXL000400"
+  }, {
+    "name": "Sylvia Garcia",
+    "role": "member",
+    "leg_id": "TXL000473"
+  }, {
+    "name": "Van Taylor",
+    "role": "member",
+    "leg_id": "TXL000350"
+  }, {
+    "name": "Jose Menendez",
+    "role": "member",
+    "leg_id": "TXL000312"
+  }, {
+    "name": "Eddie Lucio Jr.",
+    "role": "member",
+    "leg_id": "TXL000198"
+  }, {
+    "name": "Robert Nichols",
+    "role": "member",
+    "leg_id": "TXL000200"
+  }, {
+    "name": "Carlos Uresti",
+    "role": "member",
+    "leg_id": "TXL000206"
+  }, {
+    "name": "Kevin Eltife",
+    "role": "member",
+    "leg_id": "TXL000189"
+  }, {
+    "name": "Judith Zaffirini",
+    "role": "member",
+    "leg_id": "TXL000213"
+  }, {
+    "name": "Jane Nelson",
+    "role": "member",
+    "leg_id": "TXL000199"
+  }, {
+    "name": "Lois Kolkhorst",
+    "role": "member",
+    "leg_id": "TXL000297"
+  }, {
+    "name": "Royce West",
+    "role": "member",
+    "leg_id": "TXL000210"
+  }, {
+    "name": "Kelly Hancock",
+    "role": "member",
+    "leg_id": "TXL000271"
+  }, {
+    "name": "Kirk Watson",
+    "role": "member",
+    "leg_id": "TXL000208"
+  }, {
+    "name": "Troy Fraser",
+    "role": "member",
+    "leg_id": "TXL000191"
+  }, {
+    "name": "Craig Estes",
+    "role": "member",
+    "leg_id": "TXL000190"
+  }, {
+    "name": "John Whitmire",
+    "role": "member",
+    "leg_id": "TXL000211"
+  }, {
+    "name": "Kel Seliger",
+    "role": "member",
+    "leg_id": "TXL000203"
+  }, {
+    "name": "Jose Rodriguez",
+    "role": "member",
+    "leg_id": "TXL000414"
+  }, {
+    "name": "Joan Huffman",
+    "role": "member",
+    "leg_id": "TXL000196"
+  }, {
+    "name": "Brian Birdwell",
+    "role": "member",
+    "leg_id": "TXL000364"
+  }, {
+    "name": "Larry Taylor",
+    "role": "member",
+    "leg_id": "TXL000349"
+  }, {
+    "name": "Charles Schwertner",
+    "role": "member",
+    "leg_id": "TXL000405"
+  }, {
+    "name": "Juan Hinojosa",
+    "role": "member",
+    "leg_id": "TXL000195"
+  }, {
+    "name": "Brandon Creighton",
+    "role": "member",
+    "leg_id": "TXL000240"
+  }, {
+    "name": "Konni Burton",
+    "role": "member",
+    "leg_id": "TXL000487"
+  }],
+  "id": "TXC000040",
+  "created_at": "2010-11-29 00:00:00",
+  "chamber": "upper"
+}]

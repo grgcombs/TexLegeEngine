@@ -1,0 +1,6301 @@
+[{
+  "staff_id": "5359",
+  "leg_id": "TXL000188",
+  "email": "brandon.dudley@senate.state.tx.us",
+  "name": "Brandon Dudley",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5360",
+  "leg_id": "TXL000188",
+  "email": "david.edmanson@senate.state.tx.us",
+  "name": "David Edmanson",
+  "title": "Dep. Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5361",
+  "leg_id": "TXL000188",
+  "email": "sylvia.camarillo@senate.state.tx.us",
+  "name": "Sylvia Camarillo",
+  "title": "Executive Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5362",
+  "leg_id": "TXL000188",
+  "email": "jeremy.brown@senate.state.tx.us",
+  "name": "Jeremy Brown",
+  "title": "Legal Counsel",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5363",
+  "leg_id": "TXL000188",
+  "email": "jessica.schleifer@senate.state.tx.us",
+  "name": "Jessica Schleifer",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5364",
+  "leg_id": "TXL000188",
+  "email": "anthony.schuggins@senate.state.tx.us",
+  "name": "Anthony Schuggins",
+  "title": "Special Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5532",
+  "leg_id": "TXL000189",
+  "email": "cheryl.vanek@senate.state.tx.us",
+  "name": "Cheryl Vanek",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5533",
+  "leg_id": "TXL000189",
+  "email": "connie.hernandez@senate.state.tx.us",
+  "name": "Connie Hernandez",
+  "title": "Executive Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5534",
+  "leg_id": "TXL000189",
+  "email": "joseph.seeber@senate.state.tx.us",
+  "name": "Joseph Seeber",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5535",
+  "leg_id": "TXL000189",
+  "email": "jw.galloway@senate.state.tx.us",
+  "name": "J.W. Galloway",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5536",
+  "leg_id": "TXL000189",
+  "email": "ryan.weiseman@senate.state.tx.us",
+  "name": "Ryan Weiseman",
+  "title": "Sr. Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5568",
+  "leg_id": "TXL000190",
+  "email": "noe.barrios@senate.state.tx.us",
+  "name": "Noe F. Barrios",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5569",
+  "leg_id": "TXL000190",
+  "email": "detta.haffelder@senate.state.tx.us",
+  "name": "Detta Haffelder",
+  "title": "Executive Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5570",
+  "leg_id": "TXL000190",
+  "email": "john.bennett@senate.state.tx.us",
+  "name": "John H. H. Bennett",
+  "title": "General Counsel",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5571",
+  "leg_id": "TXL000190",
+  "email": "mark.mchargue@senate.state.tx.us",
+  "name": "Mark Mchargue",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5573",
+  "leg_id": "TXL000190",
+  "email": "shreya.banerjee@senate.state.tx.us",
+  "name": "Shreya Banerjee",
+  "title": "Legislative Scholar",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5572",
+  "leg_id": "TXL000190",
+  "email": "katrina.smith@senate.state.tx.us",
+  "name": "Katrina Smith",
+  "title": "Legislative Scholar",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5574",
+  "leg_id": "TXL000190",
+  "email": "nicole.lancaster@senate.state.tx.us",
+  "name": "Nicole Lancaster",
+  "title": "Media/Legis. Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5575",
+  "leg_id": "TXL000190",
+  "email": "katherine.metcalf@senate.state.tx.us",
+  "name": "Katherine Metcalf",
+  "title": "Scheduler/Legis. Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5491",
+  "leg_id": "TXL000191",
+  "email": "ross.leake@senate.state.tx.us",
+  "name": "Ross Leake",
+  "title": "Admin. Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5492",
+  "leg_id": "TXL000191",
+  "email": "terri.mathis@senate.state.tx.us",
+  "name": "Terri Mathis",
+  "title": "Chief Of Staff/Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5493",
+  "leg_id": "TXL000191",
+  "email": "will.mcadams@senate.state.tx.us",
+  "name": "Will Mcadams",
+  "title": "Legis./Media Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5494",
+  "leg_id": "TXL000191",
+  "email": "ross.johnson@senate.state.tx.us",
+  "name": "Ross Johnson",
+  "title": "Legislative Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5496",
+  "leg_id": "TXL000191",
+  "email": "taylor.horne@senate.state.tx.us",
+  "name": "Taylor Horne",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5495",
+  "leg_id": "TXL000191",
+  "email": "matt.alexander@senate.state.tx.us",
+  "name": "Matt Alexander",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5507",
+  "leg_id": "TXL000195",
+  "email": "luis.moreno@senate.state.tx.us",
+  "name": "Luis Moreno",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5508",
+  "leg_id": "TXL000195",
+  "email": "jennifer.saenz@senate.state.tx.us",
+  "name": "Jennifer Saenz",
+  "title": "Dep. Chief Of Staff/Gen. Counsel",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5509",
+  "leg_id": "TXL000195",
+  "email": "jennifer.salazar@senate.state.tx.us",
+  "name": "Jennifer Salazar",
+  "title": "Executive Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5512",
+  "leg_id": "TXL000195",
+  "email": "rudy.delgado@senate.state.tx.us",
+  "name": "Rudy Delgado",
+  "title": "Legislative Asst.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5511",
+  "leg_id": "TXL000195",
+  "email": "marcos.bustamante@senate.state.tx.us",
+  "name": "Marcos Bustamante",
+  "title": "Legislative Asst.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5510",
+  "leg_id": "TXL000195",
+  "email": "larissa.garcia@senate.state.tx.us",
+  "name": "Larissa Garcia",
+  "title": "Legislative Asst.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5513",
+  "leg_id": "TXL000195",
+  "email": "josh.reyna@senate.state.tx.us",
+  "name": "Josh Reyna",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5514",
+  "leg_id": "TXL000195",
+  "email": "desiree.castro@senate.state.tx.us",
+  "name": "Desiree Castro",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5515",
+  "leg_id": "TXL000195",
+  "email": "roxanne.de_la_garza@senate.state.tx.us",
+  "name": "Roxanne De La Garza",
+  "title": "Sr. Policy Advisor",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5979",
+  "leg_id": "TXL000196",
+  "email": "wroe.jackson@senate.state.tx.us",
+  "name": "Wroe Jackson",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5980",
+  "leg_id": "TXL000196",
+  "email": "mario.cicconetti@senate.state.tx.us",
+  "name": "Mario Cicconetti",
+  "title": "General Counsel",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5981",
+  "leg_id": "TXL000196",
+  "email": "preston.streufert@senate.state.tx.us",
+  "name": "Preston Streufert",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5982",
+  "leg_id": "TXL000196",
+  "email": "kabir.karnani@senate.state.tx.us",
+  "name": "Kabir Karnani",
+  "title": "Legislative Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5983",
+  "leg_id": "TXL000196",
+  "email": "hope.osborn@senate.state.tx.us",
+  "name": "Hope Osborn",
+  "title": "Office Manager",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5984",
+  "leg_id": "TXL000196",
+  "email": "erin.hornaday@senate.state.tx.us",
+  "name": "Erin Hornaday",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5365",
+  "leg_id": "TXL000198",
+  "email": "yovana.acuna@senate.state.tx.us",
+  "name": "Yovana Acuña",
+  "title": "Admin. Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5366",
+  "leg_id": "TXL000198",
+  "email": "louie.sanchez@senate.state.tx.us",
+  "name": "Louie Sanchez",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5367",
+  "leg_id": "TXL000198",
+  "email": "alex.guajardo@senate.state.tx.us",
+  "name": "Alex Guajardo",
+  "title": "Correspondent",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5368",
+  "leg_id": "TXL000198",
+  "email": "carlos.calderon@senate.state.tx.us",
+  "name": "Carlos Calderon",
+  "title": "General Counsel",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5369",
+  "leg_id": "TXL000198",
+  "email": "justin.cantu@senate.state.tx.us",
+  "name": "Justin Cantu",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5370",
+  "leg_id": "TXL000198",
+  "email": "daniel.esparza@senate.state.tx.us",
+  "name": "Daniel Esparza",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5372",
+  "leg_id": "TXL000198",
+  "email": "luis.villarreal@senate.state.tx.us",
+  "name": "Luis Villarreal",
+  "title": "Legislative Fellow",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5371",
+  "leg_id": "TXL000198",
+  "email": "chris.leseur@senate.state.tx.us",
+  "name": "Chris Leseur",
+  "title": "Legislative Fellow",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5373",
+  "leg_id": "TXL000198",
+  "email": "helen.knaggs@senate.state.tx.us",
+  "name": "Helen Soto Knaggs",
+  "title": "Office Manager",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5374",
+  "leg_id": "TXL000198",
+  "email": "nico.nguyen@senate.state.tx.us",
+  "name": "Nico Nguyen",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5379",
+  "leg_id": "TXL000199",
+  "email": "dave.nelson@senate.state.tx.us",
+  "name": "Dave Nelson",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5380",
+  "leg_id": "TXL000199",
+  "email": "megan.hanson@senate.state.tx.us",
+  "name": "Megan Hanson",
+  "title": "Communication Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5381",
+  "leg_id": "TXL000199",
+  "email": "travis.broussard@senate.state.tx.us",
+  "name": "Travis Broussard",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5383",
+  "leg_id": "TXL000199",
+  "email": "austin.holder@senate.state.tx.us",
+  "name": "Austin Holder",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5382",
+  "leg_id": "TXL000199",
+  "email": "anne.allensworth@senate.state.tx.us",
+  "name": "Anne Allensworth",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5384",
+  "leg_id": "TXL000199",
+  "email": "elizabeth.rice@senate.state.tx.us",
+  "name": "Elizabeth Rice",
+  "title": "Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5782",
+  "leg_id": "TXL000200",
+  "email": "angus.lupton@senate.state.tx.us",
+  "name": "Angus Lupton",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5783",
+  "leg_id": "TXL000200",
+  "email": "tina.ojibway@senate.state.tx.us",
+  "name": "Tina O'Jibway",
+  "title": "General Counsel",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5784",
+  "leg_id": "TXL000200",
+  "email": "will.carey@senate.state.tx.us",
+  "name": "Will Carey",
+  "title": "Legislative Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5785",
+  "leg_id": "TXL000200",
+  "email": "jd.hale@senate.state.tx.us",
+  "name": "Jd Hale",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5786",
+  "leg_id": "TXL000200",
+  "email": "sydni.mitchell@senate.state.tx.us",
+  "name": "Sydni Mitchell",
+  "title": "Press Secretary",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5787",
+  "leg_id": "TXL000200",
+  "email": "madison.porter@senate.state.tx.us",
+  "name": "Madison Porter",
+  "title": "Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5584",
+  "leg_id": "TXL000203",
+  "email": "ginger.averitt@senate.state.tx.us",
+  "name": "Ginger Averitt",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5586",
+  "leg_id": "TXL000203",
+  "email": "pearl.cruz@senate.state.tx.us",
+  "name": "Pearl Cruz",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5585",
+  "leg_id": "TXL000203",
+  "email": "michelle.willoughby@senate.state.tx.us",
+  "name": "Michelle Willoughby",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5587",
+  "leg_id": "TXL000203",
+  "email": "rebekah.faircloth@senate.state.tx.us",
+  "name": "Rebekah Faircloth",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5588",
+  "leg_id": "TXL000203",
+  "email": "becky.womack@senate.state.tx.us",
+  "name": "Becky Womack",
+  "title": "Legis./Communication Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5589",
+  "leg_id": "TXL000203",
+  "email": "tien.do@senate.state.tx.us",
+  "name": "Tien Do",
+  "title": "Office Manager",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5591",
+  "leg_id": "TXL000203",
+  "email": "taylor.ward@senate.state.tx.us",
+  "name": "Taylor Ward",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5590",
+  "leg_id": "TXL000203",
+  "email": "rusty.smith@senate.state.tx.us",
+  "name": "Rusty Smith",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5523",
+  "leg_id": "TXL000206",
+  "email": "jason.hassay@senate.state.tx.us",
+  "name": "Jason Hassay",
+  "title": "Chief Of Staff/Gen. Counsel",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5524",
+  "leg_id": "TXL000206",
+  "email": "arthur.reyna@senate.state.tx.us",
+  "name": "Arthur Reyna III",
+  "title": "Communication Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5525",
+  "leg_id": "TXL000206",
+  "email": "robert.lopez@senate.state.tx.us",
+  "name": "Robert Lopez",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5526",
+  "leg_id": "TXL000206",
+  "email": "michael.ruggieri@senate.state.tx.us",
+  "name": "Michael Ruggieri",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5527",
+  "leg_id": "TXL000206",
+  "email": "jack.andrews@senate.state.tx.us",
+  "name": "Jack Andrews",
+  "title": "Legislative Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5528",
+  "leg_id": "TXL000206",
+  "email": "gabby.marquez@senate.state.tx.us",
+  "name": "Gabby Marquez",
+  "title": "Luna Scholar",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5529",
+  "leg_id": "TXL000206",
+  "email": "carmen.gaddis@senate.state.tx.us",
+  "name": "Carmen Gaddis",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5530",
+  "leg_id": "TXL000206",
+  "email": "rosa.gutierrez@senate.state.tx.us",
+  "name": "Rosa Gutierrez",
+  "title": "Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5531",
+  "leg_id": "TXL000206",
+  "email": "jerry.needham@senate.state.tx.us",
+  "name": "Jerry Needham",
+  "title": "Sr. Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5739",
+  "leg_id": "TXL000208",
+  "email": "sarah.howard@senate.state.tx.us",
+  "name": "Sarah Howard",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5740",
+  "leg_id": "TXL000208",
+  "email": "lora_ann.gerson@senate.state.tx.us",
+  "name": "Lora Ann Gerson",
+  "title": "Constituent Svc. Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5741",
+  "leg_id": "TXL000208",
+  "email": "susan.nold@senate.state.tx.us",
+  "name": "Susan Nold",
+  "title": "General Counsel",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5743",
+  "leg_id": "TXL000208",
+  "email": "kelsey.erickson@senate.state.tx.us",
+  "name": "Kelsey Erickson",
+  "title": "Legislative Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5742",
+  "leg_id": "TXL000208",
+  "email": "katie.obrien@senate.state.tx.us",
+  "name": "Katie O'brien",
+  "title": "Legislative Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5744",
+  "leg_id": "TXL000208",
+  "email": "stephanie.chiarello@senate.state.tx.us",
+  "name": "Stephanie Chiarello",
+  "title": "Legislative Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5745",
+  "leg_id": "TXL000208",
+  "email": "sandy.guzman@senate.state.tx.us",
+  "name": "Sandy Guzman",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5746",
+  "leg_id": "TXL000208",
+  "email": "yvonne.reynolds@senate.state.tx.us",
+  "name": "Yvonne Reynolds",
+  "title": "Office Manager",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5747",
+  "leg_id": "TXL000208",
+  "email": "kate.alexander@senate.state.tx.us",
+  "name": "Kate Alexander",
+  "title": "Policy Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5385",
+  "leg_id": "TXL000210",
+  "email": "lajuana.barton@senate.state.tx.us",
+  "name": "Lajuana Barton",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5386",
+  "leg_id": "TXL000210",
+  "email": "susie.ramirez@senate.state.tx.us",
+  "name": "Susie Ramirez",
+  "title": "Executive Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5387",
+  "leg_id": "TXL000210",
+  "email": "kelvin.bass@senate.state.tx.us",
+  "name": "Kelvin Bass",
+  "title": "Legis. Aide/Press Sec.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5388",
+  "leg_id": "TXL000210",
+  "email": "clifford.sparks@senate.state.tx.us",
+  "name": "Clifford Sparks",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5389",
+  "leg_id": "TXL000210",
+  "email": "richard.dominguez@senate.state.tx.us",
+  "name": "Richard Dominguez",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5390",
+  "leg_id": "TXL000210",
+  "email": "graham.keever@senate.state.tx.us",
+  "name": "Graham Keever",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5391",
+  "leg_id": "TXL000211",
+  "email": "lara.wendler@senate.state.tx.us",
+  "name": "Lara Wendler",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5394",
+  "leg_id": "TXL000211",
+  "email": "nahom.tesfaselassie@senate.state.tx.us",
+  "name": "Nahom Tesfaselassie",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5393",
+  "leg_id": "TXL000211",
+  "email": "llisel.arjona@senate.state.tx.us",
+  "name": "Llisel Arjona",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5392",
+  "leg_id": "TXL000211",
+  "email": "anna.hiran@senate.state.tx.us",
+  "name": "Anna Hiran",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5397",
+  "leg_id": "TXL000211",
+  "email": "susan.fontenette@senate.state.tx.us",
+  "name": "Susan Fontenette",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5396",
+  "leg_id": "TXL000211",
+  "email": "doug.clements@senate.state.tx.us",
+  "name": "Doug Clements",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5395",
+  "leg_id": "TXL000211",
+  "email": "diana.patino@senate.state.tx.us",
+  "name": "Diana Patino",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5398",
+  "leg_id": "TXL000211",
+  "email": "trey.owens@senate.state.tx.us",
+  "name": "Trey Owens",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5399",
+  "leg_id": "TXL000213",
+  "email": "sean.griffin@senate.state.tx.us",
+  "name": "Sean Griffin",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5401",
+  "leg_id": "TXL000213",
+  "email": "tim.stostad@senate.state.tx.us",
+  "name": "Tim Stostad",
+  "title": "Legis. Aide/Staff Attorney",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5400",
+  "leg_id": "TXL000213",
+  "email": "krista.kyle@senate.state.tx.us",
+  "name": "Krista Kyle",
+  "title": "Legis. Aide/Staff Attorney",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5404",
+  "leg_id": "TXL000213",
+  "email": "jorge.ramirez@senate.state.tx.us",
+  "name": "Jorge Ramirez",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5403",
+  "leg_id": "TXL000213",
+  "email": "jeanie.donovan@senate.state.tx.us",
+  "name": "Jeanie Donovan",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5402",
+  "leg_id": "TXL000213",
+  "email": "isabel.casas@senate.state.tx.us",
+  "name": "Isabel Casas",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5405",
+  "leg_id": "TXL000213",
+  "email": "sarah.acosta@senate.state.tx.us",
+  "name": "Sarah Acosta",
+  "title": "Office Manager",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5406",
+  "leg_id": "TXL000213",
+  "email": "will.krueger@senate.state.tx.us",
+  "name": "Will Krueger",
+  "title": "Public Information Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5407",
+  "leg_id": "TXL000213",
+  "email": "nathan.lerma@senate.state.tx.us",
+  "name": "Nathan Lerma",
+  "title": "Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5408",
+  "leg_id": "TXL000213",
+  "email": "rachel.mcclure@senate.state.tx.us",
+  "name": "Rachel Mcclure",
+  "title": "Sr. Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5551",
+  "leg_id": "TXL000214",
+  "email": "anneliese.vogel@house.state.tx.us",
+  "name": "Anneliese Vogel",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5552",
+  "leg_id": "TXL000214",
+  "email": "akayla.pomare@house.state.tx.us",
+  "name": "Akayla Pomare",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5553",
+  "leg_id": "TXL000214",
+  "email": "teresa.lenior@house.state.tx.us",
+  "name": "Teresa Lenior",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5409",
+  "leg_id": "TXL000215",
+  "email": "jesse.bernal@house.state.tx.us",
+  "name": "Jesse R. Bernal",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5410",
+  "leg_id": "TXL000215",
+  "email": "gabriela.viloria@house.state.tx.us",
+  "name": "Gabriela Viloria",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5413",
+  "leg_id": "TXL000215",
+  "email": "timothy.haynes@house.state.tx.us",
+  "name": "Timothy Haynes",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5412",
+  "leg_id": "TXL000215",
+  "email": "shawn.jamal@house.state.tx.us",
+  "name": "Shawn Jamal",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5411",
+  "leg_id": "TXL000215",
+  "email": "jingyu.liao@house.state.tx.us",
+  "name": "Jingyu Liao",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5414",
+  "leg_id": "TXL000215",
+  "email": "tina.sohne@house.state.tx.us",
+  "name": "Tina Sohne",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5415",
+  "leg_id": "TXL000215",
+  "email": "deborah.alemu@house.state.tx.us",
+  "name": "Deborah Alemu",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5578",
+  "leg_id": "TXL000216",
+  "email": "crystal.ford@house.state.tx.us",
+  "name": "Crystal Ford",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5579",
+  "leg_id": "TXL000216",
+  "email": "alexander.hammond@house.state.tx.us",
+  "name": "Alexander Hammond",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5580",
+  "leg_id": "TXL000216",
+  "email": "oscar.aguilar@house.state.tx.us",
+  "name": "Oscar Aguilar",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5582",
+  "leg_id": "TXL000216",
+  "email": "yvette.hernandez@house.state.tx.us",
+  "name": "Yvette Hernandez",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5581",
+  "leg_id": "TXL000216",
+  "email": "sophie.cohen@house.state.tx.us",
+  "name": "Sophie Cohen",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5583",
+  "leg_id": "TXL000216",
+  "email": "bettina.olivares@house.state.tx.us",
+  "name": "Bettina Olivares",
+  "title": "Scheduler/Legis. Asst.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5641",
+  "leg_id": "TXL000217",
+  "email": "liz.zornes@house.state.tx.us",
+  "name": "Liz Zornes",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5642",
+  "leg_id": "TXL000217",
+  "email": "tricia.horatio@house.state.tx.us",
+  "name": "Tricia Horatio",
+  "title": "Gen. Counsel/Legis. Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5644",
+  "leg_id": "TXL000217",
+  "email": "alex.dickey@house.state.tx.us",
+  "name": "Alex Dickey",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5643",
+  "leg_id": "TXL000217",
+  "email": "abel.mulugheta@house.state.tx.us",
+  "name": "Abel Mulugheta",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5645",
+  "leg_id": "TXL000217",
+  "email": "john.garza@house.state.tx.us",
+  "name": "John Garza",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5632",
+  "leg_id": "TXL000218",
+  "email": "tracy.morehead@house.state.tx.us",
+  "name": "Tracy Morehead",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5634",
+  "leg_id": "TXL000218",
+  "email": "patrick.sarman@house.state.tx.us",
+  "name": "Patrick Sarman",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5633",
+  "leg_id": "TXL000218",
+  "email": "daniel.molina@house.state.tx.us",
+  "name": "Daniel Molina",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5635",
+  "leg_id": "TXL000218",
+  "email": "ilissa.nolan@house.state.tx.us",
+  "name": "Ilissa Nolan",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5748",
+  "leg_id": "TXL000219",
+  "email": "will.holleman@house.state.tx.us",
+  "name": "Will Holleman",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5749",
+  "leg_id": "TXL000219",
+  "email": "darcus.goslin@house.state.tx.us",
+  "name": "Darcus Goslin",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5751",
+  "leg_id": "TXL000219",
+  "email": "sherry.maximoss@house.state.tx.us",
+  "name": "Sherry Maximoss",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5750",
+  "leg_id": "TXL000219",
+  "email": "matthew.porter@house.state.tx.us",
+  "name": "Matthew Porter",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5752",
+  "leg_id": "TXL000219",
+  "email": "bethany.burkett@house.state.tx.us",
+  "name": "Bethany Burkett",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5753",
+  "leg_id": "TXL000219",
+  "email": "sam.nancarrow@house.state.tx.us",
+  "name": "Sam Nancarrow",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5504",
+  "leg_id": "TXL000221",
+  "email": "demeris.burritt@house.state.tx.us",
+  "name": "Demeris Burritt",
+  "title": "Admin. Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5505",
+  "leg_id": "TXL000221",
+  "email": "bradley.pepper@house.state.tx.us",
+  "name": "Bradley Pepper",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5506",
+  "leg_id": "TXL000221",
+  "email": "jeff.stokes@house.state.tx.us",
+  "name": "Jeff Stokes",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5516",
+  "leg_id": "TXL000223",
+  "email": "sarah.wolff@house.state.tx.us",
+  "name": "Sarah Wolff",
+  "title": "Admin. Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5517",
+  "leg_id": "TXL000223",
+  "email": "shera.eichler@house.state.tx.us",
+  "name": "Shera Eichler",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5518",
+  "leg_id": "TXL000223",
+  "email": "mitch.carney@house.state.tx.us",
+  "name": "Mitch Carney",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5943",
+  "leg_id": "TXL000228",
+  "email": "emily.fankell@house.state.tx.us",
+  "name": "Emily Fankell",
+  "title": "Admin. Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5944",
+  "leg_id": "TXL000228",
+  "email": "amanda.willard@house.state.tx.us",
+  "name": "Amanda Willard",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5945",
+  "leg_id": "TXL000228",
+  "email": "jason.chang@house.state.tx.us",
+  "name": "Jason Chang",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5946",
+  "leg_id": "TXL000228",
+  "email": "austin.hood@house.state.tx.us",
+  "name": "Austin Hood",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5416",
+  "leg_id": "TXL000235",
+  "email": "christopher.walker@house.state.tx.us",
+  "name": "Christopher Walker",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5417",
+  "leg_id": "TXL000235",
+  "email": "ofirah.yheskel@house.state.tx.us",
+  "name": "Ofirah Yheskel",
+  "title": "Communication Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5419",
+  "leg_id": "TXL000235",
+  "email": "nicolas.kalla@house.state.tx.us",
+  "name": "Nicolas Kalla",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5418",
+  "leg_id": "TXL000235",
+  "email": "eric.schroeder@house.state.tx.us",
+  "name": "Eric Schroeder",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5693",
+  "leg_id": "TXL000236",
+  "email": "toni.barcellona@house.state.tx.us",
+  "name": "Toni Barcellona",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5695",
+  "leg_id": "TXL000236",
+  "email": "drew.de_los_santos@house.state.tx.us",
+  "name": "Drew de los Santos",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5694",
+  "leg_id": "TXL000236",
+  "email": "alicia.seagraves@house.state.tx.us",
+  "name": "Alicia Seagraves",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5696",
+  "leg_id": "TXL000236",
+  "email": "heather.burns@house.state.tx.us",
+  "name": "Heather Burns",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5420",
+  "leg_id": "TXL000239",
+  "email": "kate.huddleston@house.state.tx.us",
+  "name": "Kate Huddleston",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5421",
+  "leg_id": "TXL000239",
+  "email": "trey.brown@house.state.tx.us",
+  "name": "Trey Brown",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5422",
+  "leg_id": "TXL000239",
+  "email": "kelly.glaser@house.state.tx.us",
+  "name": "Kelly Glaser",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5423",
+  "leg_id": "TXL000239",
+  "email": "amala.chacko@house.state.tx.us",
+  "name": "Amala Chacko",
+  "title": "Legislative Asst.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5715",
+  "leg_id": "TXL000241",
+  "email": "miranda.goodsheller@house.state.tx.us",
+  "name": "Miranda Goodsheller",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5716",
+  "leg_id": "TXL000241",
+  "email": "paige.higerd@house.state.tx.us",
+  "name": "Paige Higerd",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5717",
+  "leg_id": "TXL000241",
+  "email": "craig.holzheauser@house.state.tx.us",
+  "name": "Craig Holzheauser",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5636",
+  "leg_id": "TXL000242",
+  "email": "jason.modglin@house.state.tx.us",
+  "name": "Jason Modglin",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5637",
+  "leg_id": "TXL000242",
+  "email": "victoria.messer@house.state.tx.us",
+  "name": "Victoria Messer",
+  "title": "Gen. Counsel/Legis. Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5638",
+  "leg_id": "TXL000242",
+  "email": "cade.tredway@house.state.tx.us",
+  "name": "Cade Tredway",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5639",
+  "leg_id": "TXL000242",
+  "email": "kate.raetz@house.state.tx.us",
+  "name": "Kate Raetz",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5424",
+  "leg_id": "TXL000244",
+  "email": "pitria.mckinney@house.state.tx.us",
+  "name": "Pitria Mckinney",
+  "title": "Admin. Asst./Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5425",
+  "leg_id": "TXL000244",
+  "email": "jaquay.jackson@house.state.tx.us",
+  "name": "Jaquay Jackson",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5426",
+  "leg_id": "TXL000244",
+  "email": "lemuel.price@house.state.tx.us",
+  "name": "Lemuel Henry Price",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5537",
+  "leg_id": "TXL000245",
+  "email": "christian.manuel@house.state.tx.us",
+  "name": "Christian Manuel",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5538",
+  "leg_id": "TXL000245",
+  "email": "melissa.quevedo@house.state.tx.us",
+  "name": "Melissa Quevedo",
+  "title": "Committee Clerk/Legis. Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5539",
+  "leg_id": "TXL000245",
+  "email": "michella.gibbs@house.state.tx.us",
+  "name": "Michella Gibbs",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5375",
+  "leg_id": "TXL000247",
+  "email": "ny.simon@house.state.tx.us",
+  "name": "Ny Simon",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5377",
+  "leg_id": "TXL000247",
+  "email": "vanisha.weatherspoon@house.state.tx.us",
+  "name": "Vanisha Weatherspoon",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5376",
+  "leg_id": "TXL000247",
+  "email": "sandy.herrera@house.state.tx.us",
+  "name": "Sandy Herrera",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5378",
+  "leg_id": "TXL000247",
+  "email": "yvonne.massey_davis@house.state.tx.us",
+  "name": "Yvonne Massey Davis",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5427",
+  "leg_id": "TXL000249",
+  "email": "tamoria.jones@house.state.tx.us",
+  "name": "Tamoria Jones",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5429",
+  "leg_id": "TXL000249",
+  "email": "terena.cloud@house.state.tx.us",
+  "name": "Terena Cloud",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5428",
+  "leg_id": "TXL000249",
+  "email": "patrick.celestine@house.state.tx.us",
+  "name": "Patrick Celestine",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5430",
+  "leg_id": "TXL000253",
+  "email": "caitlin.dempsey@house.state.tx.us",
+  "name": "Caitlin Dempsey",
+  "title": "Admin. Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5431",
+  "leg_id": "TXL000253",
+  "email": "debra.clonts@house.state.tx.us",
+  "name": "Debra Clonts",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5432",
+  "leg_id": "TXL000253",
+  "email": "mariam.issa@house.state.tx.us",
+  "name": "Mariam Issa",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5433",
+  "leg_id": "TXL000253",
+  "email": "alex.kuehler@house.state.tx.us",
+  "name": "Alex Kuehler",
+  "title": "Office Mgr./Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5798",
+  "leg_id": "TXL000256",
+  "email": "ana.ramon@house.state.tx.us",
+  "name": "Ana Ramon",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5799",
+  "leg_id": "TXL000256",
+  "email": "juan.estrada@house.state.tx.us",
+  "name": "Juan Estrada",
+  "title": "Legis. Correspondent",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5800",
+  "leg_id": "TXL000256",
+  "email": "paul.duduit@house.state.tx.us",
+  "name": "Paul Duduit",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5801",
+  "leg_id": "TXL000256",
+  "email": "kevin.marula@house.state.tx.us",
+  "name": "Kevin Marula",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5802",
+  "leg_id": "TXL000256",
+  "email": "lilia.loera@house.state.tx.us",
+  "name": "Lilia Loera",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5434",
+  "leg_id": "TXL000257",
+  "email": "ariana.campos@house.state.tx.us",
+  "name": "Ariana Campos",
+  "title": "Dist. Dir./Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5435",
+  "leg_id": "TXL000257",
+  "email": "diana.horn@house.state.tx.us",
+  "name": "Diana Horn",
+  "title": "Exec. Dir. Women's Health",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5436",
+  "leg_id": "TXL000257",
+  "email": "pedro.villalobos@house.state.tx.us",
+  "name": "Pedro Villalobos",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5438",
+  "leg_id": "TXL000257",
+  "email": "william.janowski@house.state.tx.us",
+  "name": "William Janowski",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5437",
+  "leg_id": "TXL000257",
+  "email": "robinson.block@house.state.tx.us",
+  "name": "Robinson Block",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5439",
+  "leg_id": "TXL000257",
+  "email": "allison.schmitz@house.state.tx.us",
+  "name": "Allison Schmitz",
+  "title": "Legis. Dir./General Counsel",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5440",
+  "leg_id": "TXL000257",
+  "email": "emily.cody@house.state.tx.us",
+  "name": "Emily Cody",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5441",
+  "leg_id": "TXL000257",
+  "email": "cicely.kay@house.state.tx.us",
+  "name": "Cicely Kay",
+  "title": "Legislative Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5947",
+  "leg_id": "TXL000258",
+  "email": "robert.papierz@house.state.tx.us",
+  "name": "Robert Papierz",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5948",
+  "leg_id": "TXL000258",
+  "email": "jeffrey.chatman@house.state.tx.us",
+  "name": "Jeffrey Chatman",
+  "title": "Legis. Dir./Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5949",
+  "leg_id": "TXL000258",
+  "email": "bird.holmquist@house.state.tx.us",
+  "name": "Bird Holmquist",
+  "title": "Legislative Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5951",
+  "leg_id": "TXL000258",
+  "email": "james.obrien@house.state.tx.us",
+  "name": "James O'Brien",
+  "title": "Legislative Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5950",
+  "leg_id": "TXL000258",
+  "email": "jacquelyn.carrabba@house.state.tx.us",
+  "name": "Jacquelyn Carrabba",
+  "title": "Legislative Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5497",
+  "leg_id": "TXL000260",
+  "email": "kelli.linza@house.state.tx.us",
+  "name": "Kelli Linza",
+  "title": "Admin. Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5498",
+  "leg_id": "TXL000260",
+  "email": "david.erinakes@house.state.tx.us",
+  "name": "David Erinakes",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5499",
+  "leg_id": "TXL000260",
+  "email": "andrew.graham@house.state.tx.us",
+  "name": "Andrew Graham",
+  "title": "Committee Clerk",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5564",
+  "leg_id": "TXL000264",
+  "email": "laura.grable@house.state.tx.us",
+  "name": "Laura Grable",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5565",
+  "leg_id": "TXL000264",
+  "email": "amy.befeld@house.state.tx.us",
+  "name": "Amy Befeld",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5566",
+  "leg_id": "TXL000264",
+  "email": "robert.armstrong@house.state.tx.us",
+  "name": "Robert Armstrong",
+  "title": "Legis. Dir./General Counsel",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5567",
+  "leg_id": "TXL000264",
+  "email": "payton@house.state.tx.us",
+  "name": "Payton",
+  "title": "Legis./Committee Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5442",
+  "leg_id": "TXL000265",
+  "email": "carnell.emanuel@house.state.tx.us",
+  "name": "Carnell Emanuel",
+  "title": "Appropriations Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5443",
+  "leg_id": "TXL000265",
+  "email": "elaina.fowler@house.state.tx.us",
+  "name": "Elaina Fowler",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5444",
+  "leg_id": "TXL000265",
+  "email": "tim.thetford@house.state.tx.us",
+  "name": "Tim Thetford",
+  "title": "HHS/Nat. Resources Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5445",
+  "leg_id": "TXL000265",
+  "email": "morgan.constantino@house.state.tx.us",
+  "name": "Morgan Constantino",
+  "title": "Legislative Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5446",
+  "leg_id": "TXL000265",
+  "email": "danielle.cooper@house.state.tx.us",
+  "name": "Danielle Cooper",
+  "title": "Scheduler/Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5447",
+  "leg_id": "TXL000265",
+  "email": "neo.baepi@house.state.tx.us",
+  "name": "Neo Baepi",
+  "title": "Social Media Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5554",
+  "leg_id": "TXL000268",
+  "email": "sierra.edgar@house.state.tx.us",
+  "name": "Sierra Edgar",
+  "title": "Admin. Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5555",
+  "leg_id": "TXL000268",
+  "email": "robert.mcvey@house.state.tx.us",
+  "name": "Robert Mcvey",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5556",
+  "leg_id": "TXL000268",
+  "email": "jonathan.wilson@house.state.tx.us",
+  "name": "Jonathan Wilson",
+  "title": "Communication Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5557",
+  "leg_id": "TXL000268",
+  "email": "ben.wright@house.state.tx.us",
+  "name": "Ben Wright",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5558",
+  "leg_id": "TXL000268",
+  "email": "sarah.chacko@house.state.tx.us",
+  "name": "Sarah Chacko",
+  "title": "Policy Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5975",
+  "leg_id": "TXL000269",
+  "email": "margaret.wallace@house.state.tx.us",
+  "name": "Margaret Frain Wallace",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5977",
+  "leg_id": "TXL000269",
+  "email": "rodrigo.solloa@house.state.tx.us",
+  "name": "Rodrigo Solloa",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5976",
+  "leg_id": "TXL000269",
+  "email": "marcos.madrigal@house.state.tx.us",
+  "name": "Marcos Madrigal",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5978",
+  "leg_id": "TXL000269",
+  "email": "arnoldo.alaniz@house.state.tx.us",
+  "name": "Arnoldo Alaniz",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5768",
+  "leg_id": "TXL000271",
+  "email": "tricia.stinson@senate.state.tx.us",
+  "name": "Tricia Stinson",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5769",
+  "leg_id": "TXL000271",
+  "email": "caity.post@senate.state.tx.us",
+  "name": "Caity Post",
+  "title": "Communication Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5770",
+  "leg_id": "TXL000271",
+  "email": "adam.leggett@senate.state.tx.us",
+  "name": "Adam Leggett",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5771",
+  "leg_id": "TXL000271",
+  "email": "bogan.durr@senate.state.tx.us",
+  "name": "Bogan Durr",
+  "title": "Sr. Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5718",
+  "leg_id": "TXL000273",
+  "email": "ashley.hyten@house.state.tx.us",
+  "name": "Ashley Hyten",
+  "title": "Admin. Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5719",
+  "leg_id": "TXL000273",
+  "email": "julie.scott@house.state.tx.us",
+  "name": "Julie Scott",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5720",
+  "leg_id": "TXL000273",
+  "email": "staci.rives@house.state.tx.us",
+  "name": "Staci Rives",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5778",
+  "leg_id": "TXL000277",
+  "email": "maria.delgado@house.state.tx.us",
+  "name": "Maria Delgado",
+  "title": "Chief Of Staff/Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5780",
+  "leg_id": "TXL000277",
+  "email": "candace.caruthers@house.state.tx.us",
+  "name": "Candace Caruthers",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5779",
+  "leg_id": "TXL000277",
+  "email": "amy.anazia@house.state.tx.us",
+  "name": "Amy Anazia",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5781",
+  "leg_id": "TXL000277",
+  "email": "matthew.hall@house.state.tx.us",
+  "name": "Matthew Hall",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5685",
+  "leg_id": "TXL000278",
+  "email": "jesus.moreno@house.state.tx.us",
+  "name": "Jesus Moreno",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5686",
+  "leg_id": "TXL000278",
+  "email": "devin.vickers@house.state.tx.us",
+  "name": "Devin Vickers",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5687",
+  "leg_id": "TXL000278",
+  "email": "christopher.allison@house.state.tx.us",
+  "name": "Christopher Allison",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5688",
+  "leg_id": "TXL000278",
+  "email": "azra.siddiqi@house.state.tx.us",
+  "name": "Azra Siddiqi",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5689",
+  "leg_id": "TXL000278",
+  "email": "shane.saum@house.state.tx.us",
+  "name": "Shane R. Saum",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5772",
+  "leg_id": "TXL000283",
+  "email": "scott.daigle@house.state.tx.us",
+  "name": "Scott M. Daigle",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5773",
+  "leg_id": "TXL000283",
+  "email": "stella.savage@house.state.tx.us",
+  "name": "Stella Savage",
+  "title": "Dir. Of Constituent Svc.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5775",
+  "leg_id": "TXL000283",
+  "email": "françoise.van_keuren@house.state.tx.us",
+  "name": "Françoise Van Keuren",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5774",
+  "leg_id": "TXL000283",
+  "email": "avery.saxe@house.state.tx.us",
+  "name": "Avery Saxe",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5776",
+  "leg_id": "TXL000283",
+  "email": "jacob.cottingham@house.state.tx.us",
+  "name": "Jacob Cottingham",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5777",
+  "leg_id": "TXL000283",
+  "email": "brooke.bennett@house.state.tx.us",
+  "name": "Brooke Bennett",
+  "title": "Sr. Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5704",
+  "leg_id": "TXL000285",
+  "email": "cody.terry@house.state.tx.us",
+  "name": "S. Cody Terry",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5705",
+  "leg_id": "TXL000285",
+  "email": "caroline.harris@house.state.tx.us",
+  "name": "Caroline Harris",
+  "title": "Legis. Aide/Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5708",
+  "leg_id": "TXL000285",
+  "email": "taylor.hartmann@house.state.tx.us",
+  "name": "Taylor Hartmann",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5707",
+  "leg_id": "TXL000285",
+  "email": "scott.munroe@house.state.tx.us",
+  "name": "Scott Munroe",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5706",
+  "leg_id": "TXL000285",
+  "email": "lillian.byas@house.state.tx.us",
+  "name": "Lillian Byas",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5448",
+  "leg_id": "TXL000286",
+  "email": "caleb.mcgee@house.state.tx.us",
+  "name": "Caleb Mcgee",
+  "title": "Legislative Coord.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5449",
+  "leg_id": "TXL000286",
+  "email": "jeff.kane@house.state.tx.us",
+  "name": "Jeff Kane",
+  "title": "Legislative Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5450",
+  "leg_id": "TXL000286",
+  "email": "dan.leyendecker@house.state.tx.us",
+  "name": "Dan Leyendecker",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5451",
+  "leg_id": "TXL000286",
+  "email": "shelby.obrien@house.state.tx.us",
+  "name": "Shelby O'Brien",
+  "title": "Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5452",
+  "leg_id": "TXL000286",
+  "email": "angie.flores_granado@house.state.tx.us",
+  "name": "Angie Flores Granado",
+  "title": "Sr. Advisor/Communication",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6043",
+  "leg_id": "TXL000289",
+  "email": "renee.hartley@house.state.tx.us",
+  "name": "Renee Hartley",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-05-09 16:18:23"
+}, {
+  "staff_id": "6052",
+  "leg_id": "TXL000289",
+  "email": "ana.rodriguez@house.state.tx.us",
+  "name": "Ana Rodriguez",
+  "title": "Dep. Chief of Staff",
+  "updated_at": "2015-05-09 16:18:51"
+}, {
+  "staff_id": "6050",
+  "leg_id": "TXL000289",
+  "email": "mariam.ahmed@house.state.tx.us",
+  "name": "Mariam Ahmed",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6046",
+  "leg_id": "TXL000289",
+  "email": "daniel.khalil@house.state.tx.us",
+  "name": "Daniel Khalil",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6049",
+  "leg_id": "TXL000289",
+  "email": "mallerick.warnell@house.state.tx.us",
+  "name": "Mallerick Warnell",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6045",
+  "leg_id": "TXL000289",
+  "email": "antionette.mays@house.state.tx.us",
+  "name": "Antionette Mays",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6048",
+  "leg_id": "TXL000289",
+  "email": "kayla.davis@house.state.tx.us",
+  "name": "Kayla Davis",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6051",
+  "leg_id": "TXL000289",
+  "email": "mary.elbanna@house.state.tx.us",
+  "name": "Mary Elbanna",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6047",
+  "leg_id": "TXL000289",
+  "email": "hannah.alexander@house.state.tx.us",
+  "name": "Hannah Alexander",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5500",
+  "leg_id": "TXL000291",
+  "email": "adam.haynes@house.state.tx.us",
+  "name": "Adam Haynes",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5501",
+  "leg_id": "TXL000291",
+  "email": "walker.wiese@house.state.tx.us",
+  "name": "Walker Wiese",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5502",
+  "leg_id": "TXL000291",
+  "email": "worth.farabee@house.state.tx.us",
+  "name": "Worth Farabee",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5503",
+  "leg_id": "TXL000291",
+  "email": "greer.gregory@house.state.tx.us",
+  "name": "Greer Gregory",
+  "title": "Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5754",
+  "leg_id": "TXL000293",
+  "email": "bryan.law@house.state.tx.us",
+  "name": "Bryan Law",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5756",
+  "leg_id": "TXL000293",
+  "email": "allison.joy@house.state.tx.us",
+  "name": "Allison Joy",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5755",
+  "leg_id": "TXL000293",
+  "email": "agnes.matulr@house.state.tx.us",
+  "name": "Agnes Matulr",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5757",
+  "leg_id": "TXL000293",
+  "email": "cooper.mclendon@house.state.tx.us",
+  "name": "Cooper Mclendon",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5758",
+  "leg_id": "TXL000293",
+  "email": "kolby.monnig@house.state.tx.us",
+  "name": "Kolby Monnig",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5453",
+  "leg_id": "TXL000294",
+  "email": "celina.overbo@house.state.tx.us",
+  "name": "Celina Overbo",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5454",
+  "leg_id": "TXL000294",
+  "email": "jordan.michalik@house.state.tx.us",
+  "name": "Jordan Michalik",
+  "title": "Legislative Asst.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5455",
+  "leg_id": "TXL000294",
+  "email": "sam.bacarisse@house.state.tx.us",
+  "name": "Sam Bacarisse",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5540",
+  "leg_id": "TXL000295",
+  "email": "ashley.westenhover@house.state.tx.us",
+  "name": "Ashley Westenhover",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5541",
+  "leg_id": "TXL000295",
+  "email": "adrienne.gomez@house.state.tx.us",
+  "name": "Adrienne Gomez",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5542",
+  "leg_id": "TXL000295",
+  "email": "jessica.bearden@house.state.tx.us",
+  "name": "Jessica Bearden",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5681",
+  "leg_id": "TXL000299",
+  "email": "suzanne.bowers@house.state.tx.us",
+  "name": "Suzanne Bowers",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5682",
+  "leg_id": "TXL000299",
+  "email": "madison.huerta@house.state.tx.us",
+  "name": "Madison Huerta",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5683",
+  "leg_id": "TXL000299",
+  "email": "helen.hansen@house.state.tx.us",
+  "name": "Helen Hansen",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5684",
+  "leg_id": "TXL000299",
+  "email": "brett.sebastian@house.state.tx.us",
+  "name": "Brett Sebastian",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5721",
+  "leg_id": "TXL000303",
+  "email": "ruben.obell@house.state.tx.us",
+  "name": "Rubén O'Bell",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:16:12"
+}, {
+  "staff_id": "5723",
+  "leg_id": "TXL000303",
+  "email": "sergio.cevazos@house.state.tx.us",
+  "name": "Sergio Cevazos",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5722",
+  "leg_id": "TXL000303",
+  "email": "jaime.villarreal@house.state.tx.us",
+  "name": "Jaime Villarreal",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5724",
+  "leg_id": "TXL000303",
+  "email": "houston.tower@house.state.tx.us",
+  "name": "Houston Tower",
+  "title": "Legislative Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5725",
+  "leg_id": "TXL000303",
+  "email": "miguel.sarkis@house.state.tx.us",
+  "name": "Miguel Sarkis",
+  "title": "Policy analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5952",
+  "leg_id": "TXL000307",
+  "email": "chasity.tillis@house.state.tx.us",
+  "name": "Chasity Tillis",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5953",
+  "leg_id": "TXL000307",
+  "email": "alana.zimmerman@house.state.tx.us",
+  "name": "Alana Zimmerman",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5956",
+  "leg_id": "TXL000307",
+  "email": "mario.arnal_reveles@house.state.tx.us",
+  "name": "Mario Arnal-Reveles",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5955",
+  "leg_id": "TXL000307",
+  "email": "justin.guajardo@house.state.tx.us",
+  "name": "Justin Guajardo",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5954",
+  "leg_id": "TXL000307",
+  "email": "awais.azhar@house.state.tx.us",
+  "name": "Awais Azhar",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5957",
+  "leg_id": "TXL000307",
+  "email": "melissa.mann@house.state.tx.us",
+  "name": "Melissa Mann",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5958",
+  "leg_id": "TXL000307",
+  "email": "bryce.romero@house.state.tx.us",
+  "name": "Bryce Romero",
+  "title": "Legislative Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5559",
+  "leg_id": "TXL000308",
+  "email": "scott.jenkines@house.state.tx.us",
+  "name": "Scott Jenkines",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5561",
+  "leg_id": "TXL000308",
+  "email": "jacqueline.sandoval@house.state.tx.us",
+  "name": "Jacqueline Sandoval",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5560",
+  "leg_id": "TXL000308",
+  "email": "alexis.gonzales@house.state.tx.us",
+  "name": "Alexis Gonzales",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5562",
+  "leg_id": "TXL000308",
+  "email": "roderick.taylor@house.state.tx.us",
+  "name": "Roderick Taylor",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5563",
+  "leg_id": "TXL000308",
+  "email": "paco.sanchez@house.state.tx.us",
+  "name": "Paco Sanchez",
+  "title": "Legislative Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5576",
+  "leg_id": "TXL000309",
+  "email": "summer.luciano@house.state.tx.us",
+  "name": "Summer Luciano",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5577",
+  "leg_id": "TXL000309",
+  "email": "alison.ross@house.state.tx.us",
+  "name": "Alison Ross",
+  "title": "Legislative Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5519",
+  "leg_id": "TXL000310",
+  "email": "janis.reinken@house.state.tx.us",
+  "name": "Janis Reinken",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5522",
+  "leg_id": "TXL000310",
+  "email": "rita.rangel@house.state.tx.us",
+  "name": "Rita Rangel",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5521",
+  "leg_id": "TXL000310",
+  "email": "eduardo.zerbe@house.state.tx.us",
+  "name": "Eduardo Zerbe",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5520",
+  "leg_id": "TXL000310",
+  "email": "douglas.brewster@house.state.tx.us",
+  "name": "Douglas Brewster",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5646",
+  "leg_id": "TXL000312",
+  "email": "tomas.larralde@senate.state.tx.us",
+  "name": "Tomas Larralde",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5647",
+  "leg_id": "TXL000312",
+  "email": "christian.smith@senate.state.tx.us",
+  "name": "Christian Smith",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5648",
+  "leg_id": "TXL000312",
+  "email": "nar.dorrycott@senate.state.tx.us",
+  "name": "Nar Dorrycott",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5649",
+  "leg_id": "TXL000312",
+  "email": "dwight.clark@senate.state.tx.us",
+  "name": "Dwight Clark",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5650",
+  "leg_id": "TXL000312",
+  "email": "lisa.leal@senate.state.tx.us",
+  "name": "Lisa Leal",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5651",
+  "leg_id": "TXL000312",
+  "email": "jacob.middleton@senate.state.tx.us",
+  "name": "Jacob Middleton",
+  "title": "Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5652",
+  "leg_id": "TXL000312",
+  "email": "jessica.castilleja@senate.state.tx.us",
+  "name": "Jessica Castilleja",
+  "title": "Sr. Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5653",
+  "leg_id": "TXL000312",
+  "email": "john.reddinger@senate.state.tx.us",
+  "name": "John Reddinger",
+  "title": "Veteran Liaison",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5940",
+  "leg_id": "TXL000315",
+  "email": "tammy.pirtle@house.state.tx.us",
+  "name": "Tammy Pirtle",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5941",
+  "leg_id": "TXL000315",
+  "email": "hayley.budden@house.state.tx.us",
+  "name": "Hayley Budden",
+  "title": "Communications Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5942",
+  "leg_id": "TXL000315",
+  "email": "matt.ashley@house.state.tx.us",
+  "name": "Matt Ashley",
+  "title": "Legislative Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5959",
+  "leg_id": "TXL000317",
+  "email": "ellic.sahualla@house.state.tx.us",
+  "name": "Ellic Sahualla",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5960",
+  "leg_id": "TXL000317",
+  "email": "jen.shugert@house.state.tx.us",
+  "name": "Jen Shugert",
+  "title": "Legislative Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5961",
+  "leg_id": "TXL000317",
+  "email": "ana.gonzalez@house.state.tx.us",
+  "name": "Ana Gonzalez",
+  "title": "Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5548",
+  "leg_id": "TXL000318",
+  "email": "elizabeth.marbury@house.state.tx.us",
+  "name": "Elizabeth Marbury",
+  "title": "Admin. Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5549",
+  "leg_id": "TXL000318",
+  "email": "justin.unruh@house.state.tx.us",
+  "name": "Justin Unruh",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5550",
+  "leg_id": "TXL000318",
+  "email": "james.zafereo@house.state.tx.us",
+  "name": "James Zafereo",
+  "title": "Legislative Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5456",
+  "leg_id": "TXL000319",
+  "email": "judith.dale@house.state.tx.us",
+  "name": "Judith Dale",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5457",
+  "leg_id": "TXL000319",
+  "email": "nick.kincaid@house.state.tx.us",
+  "name": "Nick Kincaid",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5458",
+  "leg_id": "TXL000319",
+  "email": "jessica.boston@house.state.tx.us",
+  "name": "Jessica Boston",
+  "title": "Legislative Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5459",
+  "leg_id": "TXL000320",
+  "email": "sofia.baldonado@house.state.tx.us",
+  "name": "Sofia Baldonado",
+  "title": "Admin. Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5460",
+  "leg_id": "TXL000320",
+  "email": "jj.garza@house.state.tx.us",
+  "name": "J.J. Garza",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5461",
+  "leg_id": "TXL000320",
+  "email": "crystal.bowers@house.state.tx.us",
+  "name": "Crystal Bowers",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5462",
+  "leg_id": "TXL000320",
+  "email": "jose.becerra@house.state.tx.us",
+  "name": "Jose G. Becerra",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5463",
+  "leg_id": "TXL000320",
+  "email": "michael.gray@house.state.tx.us",
+  "name": "Michael Gray",
+  "title": "Legislative Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5615",
+  "leg_id": "TXL000324",
+  "email": "nikki.cobb@house.state.tx.us",
+  "name": "Nikki Cobb",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5616",
+  "leg_id": "TXL000324",
+  "email": "sadie.mclaughlin@house.state.tx.us",
+  "name": "Sadie McLaughlin",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5617",
+  "leg_id": "TXL000324",
+  "email": "ryan.ambrose@house.state.tx.us",
+  "name": "Ryan Ambrose",
+  "title": "Legislative Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5788",
+  "leg_id": "TXL000325",
+  "email": "rick.dennis@house.state.tx.us",
+  "name": "Rick Dennis",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5790",
+  "leg_id": "TXL000325",
+  "email": "jordan.taylor@house.state.tx.us",
+  "name": "Jordan Taylor",
+  "title": "Legislative Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5789",
+  "leg_id": "TXL000325",
+  "email": "eric.vining@house.state.tx.us",
+  "name": "Eric Vining",
+  "title": "Legislative Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5679",
+  "leg_id": "TXL000329",
+  "email": "sara.haenes@house.state.tx.us",
+  "name": "Sara Haenes",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5680",
+  "leg_id": "TXL000329",
+  "email": "meredith.cavalier@house.state.tx.us",
+  "name": "Meredith Cavalier",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5464",
+  "leg_id": "TXL000331",
+  "email": "michael.breitinger@house.state.tx.us",
+  "name": "Michael Breitinger",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5465",
+  "leg_id": "TXL000334",
+  "email": "lucky.urias@house.state.tx.us",
+  "name": "Lucky Urias",
+  "title": "Admin. Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5466",
+  "leg_id": "TXL000334",
+  "email": "david.leo@house.state.tx.us",
+  "name": "David Leo",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5468",
+  "leg_id": "TXL000334",
+  "email": "bernie.paredes@house.state.tx.us",
+  "name": "Bernie Paredes",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5471",
+  "leg_id": "TXL000334",
+  "email": "dante.houston@house.state.tx.us",
+  "name": "Dante Houston",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5474",
+  "leg_id": "TXL000334",
+  "email": "neil.doughty@house.state.tx.us",
+  "name": "Neil Doughty",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5467",
+  "leg_id": "TXL000334",
+  "email": "alex.salinas_hale@house.state.tx.us",
+  "name": "Alex Salinas-Hale",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5470",
+  "leg_id": "TXL000334",
+  "email": "cynthia.turner@house.state.tx.us",
+  "name": "Cynthia Turner",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5473",
+  "leg_id": "TXL000334",
+  "email": "julia.kowalsky@house.state.tx.us",
+  "name": "Julia Kowalsky",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5469",
+  "leg_id": "TXL000334",
+  "email": "connor.oakley@house.state.tx.us",
+  "name": "Connor Oakley",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5472",
+  "leg_id": "TXL000334",
+  "email": "john.owens@house.state.tx.us",
+  "name": "John Owens",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5475",
+  "leg_id": "TXL000334",
+  "email": "vera.bespalova@house.state.tx.us",
+  "name": "Vera Bespalova",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5476",
+  "leg_id": "TXL000334",
+  "email": "kayla.oliver@house.state.tx.us",
+  "name": "Kayla Oliver",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5640",
+  "leg_id": "TXL000335",
+  "email": "shelton.green@house.state.tx.us",
+  "name": "Shelton Green",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5610",
+  "leg_id": "TXL000338",
+  "email": "laura.hoke@house.state.tx.us",
+  "name": "Laura Stromberg Hoke",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5611",
+  "leg_id": "TXL000338",
+  "email": "ashley.alcantara@house.state.tx.us",
+  "name": "Ashley Alcantara",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5612",
+  "leg_id": "TXL000338",
+  "email": "deisy.jaimes@house.state.tx.us",
+  "name": "Deisy Jaimes",
+  "title": "Legis. Dir./Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5613",
+  "leg_id": "TXL000338",
+  "email": "huey.fischer@house.state.tx.us",
+  "name": "Huey Rey Fischer",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5614",
+  "leg_id": "TXL000338",
+  "email": "erin.cusack@house.state.tx.us",
+  "name": "Erin Cusack",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5690",
+  "leg_id": "TXL000342",
+  "email": "amanda.schar@house.state.tx.us",
+  "name": "Amanda Schar",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5691",
+  "leg_id": "TXL000342",
+  "email": "jessica.effenberger@house.state.tx.us",
+  "name": "Jessica Effenberger",
+  "title": "Legis. Aide/Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5692",
+  "leg_id": "TXL000342",
+  "email": "murphy.mccollough@house.state.tx.us",
+  "name": "Murphy Mccollough",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5477",
+  "leg_id": "TXL000344",
+  "email": "andrea.stingley@house.state.tx.us",
+  "name": "Andrea Stingley",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5478",
+  "leg_id": "TXL000344",
+  "email": "elin.isenhower@house.state.tx.us",
+  "name": "Elin Isenhower",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5654",
+  "leg_id": "TXL000347",
+  "email": "thomas.devery@house.state.tx.us",
+  "name": "Thomas Devery",
+  "title": "Admin. Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5655",
+  "leg_id": "TXL000347",
+  "email": "john.romano@house.state.tx.us",
+  "name": "John Romano",
+  "title": "Advance/Travel Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5656",
+  "leg_id": "TXL000347",
+  "email": "erin.wilson@house.state.tx.us",
+  "name": "Erin Daly Wilson",
+  "title": "Appts./Spec. Prog. Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5657",
+  "leg_id": "TXL000347",
+  "email": "andrew.clark@house.state.tx.us",
+  "name": "Andrew Clark",
+  "title": "Budget & Policy Advisor",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5658",
+  "leg_id": "TXL000347",
+  "email": "andrew.bifford@house.state.tx.us",
+  "name": "Andrew Bifford",
+  "title": "Budget Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5659",
+  "leg_id": "TXL000347",
+  "email": "jesse.ancira@house.state.tx.us",
+  "name": "Jesse Ancira",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5660",
+  "leg_id": "TXL000347",
+  "email": "jason.embry@house.state.tx.us",
+  "name": "Jason Embry",
+  "title": "Communication Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5661",
+  "leg_id": "TXL000347",
+  "email": "rocky.gage@house.state.tx.us",
+  "name": "Rocky Gage",
+  "title": "Constituent Rel. Coord.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5662",
+  "leg_id": "TXL000347",
+  "email": "meredyth.fowler@house.state.tx.us",
+  "name": "Meredyth Fowler",
+  "title": "Counsel On Gen. Govt.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5663",
+  "leg_id": "TXL000347",
+  "email": "jon.schnautz@house.state.tx.us",
+  "name": "Jon Schnautz",
+  "title": "Dep. Gen. Coun./Sr. Policy Advisor",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5664",
+  "leg_id": "TXL000347",
+  "email": "rebecca.ford@house.state.tx.us",
+  "name": "Rebecca Ford",
+  "title": "Dir., Special Svc.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5666",
+  "leg_id": "TXL000347",
+  "email": "josie.gamez@house.state.tx.us",
+  "name": "Josie Gamez",
+  "title": "Exec. Asst. to CoS",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5665",
+  "leg_id": "TXL000347",
+  "email": "jessica.hale@house.state.tx.us",
+  "name": "Jessica Hale",
+  "title": "Exec. Asst. to CoS",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5667",
+  "leg_id": "TXL000347",
+  "email": "carolyn.scott@house.state.tx.us",
+  "name": "Carolyn Scott",
+  "title": "Exec. Asst. to Spkr.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5668",
+  "leg_id": "TXL000347",
+  "email": "frank.battle@house.state.tx.us",
+  "name": "Frank Battle",
+  "title": "Gen. Counsel/Ethics Advisor",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5669",
+  "leg_id": "TXL000347",
+  "email": "vic.mendoza@house.state.tx.us",
+  "name": "Vic Mendoza",
+  "title": "Policy Advisor/Counsel",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5670",
+  "leg_id": "TXL000347",
+  "email": "tara.korstad@house.state.tx.us",
+  "name": "Tara Korstad",
+  "title": "Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5671",
+  "leg_id": "TXL000347",
+  "email": "catherine.hite@house.state.tx.us",
+  "name": "Catherine Hite",
+  "title": "Special Projects Coord.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5672",
+  "leg_id": "TXL000347",
+  "email": "brady.franks@house.state.tx.us",
+  "name": "Brady Franks",
+  "title": "Sr. Budget & Policy Advisor",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5673",
+  "leg_id": "TXL000347",
+  "email": "erika.akpan@house.state.tx.us",
+  "name": "Erika Akpan",
+  "title": "Sr. Bus./Reg. Affairs Advisor",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5674",
+  "leg_id": "TXL000347",
+  "email": "shakira.pumphrey@house.state.tx.us",
+  "name": "Shakira Pumphrey",
+  "title": "Sr. Defense/Corrections Advisor",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5675",
+  "leg_id": "TXL000347",
+  "email": "andrea.sheridan@house.state.tx.us",
+  "name": "Andrea Sheridan",
+  "title": "Sr. Educ. Policy Advisor",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5676",
+  "leg_id": "TXL000347",
+  "email": "heather.flemming@house.state.tx.us",
+  "name": "Heather Flemming",
+  "title": "Sr. Hhs Policy Advisor",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5677",
+  "leg_id": "TXL000347",
+  "email": "allison.winney@house.state.tx.us",
+  "name": "Allison Winney",
+  "title": "Sr. Policy Advisor",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5678",
+  "leg_id": "TXL000347",
+  "email": "patricia.shipton@house.state.tx.us",
+  "name": "Patricia Shipton",
+  "title": "Strategic Legal Advisor",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5543",
+  "leg_id": "TXL000349",
+  "email": "cari.christman@senate.state.tx.us",
+  "name": "Cari Christman",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5545",
+  "leg_id": "TXL000349",
+  "email": "nicole.sunstrum@senate.state.tx.us",
+  "name": "Nicole Sunstrum",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5544",
+  "leg_id": "TXL000349",
+  "email": "chris.noonan@senate.state.tx.us",
+  "name": "Chris Noonan",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5546",
+  "leg_id": "TXL000349",
+  "email": "haley.cornyn@senate.state.tx.us",
+  "name": "Haley Cornyn",
+  "title": "Policy Analyst/Comm. Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5547",
+  "leg_id": "TXL000349",
+  "email": "john.linscomb@senate.state.tx.us",
+  "name": "John Robert Linscomb",
+  "title": "Scheduler/Admin. Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5479",
+  "leg_id": "TXL000352",
+  "email": "milda.mora@house.state.tx.us",
+  "name": "Milda Mora",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5480",
+  "leg_id": "TXL000352",
+  "email": "colleen.tran@house.state.tx.us",
+  "name": "Colleen Tran",
+  "title": "Dep. Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5481",
+  "leg_id": "TXL000352",
+  "email": "alex.gamez@house.state.tx.us",
+  "name": "Alex Gamez",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5483",
+  "leg_id": "TXL000352",
+  "email": "shardae.womack@house.state.tx.us",
+  "name": "Shardae Womack",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5482",
+  "leg_id": "TXL000352",
+  "email": "jessica.rodriguez@house.state.tx.us",
+  "name": "Jessica Rodriguez",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5484",
+  "leg_id": "TXL000352",
+  "email": "brete.anderson@house.state.tx.us",
+  "name": "Brete Anderson",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5962",
+  "leg_id": "TXL000354",
+  "email": "emily.amps@house.state.tx.us",
+  "name": "Emily Amps",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5964",
+  "leg_id": "TXL000354",
+  "email": "george.liu@house.state.tx.us",
+  "name": "George Liu",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5963",
+  "leg_id": "TXL000354",
+  "email": "angel.jenkins@house.state.tx.us",
+  "name": "Angel Jenkins",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5965",
+  "leg_id": "TXL000354",
+  "email": "anya.callahan@house.state.tx.us",
+  "name": "Anya Callahan",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5485",
+  "leg_id": "TXL000355",
+  "email": "alison.brock@house.state.tx.us",
+  "name": "Alison Brock",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5487",
+  "leg_id": "TXL000355",
+  "email": "emma.oliver@house.state.tx.us",
+  "name": "Emma Oliver",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5486",
+  "leg_id": "TXL000355",
+  "email": "dominique.calhoun@house.state.tx.us",
+  "name": "Dominique Calhoun",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5488",
+  "leg_id": "TXL000355",
+  "email": "erika.smiley@house.state.tx.us",
+  "name": "Erika Smiley",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5489",
+  "leg_id": "TXL000355",
+  "email": "murry.matthews@house.state.tx.us",
+  "name": "Murry Matthews",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5490",
+  "leg_id": "TXL000355",
+  "email": "pam.watson@house.state.tx.us",
+  "name": "Pam Watson",
+  "title": "Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5592",
+  "leg_id": "TXL000359",
+  "email": "tanya.walker@house.state.tx.us",
+  "name": "Tanya Gripton Walker",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5593",
+  "leg_id": "TXL000359",
+  "email": "julia.yzaguirre@house.state.tx.us",
+  "name": "Julia Yzaguirre",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5594",
+  "leg_id": "TXL000359",
+  "email": "mariam.balaparya@house.state.tx.us",
+  "name": "Mariam Balaparya",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5596",
+  "leg_id": "TXL000359",
+  "email": "sana.rajani@house.state.tx.us",
+  "name": "Sana Rajani",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5595",
+  "leg_id": "TXL000359",
+  "email": "matthew.lemin@house.state.tx.us",
+  "name": "Matthew Lemin",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5966",
+  "leg_id": "TXL000360",
+  "email": "rahul.sreenivasan@house.state.tx.us",
+  "name": "Rahul Sreenivasan",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5969",
+  "leg_id": "TXL000360",
+  "email": "myriam.saldivar@house.state.tx.us",
+  "name": "Myriam Saldivar",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5968",
+  "leg_id": "TXL000360",
+  "email": "diamond.cherry@house.state.tx.us",
+  "name": "Diamond Cherry",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5967",
+  "leg_id": "TXL000360",
+  "email": "david.gonzalez@house.state.tx.us",
+  "name": "David Gonzalez",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5970",
+  "leg_id": "TXL000360",
+  "email": "stephanie.morris@house.state.tx.us",
+  "name": "Stephanie Morris",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5971",
+  "leg_id": "TXL000360",
+  "email": "paul.lopez@house.state.tx.us",
+  "name": "Paul Lopez",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5726",
+  "leg_id": "TXL000363",
+  "email": "nelda.hunter@house.state.tx.us",
+  "name": "Nelda Hunter",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5727",
+  "leg_id": "TXL000363",
+  "email": "anderson.frailey@house.state.tx.us",
+  "name": "Anderson Frailey",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5729",
+  "leg_id": "TXL000363",
+  "email": "kristen.gonzales@house.state.tx.us",
+  "name": "Kristen Gonzales",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5728",
+  "leg_id": "TXL000363",
+  "email": "kelley.mathis@house.state.tx.us",
+  "name": "Kelley Mathis",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6110",
+  "leg_id": "TXL000364",
+  "email": "ben.stratmann@senate.state.tx.us",
+  "name": "Ben Stratmann",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6111",
+  "leg_id": "TXL000364",
+  "email": "megan.lehmann@senate.state.tx.us",
+  "name": "Megan Lehmann",
+  "title": "Const. Correspondence Mgr.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6112",
+  "leg_id": "TXL000364",
+  "email": "anna.barnett@senate.state.tx.us",
+  "name": "Anna Barnett",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6113",
+  "leg_id": "TXL000364",
+  "email": "liz.sanchez@senate.state.tx.us",
+  "name": "Liz Sanchez",
+  "title": "Office Manager/Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6114",
+  "leg_id": "TXL000364",
+  "email": "karson.nance@senate.state.tx.us",
+  "name": "Karson Nance",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6115",
+  "leg_id": "TXL000364",
+  "email": "michael.cicerone@senate.state.tx.us",
+  "name": "Michael Cicerone",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6116",
+  "leg_id": "TXL000364",
+  "email": "matt.cope@senate.state.tx.us",
+  "name": "Matt Cope",
+  "title": "Sr. Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6079",
+  "leg_id": "TXL000373",
+  "email": "carla.pelcastre@house.state.tx.us",
+  "name": "Carla Pelcastre",
+  "title": "Admin. Aide/Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6080",
+  "leg_id": "TXL000373",
+  "email": "blake.dodd@house.state.tx.us",
+  "name": "Blake Dodd",
+  "title": "Capstone Fellow",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6081",
+  "leg_id": "TXL000373",
+  "email": "allison.billodeau@house.state.tx.us",
+  "name": "Allison Billodeau",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6082",
+  "leg_id": "TXL000373",
+  "email": "anna.chamness@house.state.tx.us",
+  "name": "Anna Chamness",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6084",
+  "leg_id": "TXL000373",
+  "email": "joe.romero@house.state.tx.us",
+  "name": "Joe Romero",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6083",
+  "leg_id": "TXL000373",
+  "email": "hayley.cook@house.state.tx.us",
+  "name": "Hayley Cook",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6085",
+  "leg_id": "TXL000373",
+  "email": "alyssa.jones@house.state.tx.us",
+  "name": "Alyssa Jones",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6097",
+  "leg_id": "TXL000378",
+  "email": "hunter.hughes@house.state.tx.us",
+  "name": "Hunter Hughes",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6098",
+  "leg_id": "TXL000378",
+  "email": "john.egan@house.state.tx.us",
+  "name": "John Egan",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6099",
+  "leg_id": "TXL000378",
+  "email": "brigette.dechant@house.state.tx.us",
+  "name": "Brigette Dechant",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6068",
+  "leg_id": "TXL000379",
+  "email": "robin.macewan@house.state.tx.us",
+  "name": "Robin MacEwan",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6069",
+  "leg_id": "TXL000379",
+  "email": "jordan.schultz@house.state.tx.us",
+  "name": "Jordan Schultz",
+  "title": "Communications Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6070",
+  "leg_id": "TXL000379",
+  "email": "yasmin.rey@house.state.tx.us",
+  "name": "Yasmin Rey",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6071",
+  "leg_id": "TXL000379",
+  "email": "matt.abel@house.state.tx.us",
+  "name": "Matt Abel",
+  "title": "Legislative Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6062",
+  "leg_id": "TXL000381",
+  "email": "amanda.morgan@house.state.tx.us",
+  "name": "Amanda Morgan",
+  "title": "Administrative Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6063",
+  "leg_id": "TXL000381",
+  "email": "chris.sanchez@house.state.tx.us",
+  "name": "Chris Sanchez",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6064",
+  "leg_id": "TXL000381",
+  "email": "jensen.degroot@house.state.tx.us",
+  "name": "Jensen DeGroot",
+  "title": "Communications Asst.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6066",
+  "leg_id": "TXL000381",
+  "email": "josh.vasquez@house.state.tx.us",
+  "name": "Josh Vasquez",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6065",
+  "leg_id": "TXL000381",
+  "email": "jami.sims@house.state.tx.us",
+  "name": "Jami Sims",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6067",
+  "leg_id": "TXL000381",
+  "email": "sarah.norman@house.state.tx.us",
+  "name": "Sarah Norman",
+  "title": "Legislative Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6090",
+  "leg_id": "TXL000385",
+  "email": "casey.christman@house.state.tx.us",
+  "name": "Casey Christman",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6091",
+  "leg_id": "TXL000385",
+  "email": "karla.rios@house.state.tx.us",
+  "name": "Karla Rios",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6094",
+  "leg_id": "TXL000385",
+  "email": "vy.nguyen@house.state.tx.us",
+  "name": "Vy Nguyen",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6093",
+  "leg_id": "TXL000385",
+  "email": "tulshi.patel@house.state.tx.us",
+  "name": "Tulshi Patel",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6092",
+  "leg_id": "TXL000385",
+  "email": "ryan.fraissinet@house.state.tx.us",
+  "name": "Ryan Fraissinet",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6095",
+  "leg_id": "TXL000385",
+  "email": "molly.spratt@house.state.tx.us",
+  "name": "Molly Spratt",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6096",
+  "leg_id": "TXL000385",
+  "email": "ben.melson@house.state.tx.us",
+  "name": "Ben Melson",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6020",
+  "leg_id": "TXL000386",
+  "email": "terry.franks@house.state.tx.us",
+  "name": "Terry M. Franks",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6021",
+  "leg_id": "TXL000386",
+  "email": "carrie.nelson@house.state.tx.us",
+  "name": "Carrie Nelson",
+  "title": "District Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6022",
+  "leg_id": "TXL000386",
+  "email": "chelsey.mcgee@house.state.tx.us",
+  "name": "Chelsey Mcgee",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6117",
+  "leg_id": "TXL000387",
+  "email": "brittney.madden@house.state.tx.us",
+  "name": "Brittney Madden",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6119",
+  "leg_id": "TXL000387",
+  "email": "thomas.flanders@house.state.tx.us",
+  "name": "Thomas Flanders",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6118",
+  "leg_id": "TXL000387",
+  "email": "angela.avila@house.state.tx.us",
+  "name": "Angela Avila",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5934",
+  "leg_id": "TXL000389",
+  "email": "lynlie.wallace@house.state.tx.us",
+  "name": "Lynlie Wallace",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5936",
+  "leg_id": "TXL000389",
+  "email": "michael.ortiz@house.state.tx.us",
+  "name": "Michael Ortiz",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5935",
+  "leg_id": "TXL000389",
+  "email": "bria.moore@house.state.tx.us",
+  "name": "Bria Moore",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5937",
+  "leg_id": "TXL000389",
+  "email": "shannon.houston@house.state.tx.us",
+  "name": "Shannon Houston",
+  "title": "Legis. Dir./Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5938",
+  "leg_id": "TXL000389",
+  "email": "nicole.cox@house.state.tx.us",
+  "name": "Nicole Cox",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5939",
+  "leg_id": "TXL000389",
+  "email": "lesse.libra@house.state.tx.us",
+  "name": "Lesse Libra",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6053",
+  "leg_id": "TXL000391",
+  "email": "matt.lamon@house.state.tx.us",
+  "name": "Matt Lamon",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6056",
+  "leg_id": "TXL000391",
+  "email": "patrick.dinnin@house.state.tx.us",
+  "name": "Patrick Dinnin",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6055",
+  "leg_id": "TXL000391",
+  "email": "morgan.love@house.state.tx.us",
+  "name": "Morgan Love",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6054",
+  "leg_id": "TXL000391",
+  "email": "matthew.bangcaya@house.state.tx.us",
+  "name": "Matthew Bangcaya",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6057",
+  "leg_id": "TXL000391",
+  "email": "travis.walker@house.state.tx.us",
+  "name": "Travis Walker",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5803",
+  "leg_id": "TXL000395",
+  "email": "shalette.mitchell@house.state.tx.us",
+  "name": "Shalette Mitchell",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5804",
+  "leg_id": "TXL000395",
+  "email": "camille.foster@house.state.tx.us",
+  "name": "Camille Foster",
+  "title": "Executive Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5805",
+  "leg_id": "TXL000395",
+  "email": "tyler.fleming@house.state.tx.us",
+  "name": "Tyler Fleming",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5806",
+  "leg_id": "TXL000395",
+  "email": "clayton.riley@house.state.tx.us",
+  "name": "J. Clayton Riley",
+  "title": "Legislative Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5807",
+  "leg_id": "TXL000395",
+  "email": "steven.valles@house.state.tx.us",
+  "name": "Steven Valles",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5353",
+  "leg_id": "TXL000396",
+  "email": "dylan.matthews@house.state.tx.us",
+  "name": "Dylan Matthews",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5354",
+  "leg_id": "TXL000396",
+  "email": "peter.salinas@house.state.tx.us",
+  "name": "Peter Salinas",
+  "title": "Communications Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5356",
+  "leg_id": "TXL000396",
+  "email": "christina.mcelfresh@house.state.tx.us",
+  "name": "Christina McElfresh",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5355",
+  "leg_id": "TXL000396",
+  "email": "austin.navarro@house.state.tx.us",
+  "name": "Austin Navarro",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5357",
+  "leg_id": "TXL000396",
+  "email": "shauna.miller@house.state.tx.us",
+  "name": "Shauna Miller",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5358",
+  "leg_id": "TXL000396",
+  "email": "loradel.mariano@house.state.tx.us",
+  "name": "Loradel Mariano",
+  "title": "Legislative Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5732",
+  "leg_id": "TXL000397",
+  "email": "martha.liner@house.state.tx.us",
+  "name": "Martha Bell Liner",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5733",
+  "leg_id": "TXL000397",
+  "email": "benjamin.williams@house.state.tx.us",
+  "name": "Benjamin Williams",
+  "title": "Dir. of Administration",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5736",
+  "leg_id": "TXL000397",
+  "email": "roel.benavides@house.state.tx.us",
+  "name": "Roel Benavides, Jr.",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5735",
+  "leg_id": "TXL000397",
+  "email": "lichelle.armstrong@house.state.tx.us",
+  "name": "Lichelle Armstrong",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5734",
+  "leg_id": "TXL000397",
+  "email": "katherine.diaz@house.state.tx.us",
+  "name": "Katherine Diaz",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5737",
+  "leg_id": "TXL000397",
+  "email": "eiman.siddiqui@house.state.tx.us",
+  "name": "Eiman Siddiqui",
+  "title": "Policy analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5738",
+  "leg_id": "TXL000397",
+  "email": "sarah.aimad@house.state.tx.us",
+  "name": "Sarah Aimad",
+  "title": "Sr. Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6039",
+  "leg_id": "TXL000402",
+  "email": "hal.talton@house.state.tx.us",
+  "name": "Hal Talton",
+  "title": "Chief Of Staff/Gen. Counsel",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6040",
+  "leg_id": "TXL000402",
+  "email": "sandra.talton@house.state.tx.us",
+  "name": "Sandra Talton",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6041",
+  "leg_id": "TXL000402",
+  "email": "cailey.mclain@house.state.tx.us",
+  "name": "Cailey Mclain",
+  "title": "Scheduler/Legis. Asst.",
+  "updated_at": "2015-03-25 15:21:17"
+}, {
+  "staff_id": "6042",
+  "leg_id": "TXL000402",
+  "email": "kathryn.lake@house.state.tx.us",
+  "name": "Kathryn Lake",
+  "title": "Sr. Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5972",
+  "leg_id": "TXL000404",
+  "email": "jennifer.brader@house.state.tx.us",
+  "name": "Jennifer Brader",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5973",
+  "leg_id": "TXL000404",
+  "email": "sondra.haltom@house.state.tx.us",
+  "name": "Sondra Haltom",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5974",
+  "leg_id": "TXL000404",
+  "email": "glen.austin@house.state.tx.us",
+  "name": "Glen Austin",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6012",
+  "leg_id": "TXL000405",
+  "email": "chelsea.lam@senate.state.tx.us",
+  "name": "Chelsea Lam",
+  "title": "Admin. Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6013",
+  "leg_id": "TXL000405",
+  "email": "tom.holloway@senate.state.tx.us",
+  "name": "Tom Holloway",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6014",
+  "leg_id": "TXL000405",
+  "email": "leah.alexander@senate.state.tx.us",
+  "name": "Leah Alexander",
+  "title": "District Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6016",
+  "leg_id": "TXL000405",
+  "email": "ke.wallace@senate.state.tx.us",
+  "name": "Ke Wallace",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6015",
+  "leg_id": "TXL000405",
+  "email": "ariel.traub@senate.state.tx.us",
+  "name": "Ariel Traub",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6017",
+  "leg_id": "TXL000405",
+  "email": "nelson.jarrin@senate.state.tx.us",
+  "name": "Nelson Jarrin",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6019",
+  "leg_id": "TXL000405",
+  "email": "taylor.borer@senate.state.tx.us",
+  "name": "Taylor Borer",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6018",
+  "leg_id": "TXL000405",
+  "email": "kaden.norton@senate.state.tx.us",
+  "name": "Kaden Norton",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6086",
+  "leg_id": "TXL000407",
+  "email": "mackenzie.oliphant@house.state.tx.us",
+  "name": "Mackenzie Oliphant",
+  "title": "Admin. Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6087",
+  "leg_id": "TXL000407",
+  "email": "dustin.meador@house.state.tx.us",
+  "name": "Dustin Meador",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6088",
+  "leg_id": "TXL000407",
+  "email": "david.sorensen@house.state.tx.us",
+  "name": "David Sorensen",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6089",
+  "leg_id": "TXL000407",
+  "email": "kenisha.schuster@house.state.tx.us",
+  "name": "Kenisha Schuster",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5999",
+  "leg_id": "TXL000408",
+  "email": "kathi.seay@house.state.tx.us",
+  "name": "Kathi Seay",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6000",
+  "leg_id": "TXL000408",
+  "email": "carrie.smith@house.state.tx.us",
+  "name": "Carrie Smith",
+  "title": "Communication Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6001",
+  "leg_id": "TXL000408",
+  "email": "leigh.uranga@house.state.tx.us",
+  "name": "Leigh Uranga",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6002",
+  "leg_id": "TXL000408",
+  "email": "tanisha.bush@house.state.tx.us",
+  "name": "Tanisha Bush",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6003",
+  "leg_id": "TXL000408",
+  "email": "eli.stephens@house.state.tx.us",
+  "name": "Eli Stephens",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6004",
+  "leg_id": "TXL000408",
+  "email": "michael.bullock@house.state.tx.us",
+  "name": "Michael Bullock",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6005",
+  "leg_id": "TXL000408",
+  "email": "emily.nicholson@house.state.tx.us",
+  "name": "Emily Nicholson",
+  "title": "Office Admin.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6006",
+  "leg_id": "TXL000410",
+  "email": "jonathan.covey@house.state.tx.us",
+  "name": "Jonathan Covey",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6007",
+  "leg_id": "TXL000410",
+  "email": "natalie.smith@house.state.tx.us",
+  "name": "Natalie Smith",
+  "title": "Constituent Services",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6010",
+  "leg_id": "TXL000410",
+  "email": "zackary.griffin@house.state.tx.us",
+  "name": "Zackary Griffin",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6009",
+  "leg_id": "TXL000410",
+  "email": "william.hon@house.state.tx.us",
+  "name": "William Hon",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6008",
+  "leg_id": "TXL000410",
+  "email": "mercedes.gonzalez@house.state.tx.us",
+  "name": "Mercedes Gonzalez",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6011",
+  "leg_id": "TXL000410",
+  "email": "saul.mendoza@house.state.tx.us",
+  "name": "Saul Mendoza",
+  "title": "Legis./Communication Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6023",
+  "leg_id": "TXL000411",
+  "email": "don.barber@house.state.tx.us",
+  "name": "Don Barber",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6024",
+  "leg_id": "TXL000411",
+  "email": "brian.mitchell@house.state.tx.us",
+  "name": "Brian Mitchell",
+  "title": "Comm. Dir./Legis. Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6025",
+  "leg_id": "TXL000411",
+  "email": "blake.rogers@house.state.tx.us",
+  "name": "Blake Rogers",
+  "title": "Constituent Svc. Mgr.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5604",
+  "leg_id": "TXL000412",
+  "email": "matthew.posey@house.state.tx.us",
+  "name": "Matthew Posey",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5605",
+  "leg_id": "TXL000412",
+  "email": "christina.breitbeil@house.state.tx.us",
+  "name": "Christina Breitbeil",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5608",
+  "leg_id": "TXL000412",
+  "email": "tasha.zand@house.state.tx.us",
+  "name": "Tasha Zand",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5607",
+  "leg_id": "TXL000412",
+  "email": "krista.harvey@house.state.tx.us",
+  "name": "Krista Harvey",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5606",
+  "leg_id": "TXL000412",
+  "email": "josh.hawkins@house.state.tx.us",
+  "name": "Josh Hawkins",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5609",
+  "leg_id": "TXL000412",
+  "email": "charlotte.blakemore@house.state.tx.us",
+  "name": "Charlotte Blakemore",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6058",
+  "leg_id": "TXL000414",
+  "email": "sushma.smith@senate.state.tx.us",
+  "name": "Sushma Smith",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6059",
+  "leg_id": "TXL000414",
+  "email": "daniel.collins@senate.state.tx.us",
+  "name": "Daniel Collins",
+  "title": "Dep. Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6060",
+  "leg_id": "TXL000414",
+  "email": "luis.figueroa@senate.state.tx.us",
+  "name": "Luis Figueroa",
+  "title": "General Counsel",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6061",
+  "leg_id": "TXL000414",
+  "email": "allison.brooks@senate.state.tx.us",
+  "name": "Allison Brooks",
+  "title": "Scheduler/Office Manager",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6180",
+  "leg_id": "TXL000415",
+  "email": "anna.hynes@house.state.tx.us",
+  "name": "Anna Hynes",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6182",
+  "leg_id": "TXL000415",
+  "email": "levi.gibson@house.state.tx.us",
+  "name": "Levi Gibson",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6181",
+  "leg_id": "TXL000415",
+  "email": "caitland.campbell@house.state.tx.us",
+  "name": "Caitland Campbell",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6183",
+  "leg_id": "TXL000415",
+  "email": "leo.mathers@house.state.tx.us",
+  "name": "Leo Mathers",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6184",
+  "leg_id": "TXL000415",
+  "email": "austin.mccarty@house.state.tx.us",
+  "name": "Austin Mccarty",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5992",
+  "leg_id": "TXL000419",
+  "email": "stephanie.matthews@senate.state.tx.us",
+  "name": "Stephanie Matthews",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5994",
+  "leg_id": "TXL000419",
+  "email": "philip.hayes@senate.state.tx.us",
+  "name": "Philip Hayes",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5993",
+  "leg_id": "TXL000419",
+  "email": "morgan.nelson@senate.state.tx.us",
+  "name": "Morgan Nelson",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5995",
+  "leg_id": "TXL000419",
+  "email": "meredith.ross@senate.state.tx.us",
+  "name": "Meredith Ross",
+  "title": "Policy Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5996",
+  "leg_id": "TXL000419",
+  "email": "peter.salas@senate.state.tx.us",
+  "name": "Peter Salas",
+  "title": "Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5997",
+  "leg_id": "TXL000419",
+  "email": "jon.oliver@senate.state.tx.us",
+  "name": "Jon Oliver",
+  "title": "Sr. Policy & Comm. Advisor",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5998",
+  "leg_id": "TXL000419",
+  "email": "krista.heiden@senate.state.tx.us",
+  "name": "Krista Heiden",
+  "title": "Sr. Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6200",
+  "leg_id": "TXL000424",
+  "email": "chris.kirby@house.state.tx.us",
+  "name": "Chris Kirby",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6201",
+  "leg_id": "TXL000424",
+  "email": "lauren.mehalic@house.state.tx.us",
+  "name": "Lauren Mehalic",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6202",
+  "leg_id": "TXL000424",
+  "email": "john.daywalt@house.state.tx.us",
+  "name": "John Daywalt",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6185",
+  "leg_id": "TXL000426",
+  "email": "brigitt.hartin@house.state.tx.us",
+  "name": "Brigitt Hartin",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6186",
+  "leg_id": "TXL000426",
+  "email": "davis.hairston@house.state.tx.us",
+  "name": "Davis Hairston",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6187",
+  "leg_id": "TXL000426",
+  "email": "josh.cariglia@house.state.tx.us",
+  "name": "Josh Cariglia",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6188",
+  "leg_id": "TXL000426",
+  "email": "justin.till@house.state.tx.us",
+  "name": "Justin Till",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6129",
+  "leg_id": "TXL000428",
+  "email": "curtis.smith@house.state.tx.us",
+  "name": "Curtis Smith",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6130",
+  "leg_id": "TXL000428",
+  "email": "antonio.anguiano@house.state.tx.us",
+  "name": "Antonio Anguiano",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6131",
+  "leg_id": "TXL000428",
+  "email": "lesley.marin@house.state.tx.us",
+  "name": "Lesley Marin",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6132",
+  "leg_id": "TXL000428",
+  "email": "daniel.moore@house.state.tx.us",
+  "name": "Daniel Moore",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6072",
+  "leg_id": "TXL000429",
+  "email": "katy.aldredge@house.state.tx.us",
+  "name": "Katy Aldredge",
+  "title": "Capitol Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6073",
+  "leg_id": "TXL000429",
+  "email": "amanda.calongne@house.state.tx.us",
+  "name": "Amanda Calongne",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6074",
+  "leg_id": "TXL000429",
+  "email": "chris.doughty@house.state.tx.us",
+  "name": "Chris Doughty",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6075",
+  "leg_id": "TXL000429",
+  "email": "courtney.roberts@house.state.tx.us",
+  "name": "Courtney Roberts",
+  "title": "Policy Analyst/Commun. Mgr.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6173",
+  "leg_id": "TXL000430",
+  "email": "kelly.barnes@house.state.tx.us",
+  "name": "Kelly Barnes",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6174",
+  "leg_id": "TXL000430",
+  "email": "zoe.ang@house.state.tx.us",
+  "name": "Zoe Ang",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6175",
+  "leg_id": "TXL000430",
+  "email": "judd.messer@house.state.tx.us",
+  "name": "Judd Messer",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6141",
+  "leg_id": "TXL000431",
+  "email": "jacob.limon@house.state.tx.us",
+  "name": "Jacob Limon",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6143",
+  "leg_id": "TXL000431",
+  "email": "taryn.stoneking@house.state.tx.us",
+  "name": "Taryn Stoneking",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6142",
+  "leg_id": "TXL000431",
+  "email": "karmah.stokes@house.state.tx.us",
+  "name": "Karmah Stokes",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6144",
+  "leg_id": "TXL000431",
+  "email": "ann.bailey@house.state.tx.us",
+  "name": "Ann Bailey",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6100",
+  "leg_id": "TXL000433",
+  "email": "amy.rister@house.state.tx.us",
+  "name": "Amy Rister",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6101",
+  "leg_id": "TXL000433",
+  "email": "jimmy.brymer@house.state.tx.us",
+  "name": "Jimmy Brymer",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6102",
+  "leg_id": "TXL000433",
+  "email": "julie.lauria@house.state.tx.us",
+  "name": "Julie Lauria",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6103",
+  "leg_id": "TXL000433",
+  "email": "hannah.thomas@house.state.tx.us",
+  "name": "Hannah Thomas",
+  "title": "Legislative Asst.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6104",
+  "leg_id": "TXL000433",
+  "email": "greg.bentch@house.state.tx.us",
+  "name": "Greg Bentch",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6105",
+  "leg_id": "TXL000433",
+  "email": "madeline.mclean@house.state.tx.us",
+  "name": "Madeline Mclean",
+  "title": "Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5985",
+  "leg_id": "TXL000434",
+  "email": "nicholas.wat@house.state.tx.us",
+  "name": "Nicholas Wat",
+  "title": "Capitol Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5986",
+  "leg_id": "TXL000434",
+  "email": "shannan.sorrell@house.state.tx.us",
+  "name": "Shannan Sorrell",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5988",
+  "leg_id": "TXL000434",
+  "email": "konnor.rodriguez@house.state.tx.us",
+  "name": "Konnor Rodriguez",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5987",
+  "leg_id": "TXL000434",
+  "email": "jacob.przada@house.state.tx.us",
+  "name": "Jacob Przada",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5989",
+  "leg_id": "TXL000434",
+  "email": "paige.sowder@house.state.tx.us",
+  "name": "Paige Sowder",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5990",
+  "leg_id": "TXL000434",
+  "email": "corey.rose@house.state.tx.us",
+  "name": "Corey Rose",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5991",
+  "leg_id": "TXL000434",
+  "email": "samantha.wallace@house.state.tx.us",
+  "name": "Samantha Wallace",
+  "title": "Legislative Asst.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6106",
+  "leg_id": "TXL000435",
+  "email": "aaron.gibson@house.state.tx.us",
+  "name": "Aaron Gibson",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6107",
+  "leg_id": "TXL000435",
+  "email": "kendra.verash@house.state.tx.us",
+  "name": "Kendra Verash",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6108",
+  "leg_id": "TXL000435",
+  "email": "nicole.elmurr@house.state.tx.us",
+  "name": "Nicole Elmurr",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6109",
+  "leg_id": "TXL000435",
+  "email": "david.glenn@house.state.tx.us",
+  "name": "David Glenn",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6215",
+  "leg_id": "TXL000436",
+  "email": "jim.johnson@house.state.tx.us",
+  "name": "Jim Johnson",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6216",
+  "leg_id": "TXL000436",
+  "email": "rachel.malhiet@house.state.tx.us",
+  "name": "Rachel Malhiet",
+  "title": "Legislative Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6217",
+  "leg_id": "TXL000436",
+  "email": "megan.titford@house.state.tx.us",
+  "name": "Megan Titford",
+  "title": "Legislative Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6236",
+  "leg_id": "TXL000437",
+  "email": "amanda.robertson@house.state.tx.us",
+  "name": "Amanda Robertson",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6237",
+  "leg_id": "TXL000437",
+  "email": "erika.cheung@house.state.tx.us",
+  "name": "Erika Cheung",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6238",
+  "leg_id": "TXL000437",
+  "email": "mercer.proctor@house.state.tx.us",
+  "name": "Mercer Proctor",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6239",
+  "leg_id": "TXL000437",
+  "email": "leigh.collins@house.state.tx.us",
+  "name": "Leigh Collins",
+  "title": "Legislative Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6240",
+  "leg_id": "TXL000437",
+  "email": "ainslie.ellis@house.state.tx.us",
+  "name": "Ainslie Ellis",
+  "title": "Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6137",
+  "leg_id": "TXL000438",
+  "email": "corinne.chacon@house.state.tx.us",
+  "name": "Corinne Chacon",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6138",
+  "leg_id": "TXL000438",
+  "email": "doriana.torres@house.state.tx.us",
+  "name": "Doriana Torres",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6139",
+  "leg_id": "TXL000438",
+  "email": "joshua.carter@house.state.tx.us",
+  "name": "Joshua Carter",
+  "title": "Legislative Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6140",
+  "leg_id": "TXL000438",
+  "email": "genevieve.cato@house.state.tx.us",
+  "name": "Genevieve Cato",
+  "title": "Legislative Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6133",
+  "leg_id": "TXL000439",
+  "email": "anne.drescher@house.state.tx.us",
+  "name": "Anne Drescher",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6253",
+  "leg_id": "TXL000439",
+  "email": "dahlia.perez@house.state.tx.us",
+  "name": "Dahlia Perez",
+  "title": "District Manager",
+  "updated_at": "2015-03-25 16:47:38"
+}, {
+  "staff_id": "6134",
+  "leg_id": "TXL000439",
+  "email": "patrick.mcdonald@house.state.tx.us",
+  "name": "Patrick McDonald",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6135",
+  "leg_id": "TXL000439",
+  "email": "aisa.showery@house.state.tx.us",
+  "name": "Aisa Showery",
+  "title": "Legislative Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6136",
+  "leg_id": "TXL000439",
+  "email": "johnathan.whinojosa@house.state.tx.us",
+  "name": "Johnathan Weisfeld-Hinojosa",
+  "title": "Legislative intern",
+  "updated_at": "2015-03-25 16:46:23"
+}, {
+  "staff_id": "6176",
+  "leg_id": "TXL000441",
+  "email": "terra.willett@house.state.tx.us",
+  "name": "Terra Willett",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6177",
+  "leg_id": "TXL000441",
+  "email": "angelo.gonzalez@house.state.tx.us",
+  "name": "Angelo Gonzalez",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6178",
+  "leg_id": "TXL000441",
+  "email": "jarrod.azopardi@house.state.tx.us",
+  "name": "Jarrod Azopardi",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6179",
+  "leg_id": "TXL000441",
+  "email": "ryan.skrobarczyk@house.state.tx.us",
+  "name": "Ryan Skrobarczyk",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6223",
+  "leg_id": "TXL000442",
+  "email": "cheryl.lively@house.state.tx.us",
+  "name": "Cheryl Lively",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6225",
+  "leg_id": "TXL000442",
+  "email": "rhett.meyer@house.state.tx.us",
+  "name": "Rhett Meyer",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6224",
+  "leg_id": "TXL000442",
+  "email": "amber.hunter@house.state.tx.us",
+  "name": "Amber Hunter",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6226",
+  "leg_id": "TXL000442",
+  "email": "megan.quijano@house.state.tx.us",
+  "name": "Megan Quijano",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6227",
+  "leg_id": "TXL000443",
+  "email": "bryan.shufelt@house.state.tx.us",
+  "name": "Bryan Shufelt",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6228",
+  "leg_id": "TXL000443",
+  "email": "callie.strock@house.state.tx.us",
+  "name": "Callie Strock",
+  "title": "Legislative Asst.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6229",
+  "leg_id": "TXL000443",
+  "email": "rebecca.parma@house.state.tx.us",
+  "name": "Rebecca Parma",
+  "title": "Legislative Asst.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6230",
+  "leg_id": "TXL000443",
+  "email": "steven.will@house.state.tx.us",
+  "name": "Steven Will",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6076",
+  "leg_id": "TXL000444",
+  "email": "clayton.knippa@house.state.tx.us",
+  "name": "Clayton Knippa",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6077",
+  "leg_id": "TXL000444",
+  "email": "daniel.moss@house.state.tx.us",
+  "name": "Daniel Moss",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6078",
+  "leg_id": "TXL000444",
+  "email": "edward.jaax@house.state.tx.us",
+  "name": "Edward Jaax",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6207",
+  "leg_id": "TXL000445",
+  "email": "mary.mcclure@house.state.tx.us",
+  "name": "Mary McClure",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6208",
+  "leg_id": "TXL000445",
+  "email": "chris.kendall@house.state.tx.us",
+  "name": "Chris Kendall",
+  "title": "Legis. Aide/Policy Advisor",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6209",
+  "leg_id": "TXL000445",
+  "email": "paige.sullivan@house.state.tx.us",
+  "name": "Paige Sullivan",
+  "title": "Legis. Correspondent",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6210",
+  "leg_id": "TXL000445",
+  "email": "creighton.root@house.state.tx.us",
+  "name": "Creighton Root",
+  "title": "Legislative Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6124",
+  "leg_id": "TXL000446",
+  "email": "lee.loya@house.state.tx.us",
+  "name": "Lee Loya",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6126",
+  "leg_id": "TXL000446",
+  "email": "steven.franz@house.state.tx.us",
+  "name": "Steven Franz",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6125",
+  "leg_id": "TXL000446",
+  "email": "jonathan.pena@house.state.tx.us",
+  "name": "Jonathan Peña",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:17:35"
+}, {
+  "staff_id": "6127",
+  "leg_id": "TXL000446",
+  "email": "carlos.aguayo@house.state.tx.us",
+  "name": "Carlos Aguayo",
+  "title": "Legislative Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6128",
+  "leg_id": "TXL000446",
+  "email": "michelle.villarreal_castillo@house.state.tx.us",
+  "name": "Michelle Villarreal-Castillo",
+  "title": "Legislative Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6189",
+  "leg_id": "TXL000449",
+  "email": "courtney.hjaltman@house.state.tx.us",
+  "name": "Courtney Hjältman",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:18:24"
+}, {
+  "staff_id": "6190",
+  "leg_id": "TXL000449",
+  "email": "jason.kirksey@house.state.tx.us",
+  "name": "Jason Kirksey",
+  "title": "Legis. Aide/Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6191",
+  "leg_id": "TXL000449",
+  "email": "margaret.reiney@house.state.tx.us",
+  "name": "Margaret Reiney",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6153",
+  "leg_id": "TXL000452",
+  "email": "oberlyn.salinas@house.state.tx.us",
+  "name": "Oberlyn Salinas",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6154",
+  "leg_id": "TXL000452",
+  "email": "lauren.cacheaux@house.state.tx.us",
+  "name": "Lauren Cacheaux",
+  "title": "General Counsel/Legis. Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6161",
+  "leg_id": "TXL000452",
+  "email": "susan.morris@house.state.tx.us",
+  "name": "Susan Morris",
+  "title": "Legislative Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6157",
+  "leg_id": "TXL000452",
+  "email": "isiah.carter@house.state.tx.us",
+  "name": "Isiah Carter",
+  "title": "Legislative Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6160",
+  "leg_id": "TXL000452",
+  "email": "kiefer.odell@house.state.tx.us",
+  "name": "Kiefer Odell",
+  "title": "Legislative Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6156",
+  "leg_id": "TXL000452",
+  "email": "alycia.welch@house.state.tx.us",
+  "name": "Alycia Welch",
+  "title": "Legislative Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6159",
+  "leg_id": "TXL000452",
+  "email": "john.wooding@house.state.tx.us",
+  "name": "John Wooding",
+  "title": "Legislative Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6155",
+  "leg_id": "TXL000452",
+  "email": "alison.mohr@house.state.tx.us",
+  "name": "Alison Mohr",
+  "title": "Legislative Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6158",
+  "leg_id": "TXL000452",
+  "email": "jacob.tamayo@house.state.tx.us",
+  "name": "Jacob Tamayo",
+  "title": "Legislative Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6170",
+  "leg_id": "TXL000454",
+  "email": "john.buxie@house.state.tx.us",
+  "name": "John Buxie",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6171",
+  "leg_id": "TXL000454",
+  "email": "katherine.ricks@house.state.tx.us",
+  "name": "Katherine Ricks",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6172",
+  "leg_id": "TXL000454",
+  "email": "sarah.decuir@house.state.tx.us",
+  "name": "Sarah DeCuir",
+  "title": "Legislative Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5930",
+  "leg_id": "TXL000457",
+  "email": "brian.hodgdon@house.state.tx.us",
+  "name": "Brian Hodgdon",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5931",
+  "leg_id": "TXL000457",
+  "email": "jessalyn.reid@house.state.tx.us",
+  "name": "Jessalyn Reid",
+  "title": "Communication Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5933",
+  "leg_id": "TXL000457",
+  "email": "shereen.ahmad@house.state.tx.us",
+  "name": "Shereen Ahmad",
+  "title": "Legislative Asst.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5932",
+  "leg_id": "TXL000457",
+  "email": "nathan.salazar@house.state.tx.us",
+  "name": "Nathan Salazar",
+  "title": "Legislative Asst.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6145",
+  "leg_id": "TXL000458",
+  "email": "broderick.butler@house.state.tx.us",
+  "name": "Broderick Butler",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6146",
+  "leg_id": "TXL000458",
+  "email": "lauren.gray@house.state.tx.us",
+  "name": "Lauren Gray",
+  "title": "Dist. Office Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6148",
+  "leg_id": "TXL000458",
+  "email": "rohit.chandan@house.state.tx.us",
+  "name": "Rohit Chandan",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6147",
+  "leg_id": "TXL000458",
+  "email": "joanna.joseph@house.state.tx.us",
+  "name": "Joanna Joseph",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6218",
+  "leg_id": "TXL000459",
+  "email": "katherine.munal@house.state.tx.us",
+  "name": "Katherine Munal",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6221",
+  "leg_id": "TXL000459",
+  "email": "josh.oden@house.state.tx.us",
+  "name": "Josh Oden",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6220",
+  "leg_id": "TXL000459",
+  "email": "janet.luttmer@house.state.tx.us",
+  "name": "Janet Luttmer",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6219",
+  "leg_id": "TXL000459",
+  "email": "allison.ainsworth@house.state.tx.us",
+  "name": "Allison Ainsworth",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6222",
+  "leg_id": "TXL000459",
+  "email": "thomas.meehan@house.state.tx.us",
+  "name": "Thomas Meehan",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6165",
+  "leg_id": "TXL000460",
+  "email": "judd.quarles@house.state.tx.us",
+  "name": "Judd Quarles",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6166",
+  "leg_id": "TXL000460",
+  "email": "michael.aars@house.state.tx.us",
+  "name": "Michael Aars",
+  "title": "Communication Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6167",
+  "leg_id": "TXL000460",
+  "email": "kati.tifft@house.state.tx.us",
+  "name": "Kati Tifft",
+  "title": "Legis. Asst./Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6168",
+  "leg_id": "TXL000460",
+  "email": "hannah.watts@house.state.tx.us",
+  "name": "Hannah Watts",
+  "title": "Legislative Asst.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6169",
+  "leg_id": "TXL000460",
+  "email": "alisha.jackson@house.state.tx.us",
+  "name": "Alisha Jackson",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6026",
+  "leg_id": "TXL000461",
+  "email": "andrew.johnson@house.state.tx.us",
+  "name": "Andrew Johnson",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6028",
+  "leg_id": "TXL000461",
+  "email": "taylor.sexton@house.state.tx.us",
+  "name": "Taylor Sexton",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6027",
+  "leg_id": "TXL000461",
+  "email": "molly.smith@house.state.tx.us",
+  "name": "Molly Smith",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6029",
+  "leg_id": "TXL000461",
+  "email": "amanda.tollett@house.state.tx.us",
+  "name": "Amanda Tollett",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6203",
+  "leg_id": "TXL000462",
+  "email": "ben.lancaster@house.state.tx.us",
+  "name": "Ben Lancaster",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6205",
+  "leg_id": "TXL000462",
+  "email": "sarah.landsman@house.state.tx.us",
+  "name": "Sarah Landsman",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6204",
+  "leg_id": "TXL000462",
+  "email": "christopher.gruning@house.state.tx.us",
+  "name": "Christopher Gruning",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6206",
+  "leg_id": "TXL000462",
+  "email": "zach.flores@house.state.tx.us",
+  "name": "Zach Flores",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6211",
+  "leg_id": "TXL000463",
+  "email": "jonathan.mathers@house.state.tx.us",
+  "name": "Jonathan Mathers",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6212",
+  "leg_id": "TXL000463",
+  "email": "kate.ferguson@house.state.tx.us",
+  "name": "Kate Ferguson",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6214",
+  "leg_id": "TXL000463",
+  "email": "mark.thorne_thomsen@house.state.tx.us",
+  "name": "Mark Thorne-Thomsen",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6213",
+  "leg_id": "TXL000463",
+  "email": "andrew.rodriguez@house.state.tx.us",
+  "name": "Andrew Rodriguez",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5618",
+  "leg_id": "TXL000464",
+  "email": "matt.minor@house.state.tx.us",
+  "name": "Matt Minor",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5619",
+  "leg_id": "TXL000464",
+  "email": "mason.mueller@house.state.tx.us",
+  "name": "Mason Mueller",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5620",
+  "leg_id": "TXL000464",
+  "email": "hope.ruiz@house.state.tx.us",
+  "name": "Hope Ruiz",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5621",
+  "leg_id": "TXL000464",
+  "email": "sarah.narvaiz@house.state.tx.us",
+  "name": "Sarah Narvaiz",
+  "title": "Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6231",
+  "leg_id": "TXL000465",
+  "email": "tim.hardin@house.state.tx.us",
+  "name": "Tim Hardin",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6234",
+  "leg_id": "TXL000465",
+  "email": "matt.christensen@house.state.tx.us",
+  "name": "Matt Christensen",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6233",
+  "leg_id": "TXL000465",
+  "email": "lauren.marchand@house.state.tx.us",
+  "name": "Lauren Marchand",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6232",
+  "leg_id": "TXL000465",
+  "email": "ani.degroot@house.state.tx.us",
+  "name": "Ani Degroot",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6235",
+  "leg_id": "TXL000465",
+  "email": "murphy.simpson@house.state.tx.us",
+  "name": "Murphy Simpson",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6120",
+  "leg_id": "TXL000466",
+  "email": "emily.kirchner@house.state.tx.us",
+  "name": "Emily Kirchner",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6121",
+  "leg_id": "TXL000466",
+  "email": "grace.richardson@house.state.tx.us",
+  "name": "Grace Richardson",
+  "title": "Communication Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6122",
+  "leg_id": "TXL000466",
+  "email": "luke.orlando@house.state.tx.us",
+  "name": "Luke Orlando",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6123",
+  "leg_id": "TXL000466",
+  "email": "madison.sachanowicz@house.state.tx.us",
+  "name": "Madison Sachanowicz",
+  "title": "Legis. Aide/Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6192",
+  "leg_id": "TXL000468",
+  "email": "deanna.kuykendall@house.state.tx.us",
+  "name": "Deanna Kuykendall",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6193",
+  "leg_id": "TXL000468",
+  "email": "david.hagen@house.state.tx.us",
+  "name": "David Hagen",
+  "title": "Constituent Services",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6194",
+  "leg_id": "TXL000468",
+  "email": "heather.sargent@house.state.tx.us",
+  "name": "Heather Sargent",
+  "title": "Constituent Services",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6196",
+  "leg_id": "TXL000468",
+  "email": "patrick.ntchobo@house.state.tx.us",
+  "name": "Patrick Ntchobo",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6195",
+  "leg_id": "TXL000468",
+  "email": "alexander.penesak@house.state.tx.us",
+  "name": "Alexander Penesak",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6199",
+  "leg_id": "TXL000468",
+  "email": "thomas.digiuseppe@house.state.tx.us",
+  "name": "Thomas Digiuseppe",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6198",
+  "leg_id": "TXL000468",
+  "email": "robert.lane@house.state.tx.us",
+  "name": "Robert Lane",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6197",
+  "leg_id": "TXL000468",
+  "email": "justin.stane@house.state.tx.us",
+  "name": "Justin Stane",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6241",
+  "leg_id": "TXL000470",
+  "email": "ashley.juergens@house.state.tx.us",
+  "name": "Ashley Juergens",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6242",
+  "leg_id": "TXL000470",
+  "email": "jordan.hunter@house.state.tx.us",
+  "name": "Jordan Hunter",
+  "title": "Communication Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6243",
+  "leg_id": "TXL000470",
+  "email": "jeri.mills@house.state.tx.us",
+  "name": "Jeri Mills",
+  "title": "Legislative Asst.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6244",
+  "leg_id": "TXL000470",
+  "email": "michael.blair@house.state.tx.us",
+  "name": "Michael Blair",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6149",
+  "leg_id": "TXL000472",
+  "email": "amy.bruno@house.state.tx.us",
+  "name": "Amy Bruno",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6150",
+  "leg_id": "TXL000472",
+  "email": "greg.wythe@house.state.tx.us",
+  "name": "Greg Wythe",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6151",
+  "leg_id": "TXL000472",
+  "email": "harrison.humphreys@house.state.tx.us",
+  "name": "Harrison Humphreys",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6152",
+  "leg_id": "TXL000472",
+  "email": "mariah.berry@house.state.tx.us",
+  "name": "Mariah Berry",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5622",
+  "leg_id": "TXL000473",
+  "email": "sam.robles@senate.state.tx.us",
+  "name": "Sam Robles",
+  "title": "Admin. Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5623",
+  "leg_id": "TXL000473",
+  "email": "sara.gonzalez@senate.state.tx.us",
+  "name": "Sara Gonzalez",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5624",
+  "leg_id": "TXL000473",
+  "email": "paul.townsend@senate.state.tx.us",
+  "name": "Paul Townsend",
+  "title": "General Counsel",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5625",
+  "leg_id": "TXL000473",
+  "email": "ruben.cardenas@senate.state.tx.us",
+  "name": "Ruben Cardenas",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5628",
+  "leg_id": "TXL000473",
+  "email": "thomas.trevino@senate.state.tx.us",
+  "name": "Thomas Trevino",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5627",
+  "leg_id": "TXL000473",
+  "email": "cesar.leyna@senate.state.tx.us",
+  "name": "Cesar Leyna",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5626",
+  "leg_id": "TXL000473",
+  "email": "alonzo.campos@senate.state.tx.us",
+  "name": "Alonzo Campos",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5629",
+  "leg_id": "TXL000473",
+  "email": "perla.cavazos@senate.state.tx.us",
+  "name": "Perla Cavazos",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5630",
+  "leg_id": "TXL000473",
+  "email": "isabel.longoria@senate.state.tx.us",
+  "name": "Isabel Longoria",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5631",
+  "leg_id": "TXL000473",
+  "email": "nadia.godoy@senate.state.tx.us",
+  "name": "Nadia Godoy",
+  "title": "Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5709",
+  "leg_id": "TXL000475",
+  "email": "jennie.kennedy@house.state.tx.us",
+  "name": "Jennie Kennedy",
+  "title": "Chief Of Staff/Gen. Counsel",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5710",
+  "leg_id": "TXL000475",
+  "email": "justin.perez@house.state.tx.us",
+  "name": "Justin Perez",
+  "title": "Director Of Operations",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5711",
+  "leg_id": "TXL000475",
+  "email": "kathryn.garza@house.state.tx.us",
+  "name": "Kathryn Garza",
+  "title": "District Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5713",
+  "leg_id": "TXL000475",
+  "email": "david.feigen@house.state.tx.us",
+  "name": "David Feigen",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5712",
+  "leg_id": "TXL000475",
+  "email": "cassie.fitzgerald@house.state.tx.us",
+  "name": "Cassie Fitzgerald",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5714",
+  "leg_id": "TXL000475",
+  "email": "sarah.goodfriend@house.state.tx.us",
+  "name": "Sarah Goodfriend",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5597",
+  "leg_id": "TXL000478",
+  "email": "chris.steinbach@senate.state.tx.us",
+  "name": "Chris Steinbach",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5598",
+  "leg_id": "TXL000478",
+  "email": "matthew.russell@senate.state.tx.us",
+  "name": "Matthew Russell",
+  "title": "Comm. Dir./Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5599",
+  "leg_id": "TXL000478",
+  "email": "ross.giesinger@senate.state.tx.us",
+  "name": "Ross Giesinger",
+  "title": "Gen. Counsel/Legis. Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5601",
+  "leg_id": "TXL000478",
+  "email": "zach.maxwell@senate.state.tx.us",
+  "name": "Zach Maxwell",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5600",
+  "leg_id": "TXL000478",
+  "email": "corbin.marak@senate.state.tx.us",
+  "name": "Corbin Marak",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5602",
+  "leg_id": "TXL000478",
+  "email": "lauren.leining@senate.state.tx.us",
+  "name": "Lauren Leining",
+  "title": "Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5603",
+  "leg_id": "TXL000478",
+  "email": "ben.barkley@senate.state.tx.us",
+  "name": "Ben Barkley",
+  "title": "Sr. Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5893",
+  "leg_id": "TXL000479",
+  "email": "matt.langston@senate.state.tx.us",
+  "name": "Matt Langston",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5894",
+  "leg_id": "TXL000479",
+  "email": "william.hutchings@senate.state.tx.us",
+  "name": "William Hutchings",
+  "title": "Communication/Legis. Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5896",
+  "leg_id": "TXL000479",
+  "email": "jordan.long@senate.state.tx.us",
+  "name": "Jordan Long",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5895",
+  "leg_id": "TXL000479",
+  "email": "emily.knaub@senate.state.tx.us",
+  "name": "Emily Knaub",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5897",
+  "leg_id": "TXL000479",
+  "email": "jacob.reagan@senate.state.tx.us",
+  "name": "Jacob Reagan",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5898",
+  "leg_id": "TXL000479",
+  "email": "stacy.chen@senate.state.tx.us",
+  "name": "Stacy Chen",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5899",
+  "leg_id": "TXL000479",
+  "email": "brent.connett@senate.state.tx.us",
+  "name": "Brent Connett",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5900",
+  "leg_id": "TXL000479",
+  "email": "may.gardner@senate.state.tx.us",
+  "name": "May Gardner",
+  "title": "Office Manager/Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5885",
+  "leg_id": "TXL000480",
+  "email": "regan.ellmer@house.state.tx.us",
+  "name": "Regan Ellmer",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5886",
+  "leg_id": "TXL000480",
+  "email": "david.griffith@house.state.tx.us",
+  "name": "David Griffith",
+  "title": "Constituent Corresp.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5887",
+  "leg_id": "TXL000480",
+  "email": "brooke.bohlen@house.state.tx.us",
+  "name": "Brooke Bohlen",
+  "title": "Legislative Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5888",
+  "leg_id": "TXL000480",
+  "email": "deedee.dunlap@house.state.tx.us",
+  "name": "DeeDee Dunlap",
+  "title": "Office Mgr./Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5866",
+  "leg_id": "TXL000481",
+  "email": "tabatha.vasquez@house.state.tx.us",
+  "name": "Tabatha Vasquez",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5868",
+  "leg_id": "TXL000481",
+  "email": "jacob.pomroy@house.state.tx.us",
+  "name": "Jacob Pomroy",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5867",
+  "leg_id": "TXL000481",
+  "email": "ford.albert@house.state.tx.us",
+  "name": "Ford Albert",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5869",
+  "leg_id": "TXL000481",
+  "email": "lauren.sepeta@house.state.tx.us",
+  "name": "Lauren Sepeta",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5870",
+  "leg_id": "TXL000481",
+  "email": "david.turner@house.state.tx.us",
+  "name": "David Turner",
+  "title": "Legislative Asst.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5871",
+  "leg_id": "TXL000481",
+  "email": "daniel.mittnacht@house.state.tx.us",
+  "name": "Daniel Mittnacht",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5838",
+  "leg_id": "TXL000482",
+  "email": "va.stephens@senate.state.tx.us",
+  "name": "Va Stephens",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5839",
+  "leg_id": "TXL000482",
+  "email": "jocelyn.burton@senate.state.tx.us",
+  "name": "Jocelyn Burton",
+  "title": "Communication Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5840",
+  "leg_id": "TXL000482",
+  "email": "rachel.schmidt@senate.state.tx.us",
+  "name": "Rachel Schmidt",
+  "title": "Legis. Aide/Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5841",
+  "leg_id": "TXL000482",
+  "email": "brad.tegeler@senate.state.tx.us",
+  "name": "Brad Tegeler",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5842",
+  "leg_id": "TXL000482",
+  "email": "david.shoemaker@senate.state.tx.us",
+  "name": "David Shoemaker",
+  "title": "Sr. Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5843",
+  "leg_id": "TXL000482",
+  "email": "marc.salvato@senate.state.tx.us",
+  "name": "Marc Salvato",
+  "title": "Sr. Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5819",
+  "leg_id": "TXL000483",
+  "email": "reagan.moreland@house.state.tx.us",
+  "name": "Reagan Moreland",
+  "title": "Admin. Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5820",
+  "leg_id": "TXL000483",
+  "email": "robert.shulter@house.state.tx.us",
+  "name": "Robert Shulter",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5821",
+  "leg_id": "TXL000483",
+  "email": "matt.sims@house.state.tx.us",
+  "name": "Matt Sims",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5861",
+  "leg_id": "TXL000484",
+  "email": "mitzi.stoute@house.state.tx.us",
+  "name": "Mitzi C. Stoute",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5863",
+  "leg_id": "TXL000484",
+  "email": "bristol.gunderson@house.state.tx.us",
+  "name": "Bristol Gunderson",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5862",
+  "leg_id": "TXL000484",
+  "email": "avery.arnett@house.state.tx.us",
+  "name": "Avery Arnett",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5864",
+  "leg_id": "TXL000484",
+  "email": "rebecca.szeto@house.state.tx.us",
+  "name": "Rebecca Szeto",
+  "title": "Lead Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5865",
+  "leg_id": "TXL000484",
+  "email": "cristian.perez@house.state.tx.us",
+  "name": "Cristian Perez",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5901",
+  "leg_id": "TXL000485",
+  "email": "jason.millsaps@house.state.tx.us",
+  "name": "Jason Millsaps",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5902",
+  "leg_id": "TXL000485",
+  "email": "ruth.mesta@house.state.tx.us",
+  "name": "Ruth Mesta",
+  "title": "Communication Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5903",
+  "leg_id": "TXL000485",
+  "email": "kurt.jones@house.state.tx.us",
+  "name": "Kurt Jones",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5815",
+  "leg_id": "TXL000486",
+  "email": "jennifer.harris@house.state.tx.us",
+  "name": "Jennifer Harris",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5817",
+  "leg_id": "TXL000486",
+  "email": "elizabeth.wilkinson@house.state.tx.us",
+  "name": "Elizabeth Wilkinson",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5816",
+  "leg_id": "TXL000486",
+  "email": "cristian.chapa@house.state.tx.us",
+  "name": "Cristian Chapa",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5818",
+  "leg_id": "TXL000486",
+  "email": "jeff.miller@house.state.tx.us",
+  "name": "Jeff Miller",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5832",
+  "leg_id": "TXL000487",
+  "email": "art.martinez_de_vara@senate.state.tx.us",
+  "name": "Art Martinez de Vara",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5833",
+  "leg_id": "TXL000487",
+  "email": "nelson.spear@senate.state.tx.us",
+  "name": "Nelson Spear",
+  "title": "General Counsel",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5834",
+  "leg_id": "TXL000487",
+  "email": "tyler.morris@senate.state.tx.us",
+  "name": "Tyler Morris",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5835",
+  "leg_id": "TXL000487",
+  "email": "alicia.martinez@senate.state.tx.us",
+  "name": "Alicia Claudia Martinez",
+  "title": "Office Admin./Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5836",
+  "leg_id": "TXL000487",
+  "email": "johnna.cunningham@senate.state.tx.us",
+  "name": "Johnna Cunningham",
+  "title": "Office Manager",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5837",
+  "leg_id": "TXL000487",
+  "email": "jeff.frazier@senate.state.tx.us",
+  "name": "Jeff E. Frazier II",
+  "title": "Sr. Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5918",
+  "leg_id": "TXL000490",
+  "email": "michael.lozano@house.state.tx.us",
+  "name": "Michael D. Lozano",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5919",
+  "leg_id": "TXL000490",
+  "email": "charles.wood@house.state.tx.us",
+  "name": "Charles Wood",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5920",
+  "leg_id": "TXL000490",
+  "email": "matthew.milliron@house.state.tx.us",
+  "name": "Matthew Milliron",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5921",
+  "leg_id": "TXL000490",
+  "email": "marshall.brown@house.state.tx.us",
+  "name": "Marshall Brown",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5852",
+  "leg_id": "TXL000491",
+  "email": "ryan.sparks@house.state.tx.us",
+  "name": "Ryan Sparks",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5853",
+  "leg_id": "TXL000491",
+  "email": "ashley.mann@house.state.tx.us",
+  "name": "Ashley Mann",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5854",
+  "leg_id": "TXL000491",
+  "email": "candace.carver@house.state.tx.us",
+  "name": "Candace Carver",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5872",
+  "leg_id": "TXL000492",
+  "email": "joey.parr@house.state.tx.us",
+  "name": "Joey Parr",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5874",
+  "leg_id": "TXL000492",
+  "email": "jose.sanchez@house.state.tx.us",
+  "name": "Jose Sanchez",
+  "title": "Legis. Correspondent",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5873",
+  "leg_id": "TXL000492",
+  "email": "jonathan.box@house.state.tx.us",
+  "name": "Jonathan Box",
+  "title": "Legis. Correspondent",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5875",
+  "leg_id": "TXL000492",
+  "email": "jacquelyn.kimmey@house.state.tx.us",
+  "name": "Jacquelyn Kimmey",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5876",
+  "leg_id": "TXL000492",
+  "email": "fernando.trevino@house.state.tx.us",
+  "name": "Fernando Trevino, Jr.",
+  "title": "Legislative Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5812",
+  "leg_id": "TXL000493",
+  "email": "desiree.smith@house.state.tx.us",
+  "name": "Désirée Smith",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5813",
+  "leg_id": "TXL000493",
+  "email": "stewart.mcgregor@house.state.tx.us",
+  "name": "Stewart McGregor",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5814",
+  "leg_id": "TXL000493",
+  "email": "salvador.ayala@house.state.tx.us",
+  "name": "Salvador Ayala",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5848",
+  "leg_id": "TXL000494",
+  "email": "trish.conradt@house.state.tx.us",
+  "name": "Trish Conradt",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5849",
+  "leg_id": "TXL000494",
+  "email": "clayton.carter@house.state.tx.us",
+  "name": "Clayton Carter",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5850",
+  "leg_id": "TXL000494",
+  "email": "tyler.levesque@house.state.tx.us",
+  "name": "Tyler Levesque",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5851",
+  "leg_id": "TXL000494",
+  "email": "madison.stewart@house.state.tx.us",
+  "name": "Madison Stewart",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5911",
+  "leg_id": "TXL000495",
+  "email": "will.gray@house.state.tx.us",
+  "name": "Will Gray",
+  "title": "Admin. Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5912",
+  "leg_id": "TXL000495",
+  "email": "christopher.paxton@house.state.tx.us",
+  "name": "Christopher Paxton",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5913",
+  "leg_id": "TXL000495",
+  "email": "abbey.grimes@house.state.tx.us",
+  "name": "Abbey Grimes",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5916",
+  "leg_id": "TXL000495",
+  "email": "stephen.bienek@house.state.tx.us",
+  "name": "Stephen Bienek",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5915",
+  "leg_id": "TXL000495",
+  "email": "garrett.paulette@house.state.tx.us",
+  "name": "M. Garrett Paulette",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5914",
+  "leg_id": "TXL000495",
+  "email": "avery.tomek@house.state.tx.us",
+  "name": "Avery Tomek",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5917",
+  "leg_id": "TXL000495",
+  "email": "kevin.goldsmith@house.state.tx.us",
+  "name": "Kevin Goldsmith",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5808",
+  "leg_id": "TXL000496",
+  "email": "kirsten.wolfford@house.state.tx.us",
+  "name": "Kirsten Wolfford",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5809",
+  "leg_id": "TXL000496",
+  "email": "gatlin.moncla@house.state.tx.us",
+  "name": "Gatlin Moncla",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5810",
+  "leg_id": "TXL000496",
+  "email": "lauren.lumsden@house.state.tx.us",
+  "name": "Lauren Lumsden",
+  "title": "Legislative Asst.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5811",
+  "leg_id": "TXL000496",
+  "email": "zach.johnson@house.state.tx.us",
+  "name": "Zach Johnson",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5877",
+  "leg_id": "TXL000497",
+  "email": "rebecca.acuna@house.state.tx.us",
+  "name": "Rebecca Acuna",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5878",
+  "leg_id": "TXL000497",
+  "email": "jeron.ravin@house.state.tx.us",
+  "name": "Jeron Ravin",
+  "title": "Legis. Intern/Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5880",
+  "leg_id": "TXL000497",
+  "email": "karla.munoz@house.state.tx.us",
+  "name": "Karla Munoz",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5879",
+  "leg_id": "TXL000497",
+  "email": "john.porras@house.state.tx.us",
+  "name": "John Porras",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5759",
+  "leg_id": "TXL000498",
+  "email": "maricela.de_leon@house.state.tx.us",
+  "name": "Maricela De León",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:16:39"
+}, {
+  "staff_id": "5762",
+  "leg_id": "TXL000498",
+  "email": "emily.willis@house.state.tx.us",
+  "name": "Emily Willis",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5765",
+  "leg_id": "TXL000498",
+  "email": "nathaniel.rubio@house.state.tx.us",
+  "name": "Nathaniel Rubio",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5761",
+  "leg_id": "TXL000498",
+  "email": "carlos.de_la_pena@house.state.tx.us",
+  "name": "Carlos De La Peña",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:16:56"
+}, {
+  "staff_id": "5764",
+  "leg_id": "TXL000498",
+  "email": "jose.casillas@house.state.tx.us",
+  "name": "Jose Casillas",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5760",
+  "leg_id": "TXL000498",
+  "email": "brianna.menard@house.state.tx.us",
+  "name": "Brianna Menard",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5763",
+  "leg_id": "TXL000498",
+  "email": "hollyn.dinnes@house.state.tx.us",
+  "name": "Hollyn Dinnes",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5766",
+  "leg_id": "TXL000498",
+  "email": "rachel.hernandez@house.state.tx.us",
+  "name": "Rachel Hernandez",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5767",
+  "leg_id": "TXL000498",
+  "email": "mikael.garcia@house.state.tx.us",
+  "name": "Mikael A. Garcia",
+  "title": "Legislative Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5858",
+  "leg_id": "TXL000499",
+  "email": "micah.cavanaugh@house.state.tx.us",
+  "name": "Micah Cavanaugh",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5859",
+  "leg_id": "TXL000499",
+  "email": "jake.robinson@house.state.tx.us",
+  "name": "Jake Robinson",
+  "title": "Communication Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5860",
+  "leg_id": "TXL000499",
+  "email": "allison.ngo@house.state.tx.us",
+  "name": "Allison Ngo",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5922",
+  "leg_id": "TXL000500",
+  "email": "jeramy.kitchen@house.state.tx.us",
+  "name": "Jeramy D. Kitchen",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5925",
+  "leg_id": "TXL000500",
+  "email": "jennifer.quillen@house.state.tx.us",
+  "name": "Jennifer Quillen",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5924",
+  "leg_id": "TXL000500",
+  "email": "jacob.harned@house.state.tx.us",
+  "name": "Jacob Harned",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5927",
+  "leg_id": "TXL000500",
+  "email": "rachel.blackmer@house.state.tx.us",
+  "name": "Rachel Blackmer",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5923",
+  "leg_id": "TXL000500",
+  "email": "emma.liggett@house.state.tx.us",
+  "name": "Emma Liggett",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5926",
+  "leg_id": "TXL000500",
+  "email": "payton.scott@house.state.tx.us",
+  "name": "Payton Scott",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5928",
+  "leg_id": "TXL000500",
+  "email": "daniel.sheppard@house.state.tx.us",
+  "name": "Daniel Sheppard",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5929",
+  "leg_id": "TXL000500",
+  "email": "brian.thornton@house.state.tx.us",
+  "name": "Brian Thornton",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5855",
+  "leg_id": "TXL000502",
+  "email": "seth.juergens@house.state.tx.us",
+  "name": "Seth Juergens",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5856",
+  "leg_id": "TXL000502",
+  "email": "guadalupe.cuellar@house.state.tx.us",
+  "name": "Guadalupe Cuellar",
+  "title": "Legislative Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5857",
+  "leg_id": "TXL000502",
+  "email": "frank.fenlaw@house.state.tx.us",
+  "name": "Frank Fenlaw",
+  "title": "Legislative Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5826",
+  "leg_id": "TXL000503",
+  "email": "libby.goins@senate.state.tx.us",
+  "name": "Libby Goins",
+  "title": "Admin. Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5827",
+  "leg_id": "TXL000503",
+  "email": "amy.lane@senate.state.tx.us",
+  "name": "Amy Lane",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5828",
+  "leg_id": "TXL000503",
+  "email": "boyd.bush@senate.state.tx.us",
+  "name": "W. Boyd Bush, Jr.",
+  "title": "Policy Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5829",
+  "leg_id": "TXL000503",
+  "email": "amy.jones@senate.state.tx.us",
+  "name": "Amy Jones",
+  "title": "Policy Specialist",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5830",
+  "leg_id": "TXL000503",
+  "email": "david.covey@senate.state.tx.us",
+  "name": "David Covey",
+  "title": "Policy Specialist",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5831",
+  "leg_id": "TXL000503",
+  "email": "dillon.caylor@senate.state.tx.us",
+  "name": "Dillon Caylor",
+  "title": "Policy Specialist Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5844",
+  "leg_id": "TXL000504",
+  "email": "matt.creel@house.state.tx.us",
+  "name": "Matt Creel",
+  "title": "Chief of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5845",
+  "leg_id": "TXL000504",
+  "email": "sarah.talley@house.state.tx.us",
+  "name": "Sarah Talley",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5846",
+  "leg_id": "TXL000504",
+  "email": "stephen.mcdonald@house.state.tx.us",
+  "name": "Stephen McDonald",
+  "title": "Legislative Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5847",
+  "leg_id": "TXL000504",
+  "email": "sallie.armstrong@house.state.tx.us",
+  "name": "Sallie Armstrong",
+  "title": "Legislative Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6162",
+  "leg_id": "TXL000505",
+  "email": "jessica.magee@house.state.tx.us",
+  "name": "Jessica Magee",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6164",
+  "leg_id": "TXL000505",
+  "email": "ross.oliver@house.state.tx.us",
+  "name": "Ross Oliver",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6163",
+  "leg_id": "TXL000505",
+  "email": "richard.horace@house.state.tx.us",
+  "name": "Richard Horace",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5822",
+  "leg_id": "TXL000506",
+  "email": "wesley.starnes@house.state.tx.us",
+  "name": "Wesley Starnes",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5823",
+  "leg_id": "TXL000506",
+  "email": "jillian.henderson@house.state.tx.us",
+  "name": "Jillian Henderson",
+  "title": "Communication Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5824",
+  "leg_id": "TXL000506",
+  "email": "rebekah.wells@house.state.tx.us",
+  "name": "Rebekah Wells",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5825",
+  "leg_id": "TXL000506",
+  "email": "lauren.cottingham@house.state.tx.us",
+  "name": "Lauren Cottingham",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5881",
+  "leg_id": "TXL000507",
+  "email": "joy.davis@house.state.tx.us",
+  "name": "Joy Davis",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5883",
+  "leg_id": "TXL000507",
+  "email": "juliana.nicolini@house.state.tx.us",
+  "name": "Juliana Nicolini",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5882",
+  "leg_id": "TXL000507",
+  "email": "chandler.forsythe@house.state.tx.us",
+  "name": "Chandler Forsythe",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5884",
+  "leg_id": "TXL000507",
+  "email": "adrianne.fore@house.state.tx.us",
+  "name": "Adrianne Fore",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5889",
+  "leg_id": "TXL000508",
+  "email": "eliza.adams@house.state.tx.us",
+  "name": "Eliza Adams",
+  "title": "Admin. Assistant",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5890",
+  "leg_id": "TXL000508",
+  "email": "hannah.bell@house.state.tx.us",
+  "name": "Hannah Bell",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5891",
+  "leg_id": "TXL000508",
+  "email": "trent.williams@house.state.tx.us",
+  "name": "Trent Williams",
+  "title": "Communication/Dist. Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5892",
+  "leg_id": "TXL000508",
+  "email": "james.king@house.state.tx.us",
+  "name": "James King",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5904",
+  "leg_id": "TXL000509",
+  "email": "leo.aguirre@house.state.tx.us",
+  "name": "Leo Aguirre",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5905",
+  "leg_id": "TXL000509",
+  "email": "celia.garza@house.state.tx.us",
+  "name": "Celia Garza",
+  "title": "District Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5906",
+  "leg_id": "TXL000509",
+  "email": "briana.zamora@house.state.tx.us",
+  "name": "Briana Zamora",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5909",
+  "leg_id": "TXL000509",
+  "email": "vanessa.gibson@house.state.tx.us",
+  "name": "Vanessa Gibson",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5908",
+  "leg_id": "TXL000509",
+  "email": "lorraine.garcia@house.state.tx.us",
+  "name": "Lorraine Garcia",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5907",
+  "leg_id": "TXL000509",
+  "email": "ivonne.saldana@house.state.tx.us",
+  "name": "Ivonne Saldana",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5910",
+  "leg_id": "TXL000509",
+  "email": "michael.ramsey@house.state.tx.us",
+  "name": "Michael Ramsey",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5730",
+  "leg_id": "TXL000510",
+  "email": "rachel.nicholson@house.state.tx.us",
+  "name": "Rachel Nicholson",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5731",
+  "leg_id": "TXL000510",
+  "email": "deandra.porter@house.state.tx.us",
+  "name": "Deandra Porter",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6030",
+  "leg_id": "TXL000511",
+  "email": "scott.hutchinson@senate.state.tx.us",
+  "name": "Scott Hutchinson",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6033",
+  "leg_id": "TXL000511",
+  "email": "michael.oconnor@senate.state.tx.us",
+  "name": "Michael O'Connor",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6032",
+  "leg_id": "TXL000511",
+  "email": "katy.lancaster@senate.state.tx.us",
+  "name": "Katy Lancaster",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6031",
+  "leg_id": "TXL000511",
+  "email": "hannah.putnam@senate.state.tx.us",
+  "name": "Hannah Putnam",
+  "title": "Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6034",
+  "leg_id": "TXL000511",
+  "email": "taylor.gillig@senate.state.tx.us",
+  "name": "Taylor Gillig",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6035",
+  "leg_id": "TXL000511",
+  "email": "matt.dowling@senate.state.tx.us",
+  "name": "Matt Dowling",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6036",
+  "leg_id": "TXL000511",
+  "email": "shannon.harmon@senate.state.tx.us",
+  "name": "Shannon Harmon",
+  "title": "Office Manager/Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6037",
+  "leg_id": "TXL000511",
+  "email": "ryan.wallace@senate.state.tx.us",
+  "name": "Ryan Wallace",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6038",
+  "leg_id": "TXL000511",
+  "email": "travis.mccormick@senate.state.tx.us",
+  "name": "Travis Mccormick",
+  "title": "Sr. Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5791",
+  "leg_id": "TXL000512",
+  "email": "erin.carney@senate.state.tx.us",
+  "name": "Erin Carney",
+  "title": "Admin. Asst./Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5792",
+  "leg_id": "TXL000512",
+  "email": "lonnie.dietz@senate.state.tx.us",
+  "name": "Lonnie Dietz",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5793",
+  "leg_id": "TXL000512",
+  "email": "jeremy.mazur@senate.state.tx.us",
+  "name": "Jeremy Mazur",
+  "title": "Dep. Chief Of Staff/Legis. Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5794",
+  "leg_id": "TXL000512",
+  "email": "richard.gee@senate.state.tx.us",
+  "name": "Richard Gee",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5795",
+  "leg_id": "TXL000512",
+  "email": "heath.dickey@senate.state.tx.us",
+  "name": "Heath Dickey",
+  "title": "Legislative Correspondent",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5796",
+  "leg_id": "TXL000512",
+  "email": "jordan.williford@senate.state.tx.us",
+  "name": "Jordan Williford",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5797",
+  "leg_id": "TXL000512",
+  "email": "ryan.paylor@senate.state.tx.us",
+  "name": "Ryan Paylor",
+  "title": "Policy Director",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5697",
+  "leg_id": "TXL000514",
+  "email": "tara.garcia@senate.state.tx.us",
+  "name": "Tara Garcia",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5698",
+  "leg_id": "TXL000514",
+  "email": "eliza.vielma@senate.state.tx.us",
+  "name": "Eliza Vielma",
+  "title": "Communication Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5699",
+  "leg_id": "TXL000514",
+  "email": "zach.stephenson@senate.state.tx.us",
+  "name": "Zach Stephenson",
+  "title": "General Counsel",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5700",
+  "leg_id": "TXL000514",
+  "email": "adrianne.evans@senate.state.tx.us",
+  "name": "Adrianne Evans",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5701",
+  "leg_id": "TXL000514",
+  "email": "scott.marks@senate.state.tx.us",
+  "name": "Scott Marks",
+  "title": "Legislative Intern",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5702",
+  "leg_id": "TXL000514",
+  "email": "chase.fruge@senate.state.tx.us",
+  "name": "Chase Fruge",
+  "title": "Policy Analyst",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "5703",
+  "leg_id": "TXL000514",
+  "email": "merek.riland@senate.state.tx.us",
+  "name": "Merek Riland",
+  "title": "Scheduler",
+  "updated_at": "2015-03-25 15:15:35"
+}, {
+  "staff_id": "6248",
+  "leg_id": "TXL000516",
+  "email": "melissa.nemecek@house.state.tx.us",
+  "name": "Melissa Nemecek",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 16:40:56"
+}, {
+  "staff_id": "6250",
+  "leg_id": "TXL000516",
+  "email": "frank.fletcher@house.state.tx.us",
+  "name": "Frank Fletcher, Jr.",
+  "title": "Intern",
+  "updated_at": "2015-03-25 16:40:57"
+}, {
+  "staff_id": "6249",
+  "leg_id": "TXL000516",
+  "email": "ariel.edmunds@house.state.tx.us",
+  "name": "Ariel Edmunds",
+  "title": "Intern",
+  "updated_at": "2015-03-25 16:40:56"
+}, {
+  "staff_id": "6252",
+  "leg_id": "TXL000516",
+  "email": "will.buchanan@house.state.tx.us",
+  "name": "Will Buchanan",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 16:40:59"
+}, {
+  "staff_id": "6251",
+  "leg_id": "TXL000516",
+  "email": "alonzo.wood@house.state.tx.us",
+  "name": "Alonzo C. Wood",
+  "title": "Legislative Aide",
+  "updated_at": "2015-03-25 16:40:58"
+}, {
+  "staff_id": "6245",
+  "leg_id": "TXL000517",
+  "email": "leticia.cantu@house.state.tx.us",
+  "name": "Leticia Cantu",
+  "title": "Chief Of Staff",
+  "updated_at": "2015-03-25 16:40:51"
+}, {
+  "staff_id": "6246",
+  "leg_id": "TXL000517",
+  "email": "travis.greenfield@house.state.tx.us",
+  "name": "Travis Greenfield",
+  "title": "Communication Dir.",
+  "updated_at": "2015-03-25 16:40:54"
+}, {
+  "staff_id": "6247",
+  "leg_id": "TXL000517",
+  "email": "ryan.mchutchins@house.state.tx.us",
+  "name": "Ryan McHutchins",
+  "title": "Legislative Dir.",
+  "updated_at": "2015-03-25 16:40:55"
+}]

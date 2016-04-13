@@ -1,0 +1,145 @@
+{
+  "abbreviation": "tx",
+  "capitol_maps": [{
+    "name": "Capitol Complex",
+    "url": "http://static.openstates.org/capmaps/tx/Map.CapitolComplex.pdf"
+  }, {
+    "name": "Floor 1",
+    "url": "http://static.openstates.org/capmaps/tx/Map.Floor1.pdf"
+  }, {
+    "name": "Floor 2",
+    "url": "http://static.openstates.org/capmaps/tx/Map.Floor2.pdf"
+  }, {
+    "name": "Floor 3",
+    "url": "http://static.openstates.org/capmaps/tx/Map.Floor3.pdf"
+  }, {
+    "name": "Floor 4",
+    "url": "http://static.openstates.org/capmaps/tx/Map.Floor4.pdf"
+  }, {
+    "name": "Floor E1",
+    "url": "http://static.openstates.org/capmaps/tx/Map.FloorE1.pdf"
+  }, {
+    "name": "Floor E2",
+    "url": "http://static.openstates.org/capmaps/tx/Map.FloorE2.pdf"
+  }, {
+    "name": "Floor G",
+    "url": "http://static.openstates.org/capmaps/tx/Map.FloorG.pdf"
+  }, {
+    "name": "Monument Guide",
+    "url": "http://static.openstates.org/capmaps/tx/Map.MonumentGuide.pdf"
+  }, {
+    "name": "Sam Houston",
+    "url": "http://static.openstates.org/capmaps/tx/Map.SamHoustonLoc.pdf"
+  }, {
+    "name": "Wheelchair Access",
+    "url": "http://static.openstates.org/capmaps/tx/Map.WheelchairAccess.pdf"
+  }],
+  "capitol_timezone": "America/Chicago",
+  "chambers": {
+    "lower": {
+      "name": "House",
+      "title": "Representative"
+    },
+    "upper": {
+      "name": "Senate",
+      "title": "Senator"
+    }
+  },
+  "feature_flags": [
+    "events",
+    "subjects",
+    "capitol_maps",
+    "influenceexplorer"
+  ],
+  "id": "tx",
+  "latest_csv_date": "2015-03-01 18:28:51",
+  "latest_csv_url": "http://static.openstates.org/downloads/2015-03-01-tx-csv.zip",
+  "latest_json_date": "2015-03-14 10:31:15",
+  "latest_json_url": "http://static.openstates.org/downloads/2015-03-14-tx-json.zip",
+  "latest_update": "2015-03-25 18:58:37",
+  "legislature_name": "Texas Legislature",
+  "legislature_url": "http://www.capitol.state.tx.us/",
+  "name": "Texas",
+  "session_details": {
+    "81": {
+      "display_name": "81st Legislature (2009)",
+      "end_date": "2009-06-01 00:00:00",
+      "start_date": "2009-01-13 00:00:00",
+      "type": "primary"
+    },
+    "811": {
+      "display_name": "81st Legislature, 1st Called Session (2009)",
+      "end_date": "2009-07-10 00:00:00",
+      "start_date": "2009-07-01 00:00:00",
+      "type": "special"
+    },
+    "82": {
+      "display_name": "82nd Legislature (2011)",
+      "start_date": "2011-01-11 00:00:00",
+      "type": "primary"
+    },
+    "821": {
+      "display_name": "82nd Legislature, 1st Called Session (2011)",
+      "type": "special"
+    },
+    "83": {
+      "display_name": "83rd Legislature (2013)",
+      "end_year": 2014,
+      "start_year": 2013,
+      "type": "primary"
+    },
+    "831": {
+      "display_name": "83nd Legislature, 1st Called Session (2013)",
+      "type": "special"
+    },
+    "832": {
+      "display_name": "83nd Legislature, 2st Called Session (2013)",
+      "type": "special"
+    },
+    "833": {
+      "display_name": "83nd Legislature, 3rd Called Session (2013)",
+      "type": "special"
+    },
+    "84": {
+      "display_name": "84th Legislature (2015)",
+      "end_year": 2015,
+      "start_year": 2015,
+      "type": "primary"
+    }
+  },
+  "terms": [{
+    "end_year": 2010,
+    "name": "81",
+    "sessions": [
+      "81",
+      "811"
+    ],
+    "start_year": 2009,
+    "type": "primary"
+  }, {
+    "end_year": 2012,
+    "name": "82",
+    "sessions": [
+      "82",
+      "821"
+    ],
+    "start_year": 2011
+  }, {
+    "end_year": 2014,
+    "name": "83",
+    "sessions": [
+      "83",
+      "831",
+      "832",
+      "833"
+    ],
+    "start_year": 2013
+  }, {
+    "end_year": 2015,
+    "name": "84",
+    "sessions": [
+      "84"
+    ],
+    "start_year": 2015
+  }]
+}

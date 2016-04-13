@@ -25,7 +25,7 @@
 
 - (void)testIndexOf {
     NSArray *array = @[@"Greg",@"Jim",@"Alex"];
-    NSInteger index = ASTIndexOf(array, @"Alex");
+    UInt16 index = (UInt16)ASTIndexOf(array, @"Alex");
     XCTAssertEqual(index, 2);
 }
 
