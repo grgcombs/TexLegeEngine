@@ -48,12 +48,15 @@ static TXLDataLoader *sharedLoader = nil;
         _uiConnection = [_dbManager newDatabaseConnection];
         _uiConnection.objectCacheLimit = 500;
         _uiConnection.metadataCacheEnabled = YES;
-        _uiConnection.permittedTransactions = YDB_SyncReadTransaction | YDB_MainThreadOnly;
 
         _bgConnection = [_dbManager newDatabaseConnection];
         _bgConnection.objectCacheEnabled = NO; // no need to cache for write-only
         _bgConnection.metadataCacheEnabled = NO;
+
+#if YapDatabaseEnforcePermittedTransactions
+        _uiConnection.permittedTransactions = YDB_SyncReadTransaction | YDB_MainThreadOnly;
         _bgConnection.permittedTransactions = YDB_AnyAsyncTransaction;
+#endif
 
         [self registerExtensions];
 

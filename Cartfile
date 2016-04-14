@@ -1,5 +1,5 @@
 github "Mantle/Mantle"
-github "Overcoat/Overcoat" "de5d6fd4"
+github "Overcoat/Overcoat" "de5d6fd480870b153f0cb22c558c1bebcfdd76fd"
 github "CocoaLumberjack/CocoaLumberjack" >= 2.2.0
 github "AFNetworking/AFNetworking"
 github "iv-mexx/FormatterKit" "supportFrameworks"
