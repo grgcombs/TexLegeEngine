@@ -67,7 +67,6 @@
 		37D146E11CAC5D7F00B73728 /* Masonry.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37D146D61CAC5D7F00B73728 /* Masonry.framework */; };
 		37D146E21CAC5D7F00B73728 /* Overcoat.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37D146D71CAC5D7F00B73728 /* Overcoat.framework */; };
 		37D146E51CAC5D7F00B73728 /* YapDatabase.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37D146DA1CAC5D7F00B73728 /* YapDatabase.framework */; };
-		37D147011CAC7CC000B73728 /* OMGHTTPURLRQ.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37D147001CAC7CC000B73728 /* OMGHTTPURLRQ.framework */; };
 		37EAA1041CBC653800549BBE /* TexLege-Prefix.pch in Headers */ = {isa = PBXBuildFile; fileRef = 37EAA1031CBC653800549BBE /* TexLege-Prefix.pch */; };
 		37EAA1061CBD54CA00549BBE /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 37EAA1051CBD54CA00549BBE /* libz.tbd */; };
 		37EAA1091CBD55C500549BBE /* TXLYapDatabase.h in Headers */ = {isa = PBXBuildFile; fileRef = 37EAA1071CBD557600549BBE /* TXLYapDatabase.h */; };
@@ -89,12 +88,10 @@
 		37EAA12A1CBDC85B00549BBE /* FormatterKit.framework in Copy Carthage Frameworks */ = {isa = PBXBuildFile; fileRef = 37D146D41CAC5D7F00B73728 /* FormatterKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		37EAA12B1CBDC85B00549BBE /* Mantle.framework in Copy Carthage Frameworks */ = {isa = PBXBuildFile; fileRef = 37D146D51CAC5D7F00B73728 /* Mantle.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		37EAA12C1CBDC85B00549BBE /* Masonry.framework in Copy Carthage Frameworks */ = {isa = PBXBuildFile; fileRef = 37D146D61CAC5D7F00B73728 /* Masonry.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		37EAA12D1CBDC85B00549BBE /* OMGHTTPURLRQ.framework in Copy Carthage Frameworks */ = {isa = PBXBuildFile; fileRef = 37D147001CAC7CC000B73728 /* OMGHTTPURLRQ.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		37EAA12E1CBDC85B00549BBE /* Overcoat.framework in Copy Carthage Frameworks */ = {isa = PBXBuildFile; fileRef = 37D146D71CAC5D7F00B73728 /* Overcoat.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		37EAA12F1CBDC85B00549BBE /* Reachability.framework in Copy Carthage Frameworks */ = {isa = PBXBuildFile; fileRef = 37EAA11F1CBDC7C200549BBE /* Reachability.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		37EAA1301CBDC85B00549BBE /* YapDatabase.framework in Copy Carthage Frameworks */ = {isa = PBXBuildFile; fileRef = 37D146DA1CAC5D7F00B73728 /* YapDatabase.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		37FA5C971CA710E30078AC84 /* TexLegeEngine.h in Headers */ = {isa = PBXBuildFile; fileRef = 37FA5C961CA710E30078AC84 /* TexLegeEngine.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		37FA5CA31CA710E30078AC84 /* BasicBuildTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 37FA5CA21CA710E30078AC84 /* BasicBuildTests.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -124,7 +121,6 @@
 				37EAA12A1CBDC85B00549BBE /* FormatterKit.framework in Copy Carthage Frameworks */,
 				37EAA12B1CBDC85B00549BBE /* Mantle.framework in Copy Carthage Frameworks */,
 				37EAA12C1CBDC85B00549BBE /* Masonry.framework in Copy Carthage Frameworks */,
-				37EAA12D1CBDC85B00549BBE /* OMGHTTPURLRQ.framework in Copy Carthage Frameworks */,
 				37EAA12E1CBDC85B00549BBE /* Overcoat.framework in Copy Carthage Frameworks */,
 				37EAA12F1CBDC85B00549BBE /* Reachability.framework in Copy Carthage Frameworks */,
 				37EAA1301CBDC85B00549BBE /* YapDatabase.framework in Copy Carthage Frameworks */,
@@ -196,7 +192,6 @@
 		37D146D61CAC5D7F00B73728 /* Masonry.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Masonry.framework; path = Carthage/Build/iOS/Masonry.framework; sourceTree = "<group>"; };
 		37D146D71CAC5D7F00B73728 /* Overcoat.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Overcoat.framework; path = Carthage/Build/iOS/Overcoat.framework; sourceTree = "<group>"; };
 		37D146DA1CAC5D7F00B73728 /* YapDatabase.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = YapDatabase.framework; path = Carthage/Build/iOS/YapDatabase.framework; sourceTree = "<group>"; };
-		37D147001CAC7CC000B73728 /* OMGHTTPURLRQ.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OMGHTTPURLRQ.framework; path = Carthage/Build/iOS/OMGHTTPURLRQ.framework; sourceTree = "<group>"; };
 		37EAA1031CBC653800549BBE /* TexLege-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "TexLege-Prefix.pch"; sourceTree = "<group>"; };
 		37EAA1051CBD54CA00549BBE /* libz.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
 		37EAA1071CBD557600549BBE /* TXLYapDatabase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXLYapDatabase.h; sourceTree = "<group>"; };
@@ -215,7 +210,6 @@
 		37FA5C961CA710E30078AC84 /* TexLegeEngine.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TexLegeEngine.h; sourceTree = "<group>"; };
 		37FA5C981CA710E30078AC84 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		37FA5C9D1CA710E30078AC84 /* TexLegeEngineTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TexLegeEngineTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		37FA5CA21CA710E30078AC84 /* BasicBuildTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BasicBuildTests.m; sourceTree = "<group>"; };
 		37FA5CA41CA710E30078AC84 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -234,7 +228,6 @@
 				37EAA1201CBDC7C200549BBE /* Reachability.framework in Frameworks */,
 				37D146E01CAC5D7F00B73728 /* Mantle.framework in Frameworks */,
 				37D146E11CAC5D7F00B73728 /* Masonry.framework in Frameworks */,
-				37D147011CAC7CC000B73728 /* OMGHTTPURLRQ.framework in Frameworks */,
 				37D146E21CAC5D7F00B73728 /* Overcoat.framework in Frameworks */,
 				37D146E51CAC5D7F00B73728 /* YapDatabase.framework in Frameworks */,
 				3775A9F31CBC10DD0098EE42 /* ReactiveCocoa.framework in Frameworks */,
@@ -343,9 +336,6 @@
 			isa = PBXGroup;
 			children = (
 				37EAA1051CBD54CA00549BBE /* libz.tbd */,
-				3775A9F21CBC10DD0098EE42 /* ReactiveCocoa.framework */,
-				37EAA1191CBDA75500549BBE /* Result.framework */,
-				3775A9F01CBC10D50098EE42 /* OvercoatReactiveCocoa.framework */,
 				37D146D01CAC5D7F00B73728 /* AFNetworking.framework */,
 				37D146D11CAC5D7F00B73728 /* Asterism.framework */,
 				37D146D21CAC5D7F00B73728 /* CocoaLumberjack.framework */,
@@ -353,9 +343,11 @@
 				37D146D41CAC5D7F00B73728 /* FormatterKit.framework */,
 				37D146D51CAC5D7F00B73728 /* Mantle.framework */,
 				37D146D61CAC5D7F00B73728 /* Masonry.framework */,
-				37D147001CAC7CC000B73728 /* OMGHTTPURLRQ.framework */,
 				37D146D71CAC5D7F00B73728 /* Overcoat.framework */,
+				3775A9F01CBC10D50098EE42 /* OvercoatReactiveCocoa.framework */,
 				37EAA11F1CBDC7C200549BBE /* Reachability.framework */,
+				3775A9F21CBC10DD0098EE42 /* ReactiveCocoa.framework */,
+				37EAA1191CBDA75500549BBE /* Result.framework */,
 				37D146DA1CAC5D7F00B73728 /* YapDatabase.framework */,
 			);
 			name = Frameworks;
@@ -411,7 +403,6 @@
 			isa = PBXGroup;
 			children = (
 				37FA5CA41CA710E30078AC84 /* Info.plist */,
-				37FA5CA21CA710E30078AC84 /* BasicBuildTests.m */,
 				37EAA1101CBDA47800549BBE /* TXLDatabaseTests.m */,
 				37EAA1111CBDA47800549BBE /* TXLDataModelCombinatorTests.m */,
 				37EAA1121CBDA47800549BBE /* TXLOpenStatesClientTests.m */,
@@ -568,7 +559,6 @@
 				"$(SRCROOT)/Carthage/Build/iOS/Masonry.framework",
 				"$(SRCROOT)/Carthage/Build/iOS/Overcoat.framework",
 				"$(SRCROOT)/Carthage/Build/iOS/YapDatabase.framework",
-				"$(SRCROOT)/Carthage/Build/iOS/OMGHTTPURLRQ.framework",
 				"$(SRCROOT)/Carthage/Build/iOS/ReactiveCocoa.framework",
 				"$(SRCROOT)/Carthage/Build/iOS/OvercoatReactiveCocoa.framework",
 				"$(SRCROOT)/Carthage/Build/iOS/Result.framework",
@@ -618,7 +608,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				37FA5CA31CA710E30078AC84 /* BasicBuildTests.m in Sources */,
 				37EAA1161CBDA47800549BBE /* TXLOpenStatesClientTests.m in Sources */,
 				37EAA1151CBDA47800549BBE /* TXLDataModelCombinatorTests.m in Sources */,
 				37EAA1181CBDA51100549BBE /* TXLDatabaseTests.m in Sources */,

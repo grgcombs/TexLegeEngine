@@ -1,9 +1,9 @@
 github "Mantle/Mantle"
-github "grgcombs/Overcoat" "pullreq/link-RAC-framework-iOS"
+github "Overcoat/Overcoat" "de5d6fd4"
 github "CocoaLumberjack/CocoaLumberjack" >= 2.2.0
 github "AFNetworking/AFNetworking"
 github "iv-mexx/FormatterKit" "supportFrameworks"
-github "robb/Asterism" "master"
+github "robb/Asterism" "d1d99957"
 github "MatthewYork/DateTools"
 github "SnapKit/Masonry"
 github "yapstudios/YapDatabase" >= 2.7
