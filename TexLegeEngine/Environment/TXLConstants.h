@@ -25,8 +25,7 @@ extern const struct TXLCommonConfig {
 
 } TXLCommonConfig;
 
-extern const struct TXLPrivateConfig {
-
+typedef struct {
     txlConfig_struct_def(
                          configType,
                          sunlightApiKey,
@@ -35,8 +34,18 @@ extern const struct TXLPrivateConfig {
                          texlegePassword,
                          crashlyticsApiKey
                          )
+} TXLPrivateConfigType;
 
-} TXLPrivateConfig;
+BOOL TXLPrivateConfigIsValid(TXLPrivateConfigType config);
+BOOL TXLPrivateConfigsAreEqual(TXLPrivateConfigType config1, TXLPrivateConfigType config2);
+
+/**
+ *  @author Greg Combs, Jun 16, 2016
+ *
+ *  Use the constant struct settings in TXLPrivateConfigDevelopment when running unit tests 
+ *  against a localhost REST server on port 4567.
+ */
+extern const  TXLPrivateConfigType TXLPrivateConfigDevelopment;
 
 extern NSURL * TXLOpenStatesBaseURL;
 extern NSTimeZone *TXLCapitolTimeZone;

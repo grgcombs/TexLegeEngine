@@ -15,6 +15,7 @@
 #import "TXLReachability.h"
 #import "TXLLegislator.h"
 #import "TXLMetadata.h"
+#import "TexLegeEngine.h"
 
 @interface TXLOpenStatesClientTests : XCTestCase
 
@@ -27,6 +28,9 @@
 - (void)setUp
 {
     [super setUp];
+
+    [TexLegeEngine instanceWithPrivateConfig:TXLPrivateConfigDevelopment];
+
     _legislatorJSON = @{
                     @"chamber": @"upper",
                     @"district": @"21",

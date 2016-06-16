@@ -1,3 +1,4 @@
+github "Mantle/MTLManagedObjectAdapter" "9629d7c1f6b4710eb2dbcfb6f401e20d7fe8871b"
 github "Mantle/Mantle"
 github "Overcoat/Overcoat" "de5d6fd480870b153f0cb22c558c1bebcfdd76fd"
 github "CocoaLumberjack/CocoaLumberjack" >= 2.2.0
@@ -5,5 +6,5 @@ github "AFNetworking/AFNetworking"
 github "iv-mexx/FormatterKit" "supportFrameworks"
 github "robb/Asterism" "d1d99957"
 github "MatthewYork/DateTools"
-github "SnapKit/Masonry"
+## github "SnapKit/Masonry"
 github "yapstudios/YapDatabase" >= 2.7

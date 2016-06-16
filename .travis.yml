@@ -12,7 +12,6 @@ before_install:
     - brew upgrade xctool || true
     - brew install carthage || true
     - brew upgrade carthage || true
-
 notifications:
     email:
         on_success: change

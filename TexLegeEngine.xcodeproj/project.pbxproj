@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		370625051D12F06C00F8666C /* TexLegeEngine.m in Sources */ = {isa = PBXBuildFile; fileRef = 370625041D12F06C00F8666C /* TexLegeEngine.m */; };
 		3706DE311CADC7C8001E3BA4 /* TXLConstants.h in Headers */ = {isa = PBXBuildFile; fileRef = 3706DE2B1CADC7C8001E3BA4 /* TXLConstants.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3706DE321CADC7C8001E3BA4 /* TXLConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = 3706DE2C1CADC7C8001E3BA4 /* TXLConstants.m */; };
 		3706DE331CADC7C8001E3BA4 /* TXLLogFileManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 3706DE2D1CADC7C8001E3BA4 /* TXLLogFileManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -132,6 +133,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		370625041D12F06C00F8666C /* TexLegeEngine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TexLegeEngine.m; sourceTree = "<group>"; };
 		3706DE2B1CADC7C8001E3BA4 /* TXLConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXLConstants.h; sourceTree = "<group>"; };
 		3706DE2C1CADC7C8001E3BA4 /* TXLConstants.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXLConstants.m; sourceTree = "<group>"; };
 		3706DE2D1CADC7C8001E3BA4 /* TXLLogFileManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXLLogFileManager.h; sourceTree = "<group>"; };
@@ -389,6 +391,7 @@
 			isa = PBXGroup;
 			children = (
 				37FA5C961CA710E30078AC84 /* TexLegeEngine.h */,
+				370625041D12F06C00F8666C /* TexLegeEngine.m */,
 				37FA5C981CA710E30078AC84 /* Info.plist */,
 				3706DE441CADC7DB001E3BA4 /* DataSources */,
 				3706DE2A1CADC7C8001E3BA4 /* Environment */,
@@ -592,6 +595,7 @@
 				3706DE9B1CADC809001E3BA4 /* TXLRole.m in Sources */,
 				3706DE8D1CADC809001E3BA4 /* TXLAggregatePartisanScore.m in Sources */,
 				3706DE521CADC7DB001E3BA4 /* TXLBlockListDataSource.m in Sources */,
+				370625051D12F06C00F8666C /* TexLegeEngine.m in Sources */,
 				3706DEA61CADC810001E3BA4 /* TXLBlockTableViewController.m in Sources */,
 				3706DE911CADC809001E3BA4 /* TXLLegislator.m in Sources */,
 				3706DE971CADC809001E3BA4 /* TXLOffice.m in Sources */,
@@ -649,6 +653,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				EMBEDDED_CONTENT_CONTAINS_SWIFT = YES;
+				ENABLE_BITCODE = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -696,6 +701,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				EMBEDDED_CONTENT_CONTAINS_SWIFT = YES;
+				ENABLE_BITCODE = NO;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;

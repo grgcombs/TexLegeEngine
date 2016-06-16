@@ -39,3 +39,10 @@ FOUNDATION_EXPORT const unsigned char TexLegeEngineVersionString[];
 #import <TexLegeEngine/TXLLegislatorListViewController.h>
 #import <TexLegeEngine/TXLModelListViewController.h>
 #import <TexLegeEngine/TXLBlockTableViewController.h>
+
+@interface TexLegeEngine : NSObject
++ (instancetype)instanceWithPrivateConfig:(TXLPrivateConfigType)privateConfig;
++ (instancetype)instance;
+@property (atomic,readonly) TXLPrivateConfigType privateConfig;
+@property (nonatomic,strong,readonly) TXLDataLoader *dataLoader;
+@end

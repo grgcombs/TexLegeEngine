@@ -13,24 +13,32 @@
 #import "TXLLegislator.h"
 #import "TXLMetadata.h"
 #import "TXLReachability.h"
+#import "TexLegeEngine.h"
+
 @import Asterism;
 
 @import ReactiveCocoa;
 
 @interface TXLOpenStatesClient ()
 @property (nonatomic,strong) NSURLSessionDataTask *dataTask;
+@property (atomic,assign) TXLPrivateConfigType clientConfig;
 + (NSArray *)defaultLegislatorFields;
 + (NSArray *)defaultCommitteeFields;
 @end
 
 @implementation TXLOpenStatesClient
 
-- (instancetype)initWithBaseURL:(NSURL *)url sessionConfiguration:(NSURLSessionConfiguration *)configuration
+- (instancetype)initWithBaseURL:(NSURL *)url sessionConfig:(NSURLSessionConfiguration *)sessionConfig clientConfig:(TXLPrivateConfigType)clientConfig
 {
-    self = [super initWithBaseURL:url sessionConfiguration:configuration];
+    if (!TXLPrivateConfigIsValid(clientConfig))
+        return nil;
+
+    self = [super initWithBaseURL:url sessionConfiguration:sessionConfig];
     if (self)
     {
-        [self.requestSerializer setValue:TXLPrivateConfig.sunlightApiKey forHTTPHeaderField:@"X-APIKEY"];
+        _clientConfig = clientConfig;
+
+        [self.requestSerializer setValue:clientConfig.sunlightApiKey forHTTPHeaderField:@"X-APIKEY"];
 
         TXLReachability *reachability = [TXLReachability sharedManager];
         self.reachabilityManager = reachability;
@@ -97,7 +105,10 @@
     sessionConfig.timeoutIntervalForResource = 90;
     sessionConfig.HTTPCookieAcceptPolicy = NSHTTPCookieAcceptPolicyOnlyFromMainDocumentDomain;
 
-    self = [self initWithBaseURL:TXLOpenStatesBaseURL sessionConfiguration:sessionConfig];
+    TexLegeEngine *engine = [TexLegeEngine instance];
+    TXLPrivateConfigType clientConfig = engine.privateConfig;
+
+    self = [self initWithBaseURL:TXLOpenStatesBaseURL sessionConfig:sessionConfig clientConfig:clientConfig];
     return self;
 }
 
@@ -113,7 +124,7 @@
 
 - (RACSignal *)fetchStateMetadata
 {
-    NSDictionary *parameters = @{@"apikey": TXLPrivateConfig.sunlightApiKey};
+    NSDictionary *parameters = @{@"apikey": _clientConfig.sunlightApiKey};
     NSString *path = [@"metadata" stringByAppendingPathComponent:TXLCommonConfig.openstatesStateId];
     return [[self rac_GET:path parameters:parameters] map:^id(OVCResponse *response) {
         return TXLMapValidDetailsResponseToClass(response,TXLMetadata);
@@ -124,7 +135,7 @@
 {
     NSString *fields = [[[self class] defaultCommitteeFields] componentsJoinedByString:@","];
     NSDictionary *parameters = @{
-                                 @"apikey": TXLPrivateConfig.sunlightApiKey,
+                                 @"apikey": _clientConfig.sunlightApiKey,
                                  @"state": TXLCommonConfig.openstatesStateId,
                                  @"fields": fields,
                                  };
@@ -137,7 +148,7 @@
 - (RACSignal *)fetchEvents
 {
     NSDictionary *parameters = @{
-                                 @"apikey": TXLPrivateConfig.sunlightApiKey,
+                                 @"apikey": _clientConfig.sunlightApiKey,
                                  @"stateId": TXLCommonConfig.openstatesStateId
                                  };
 
@@ -154,7 +165,7 @@
     if (!completeParams[@"search_window"])
         completeParams[@"search_window"] = @"session";
     completeParams[@"state"] = TXLCommonConfig.openstatesStateId;
-    completeParams[@"apikey"] = TXLPrivateConfig.sunlightApiKey;
+    completeParams[@"apikey"] = _clientConfig.sunlightApiKey;
 
     return [[self rac_GET:@"bills" parameters:parameters] map:^id(OVCResponse *response) {
         return TXLMapListResponseToDictWithKey(response, @"id");
@@ -166,7 +177,7 @@
     if (!TXLTypeNonEmptyStringOrNil(identifier))
         return nil;
     NSString *path = [@"bills" stringByAppendingPathComponent:identifier];
-    NSDictionary *parameters = @{@"apikey": TXLPrivateConfig.sunlightApiKey};
+    NSDictionary *parameters = @{@"apikey": _clientConfig.sunlightApiKey};
     return [[self rac_GET:path parameters:parameters] map:^id(OVCResponse *response) {
         return TXLMapValidDetailsResponseToClass(response,NSDictionary);
     }];
@@ -177,7 +188,7 @@
     NSString *fields = [[[self class] defaultLegislatorFields] componentsJoinedByString:@","];
 
     NSDictionary *parameters = @{
-                                 @"apikey": TXLPrivateConfig.sunlightApiKey,
+                                 @"apikey": _clientConfig.sunlightApiKey,
                                  @"state": TXLCommonConfig.openstatesStateId,
                                  @"fields": fields,
                                  };
@@ -197,7 +208,7 @@
     NSDictionary *parameters = @{
                                  @"lat": @(coordiates.latitude),
                                  @"long": @(coordiates.longitude),
-                                 @"apikey": TXLPrivateConfig.sunlightApiKey,
+                                 @"apikey": _clientConfig.sunlightApiKey,
                                  @"fields": fields,
                                  };
     return [[self rac_GET:@"legislators/geo" parameters:parameters] map:^id(OVCResponse *response) {
@@ -208,7 +219,7 @@
 - (RACSignal *)fetchDistricts
 {
     NSString *path = [@"districts" stringByAppendingPathComponent:TXLCommonConfig.openstatesStateId];
-    NSDictionary *parameters = @{@"apikey": TXLPrivateConfig.sunlightApiKey};
+    NSDictionary *parameters = @{@"apikey": _clientConfig.sunlightApiKey};
     return [[self rac_GET:path parameters:parameters] map:^id(OVCResponse *response) {
         return TXLMapListResponseToDictWithKey(response, @"boundary_id");
     }];
@@ -220,7 +231,7 @@
         return [RACSignal empty];
 
     NSString *path = [@"districts" stringByAppendingPathComponent:TXLCommonConfig.openstatesStateId];
-    NSDictionary *parameters = @{@"apikey": TXLPrivateConfig.sunlightApiKey,
+    NSDictionary *parameters = @{@"apikey": _clientConfig.sunlightApiKey,
                                  @"chamber": chamber};
 
     __weak typeof(self) bself = self;
@@ -247,7 +258,7 @@
     if (!TXLTypeNonEmptyStringOrNil(identifier))
         return nil;
     NSString *path = [@"districts/boundary" stringByAppendingPathComponent:identifier];
-    NSDictionary *parameters = @{@"apikey": TXLPrivateConfig.sunlightApiKey};
+    NSDictionary *parameters = @{@"apikey": _clientConfig.sunlightApiKey};
     return [[self rac_GET:path parameters:parameters] map:^id(OVCResponse *response) {
         return TXLMapValidDetailsResponseToClass(response,NSDictionary);
     }];

@@ -28,7 +28,7 @@
 
 @interface TXLDataLoader : NSObject<TXLDatabaseNotifer>
 
-+ (instancetype)currentLoader;
+- (instancetype)initWithClientConfig:(TXLPrivateConfigType)clientConfig;
 
 @property (nonatomic,strong,readonly) YapDatabaseConnection *uiConnection;
 @property (nonatomic,strong,readonly) YapDatabaseConnection *bgConnection;

@@ -12,6 +12,7 @@
 #import "TXLBlockTableViewController.h"
 #import "TexLege-Environment.h"
 #import "TXLYapDatabase.h"
+#import "TexLegeEngine.h"
 
 @interface TXLModelListViewController ()
 @property (nonatomic,strong) YapDatabaseViewMappings *mappings;
@@ -118,7 +119,8 @@ txlMeta_keys_impl(TXLModelList,stateControllerTitle,stateSearchActive,stateSearc
 
 - (void)dealloc
 {
-    [[TXLDataLoader currentLoader] removeDataModificationObserver:self];
+    TXLDataLoader *loader = [[TexLegeEngine instance] dataLoader];
+    [loader removeDataModificationObserver:self];
 }
 
 - (void)viewDidAppear:(BOOL)animated
@@ -149,7 +151,7 @@ txlMeta_keys_impl(TXLModelList,stateControllerTitle,stateSearchActive,stateSearc
 
 - (void)didCompleteLoadObjects
 {
-    TXLDataLoader *loader = [TXLDataLoader currentLoader];
+    TXLDataLoader *loader = [[TexLegeEngine instance] dataLoader];
     YapDatabaseConnection *uiConnection = loader.uiConnection;
 
     [uiConnection beginLongLivedReadTransaction];
@@ -192,7 +194,8 @@ txlMeta_keys_impl(TXLModelList,stateControllerTitle,stateSearchActive,stateSearc
 
     NSString *viewKey = [self.class viewKey];
     UITableView *tableView = self.tableView;
-    YapDatabaseConnection *connection = [TXLDataLoader currentLoader].uiConnection;
+
+    YapDatabaseConnection *connection = [[TexLegeEngine instance] dataLoader].uiConnection;
 
     NSArray *notifications = [connection beginLongLivedReadTransaction];
     if (!notifications.count)
@@ -426,9 +429,10 @@ txlMeta_keys_impl(TXLModelList,stateControllerTitle,stateSearchActive,stateSearc
 - (TXLModel *)objectAtIndexPath:(NSIndexPath *)indexPath
 {
     NSString *viewKey = [self.class viewKey];
+
     __block TXLModel *object = nil;
     @weakify(self);
-    [[TXLDataLoader currentLoader].uiConnection readWithBlock:^(YapDatabaseReadTransaction *transaction){
+    [[[TexLegeEngine instance] dataLoader].uiConnection readWithBlock:^(YapDatabaseReadTransaction *transaction){
         @strongify(self);
         if (!self)
             return;
@@ -477,7 +481,7 @@ txlMeta_keys_impl(TXLModelList,stateControllerTitle,stateSearchActive,stateSearc
     @weakify(self);
 
     NSMutableArray *results = [[NSMutableArray alloc] initWithCapacity:100];
-    [[TXLDataLoader currentLoader].uiConnection readWithBlock:^(YapDatabaseReadTransaction *transaction) {
+    [[[TexLegeEngine instance] dataLoader].uiConnection readWithBlock:^(YapDatabaseReadTransaction *transaction) {
         @strongify(self);
         if (!self)
             return;

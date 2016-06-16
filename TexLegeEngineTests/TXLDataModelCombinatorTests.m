@@ -9,6 +9,7 @@
 @import UIKit;
 @import XCTest;
 @import Asterism;
+#import "TexLegeEngine.h"
 #import "TXLOpenStatesClient.h"
 #import "TXLTexLegeClient.h"
 #import "TXLDataModelCombinator.h"
@@ -29,6 +30,8 @@
 - (void)setUp
 {
     [super setUp];
+
+    [TexLegeEngine instanceWithPrivateConfig:TXLPrivateConfigDevelopment];
 
     _txLegislatorJSON = @{
                           @"bio_url": @"http://votesmart.org/candidate/biography/5465",

@@ -1,3 +1,48 @@
 [submodule "External/XCConfigs"]
 	path = External/XCConfigs
 	url = git://github.com/jspahrsummers/xcconfigs.git
+[submodule "Carthage/Checkouts/AFNetworking"]
+	path = Carthage/Checkouts/AFNetworking
+	url = https://github.com/AFNetworking/AFNetworking.git
+[submodule "Carthage/Checkouts/Asterism"]
+	path = Carthage/Checkouts/Asterism
+	url = https://github.com/robb/Asterism.git
+[submodule "Carthage/Checkouts/CocoaLumberjack"]
+	path = Carthage/Checkouts/CocoaLumberjack
+	url = https://github.com/CocoaLumberjack/CocoaLumberjack.git
+[submodule "Carthage/Checkouts/DateTools"]
+	path = Carthage/Checkouts/DateTools
+	url = https://github.com/MatthewYork/DateTools.git
+[submodule "Carthage/Checkouts/FormatterKit"]
+	path = Carthage/Checkouts/FormatterKit
+	url = https://github.com/iv-mexx/FormatterKit.git
+[submodule "Carthage/Checkouts/Mantle"]
+	path = Carthage/Checkouts/Mantle
+	url = https://github.com/Mantle/Mantle.git
+[submodule "Carthage/Checkouts/Masonry"]
+	path = Carthage/Checkouts/Masonry
+	url = https://github.com/SnapKit/Masonry.git
+[submodule "Carthage/Checkouts/MTLManagedObjectAdapter"]
+	path = Carthage/Checkouts/MTLManagedObjectAdapter
+	url = https://github.com/Mantle/MTLManagedObjectAdapter.git
+[submodule "Carthage/Checkouts/OMGHTTPURLRQ"]
+	path = Carthage/Checkouts/OMGHTTPURLRQ
+	url = https://github.com/mxcl/OMGHTTPURLRQ.git
+[submodule "Carthage/Checkouts/PromiseKit"]
+	path = Carthage/Checkouts/PromiseKit
+	url = https://github.com/mxcl/PromiseKit.git
+[submodule "Carthage/Checkouts/Reachability"]
+	path = Carthage/Checkouts/Reachability
+	url = https://github.com/tonymillion/Reachability.git
+[submodule "Carthage/Checkouts/Result"]
+	path = Carthage/Checkouts/Result
+	url = https://github.com/antitypical/Result.git
+[submodule "Carthage/Checkouts/ReactiveCocoa"]
+	path = Carthage/Checkouts/ReactiveCocoa
+	url = https://github.com/ReactiveCocoa/ReactiveCocoa.git
+[submodule "Carthage/Checkouts/Overcoat"]
+	path = Carthage/Checkouts/Overcoat
+	url = https://github.com/grgcombs/Overcoat.git
+[submodule "Carthage/Checkouts/YapDatabase"]
+	path = Carthage/Checkouts/YapDatabase
+	url = https://github.com/yapstudios/YapDatabase.git

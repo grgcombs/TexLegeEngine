@@ -14,8 +14,6 @@
 #import "TXLCommittee.h"
 #import "TXLYapDatabase.h"
 
-static TXLDataLoader *sharedLoader = nil;
-
 @interface TXLDataLoader()
 
 @property (nonatomic,strong) TXLDatabaseManager *dbManager;
@@ -25,23 +23,19 @@ static TXLDataLoader *sharedLoader = nil;
 @property (nonatomic,strong) YapDatabaseConnection *bgConnection;
 @property (nonatomic,strong) RACSignal *legislatorListViewSignal;
 @property (nonatomic,strong) RACSignal *legislatorListSearchSignal;
+@property (nonatomic,assign) TXLPrivateConfigType currentConfig;
 
 @end
 
 @implementation TXLDataLoader
 
-+ (instancetype)currentLoader
-{
-    if (!sharedLoader)
-        sharedLoader = [[TXLDataLoader alloc] init];
-    return sharedLoader;
-}
-
-- (instancetype)init
+- (instancetype)initWithClientConfig:(TXLPrivateConfigType)clientConfig
 {
     self = [super init];
     if (self)
     {
+        _currentConfig = clientConfig;
+
         NSString *path = [TXLDatabaseManager defaultDatabasePathWithName:TXLCommonConfig.databaseName version:TXLCommonConfig.databaseVersion];
         _dbManager = [[TXLDatabaseManager alloc] initWithPath:path];
 
@@ -53,7 +47,7 @@ static TXLDataLoader *sharedLoader = nil;
         _bgConnection.objectCacheEnabled = NO; // no need to cache for write-only
         _bgConnection.metadataCacheEnabled = NO;
 
-#if YapDatabaseEnforcePermittedTransactions
+#if 0 // #if YapDatabaseEnforcePermittedTransactions
         _uiConnection.permittedTransactions = YDB_SyncReadTransaction | YDB_MainThreadOnly;
         _bgConnection.permittedTransactions = YDB_AnyAsyncTransaction;
 #endif

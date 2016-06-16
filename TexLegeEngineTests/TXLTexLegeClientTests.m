@@ -14,6 +14,7 @@
 #import "TXLReachability.h"
 #import "TXLConstants.h"
 #import "TXLLegislator.h"
+#import "TexLegeEngine.h"
 
 @interface TXLTexLegeClientTests : XCTestCase
 
@@ -27,6 +28,9 @@
 - (void)setUp
 {
     [super setUp];
+
+    [TexLegeEngine instanceWithPrivateConfig:TXLPrivateConfigDevelopment];
+
     _legislatorJSON = @{
                         @"bio_url": @"http://votesmart.org/candidate/biography/5465",
                         @"cap_fax": @"(512) 475-3738",
@@ -64,6 +68,7 @@
     if (!_client)
         _client = client;
 }
+
 - (void)testAccuracyOfRelativeURLs
 {
     if (!_client)
@@ -75,7 +80,8 @@
     NSURL *relativeURL = [NSURL URLWithString:relativePath relativeToURL:baseURL];
     XCTAssertNotNil(relativeURL, @"Expected a valid relative URL.");
 
-    NSString *expected = [TXLPrivateConfig.texlegeBaseURL stringByAppendingString:relativePath];
+    TXLPrivateConfigType privateConfig = [TexLegeEngine instance].privateConfig;
+    NSString *expected = [privateConfig.texlegeBaseURL stringByAppendingString:relativePath];
     XCTAssertEqualObjects(relativeURL.absoluteString, expected, @"Failed to make full URL from relative path.");
 }
 

@@ -15,16 +15,26 @@
 #import "TXLPartisanScore.h"
 #import "TXLStaffer.h"
 #import "TXLReachability.h"
+#import "TexLegeEngine.h"
+
+@interface TXLTexLegeClient()
+@property (atomic,assign) TXLPrivateConfigType clientConfig;
+@end
 
 @implementation TXLTexLegeClient
 
-- (instancetype)initWithBaseURL:(NSURL *)url sessionConfiguration:(NSURLSessionConfiguration *)configuration
+- (instancetype)initWithBaseURL:(NSURL *)url sessionConfiguration:(NSURLSessionConfiguration *)sessionConfig clientConfig:(TXLPrivateConfigType)clientConfig
 {
-    self = [super initWithBaseURL:url sessionConfiguration:configuration];
+    if (!TXLPrivateConfigIsValid(clientConfig))
+        return nil;
+
+    self = [super initWithBaseURL:url sessionConfiguration:sessionConfig];
     if (self)
     {
-        [self.requestSerializer setAuthorizationHeaderFieldWithUsername:TXLPrivateConfig.texlegeUser
-                                                               password:TXLPrivateConfig.texlegePassword];
+        _clientConfig = clientConfig;
+
+        [self.requestSerializer setAuthorizationHeaderFieldWithUsername:clientConfig.texlegeUser
+                                                               password:clientConfig.texlegePassword];
 
         TXLReachability *reachability = [TXLReachability sharedManager];
         self.reachabilityManager = reachability;
@@ -92,8 +102,9 @@
     sessionConfig.timeoutIntervalForResource = 90;
     sessionConfig.HTTPCookieAcceptPolicy = NSHTTPCookieAcceptPolicyOnlyFromMainDocumentDomain;
 
-    NSURL *url = [NSURL URLWithString:TXLPrivateConfig.texlegeBaseURL];
-    self = [self initWithBaseURL:url sessionConfiguration:sessionConfig];
+    TXLPrivateConfigType clientConfig = [TexLegeEngine instance].privateConfig;
+    NSURL *url = [NSURL URLWithString:clientConfig.texlegeBaseURL];
+    self = [self initWithBaseURL:url sessionConfiguration:sessionConfig clientConfig:clientConfig];
     return self;
 }
 

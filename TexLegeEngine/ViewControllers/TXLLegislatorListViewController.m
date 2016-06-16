@@ -10,6 +10,7 @@
 #import "TXLLegislator.h"
 #import "TXLBlockListDataSource.h"
 #import "TXLBlockTableViewController.h"
+#import "TexLegeEngine.h"
 
 static NSString * const kLegislatorCellID = @"TXLLegislatorCell";
 
@@ -41,7 +42,8 @@ static NSString * const kLegislatorCellID = @"TXLLegislatorCell";
     RACSignal *signal = [super loadObjectsSignal];
     if (!signal)
     {
-        signal = [[TXLDataLoader currentLoader] loadLegislators];
+        TXLDataLoader *loader = [[TexLegeEngine instance] dataLoader];
+        signal = [loader loadLegislators];
         self.loadObjectsSignal = signal;
     }
     return signal;

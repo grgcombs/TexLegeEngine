@@ -27,9 +27,7 @@ const struct TXLCommonConfig TXLCommonConfig = {
     .databaseVersion = @"3",
 };
 
-#ifdef TARGETING_STAGING
-
-const struct TXLPrivateConfig TXLPrivateConfig = {
+const TXLPrivateConfigType TXLPrivateConfigDevelopment = {
     .configType = @"development",
     .sunlightApiKey = @"350284d0c6af453b9b56f6c1c7fea1f9",
     .texlegeBaseURL = @"http://localhost:4567/texlege/v1/",
@@ -39,9 +37,7 @@ const struct TXLPrivateConfig TXLPrivateConfig = {
     
 };
 
-#else
-
-const struct TXLPrivateConfig TXLPrivateConfig = {
+const TXLPrivateConfigType TXLPrivateConfigProduction = {
     .configType = @"release",
     .sunlightApiKey = @"350284d0c6af453b9b56f6c1c7fea1f9",
     .texlegeBaseURL = @"http://data.texlege.com/texlege/v1/",
@@ -50,18 +46,69 @@ const struct TXLPrivateConfig TXLPrivateConfig = {
     .crashlyticsApiKey = @"7f920088e925e57cb9f436fa327d06fefc4930dd",
 };
 
-#endif
 
 
 NSURL * TXLOpenStatesBaseURL;
 NSTimeZone * TXLCapitolTimeZone;
 
 void __attribute__((constructor)) TXLConstantsInitializer() {
+
     TXLOpenStatesBaseURL = [NSURL URLWithString:TXLCommonConfig.openstatesBaseURL];
 //    TXLOpenStatesBaseURL = [NSURL URLWithString:IF_STAGING(@"http://myapp.com/api/staging",
 //                                                           @"http://myapp.com/api")];
 
     TXLCapitolTimeZone = [NSTimeZone timeZoneWithName:@"America/Chicago"];
     NSCParameterAssert(TXLCapitolTimeZone != NULL);
+}
+
+BOOL TXLPrivateConfigIsValid(TXLPrivateConfigType config)
+{
+    return (TXLTypeNonEmptyStringOrNil(config.configType)
+            && TXLTypeNonEmptyStringOrNil(config.sunlightApiKey)
+            && TXLTypeNonEmptyStringOrNil(config.texlegeBaseURL)
+            && TXLTypeNonEmptyStringOrNil(config.texlegeUser)
+            && TXLTypeNonEmptyStringOrNil(config.texlegePassword)
+            // Crashlytics is optional
+            && (TXLTypeIsNull(config.crashlyticsApiKey)
+                || TXLTypeNonEmptyStringOrNil(config.crashlyticsApiKey)));
+}
+
+BOOL TXLPrivateConfigsAreEqual(TXLPrivateConfigType config1, TXLPrivateConfigType config2)
+{
+    BOOL isConfig1Valid = TXLPrivateConfigIsValid(config1);
+    BOOL isConfig2Valid = TXLPrivateConfigIsValid(config2);
+
+    if (isConfig1Valid != isConfig2Valid)
+        return NO;
+
+    if (isConfig1Valid == NO && isConfig2Valid == NO)
+        return YES; // why would this happen and would this ever be a good idea?
+
+    if (![config1.configType isEqualToString:config2.configType])
+        return NO;
+    if (![config1.sunlightApiKey isEqualToString:config2.sunlightApiKey])
+        return NO;
+    if (![config1.texlegeBaseURL isEqualToString:config2.texlegeBaseURL])
+        return NO;
+    if (![config1.texlegeUser isEqualToString:config2.texlegeUser])
+        return NO;
+    if (![config1.texlegePassword isEqualToString:config2.texlegePassword])
+        return NO;
+
+    // Crashlytics is optional
+    
+    BOOL crashlyticsIsEqualOrEmpty = NO;
+
+    NSString *crashlytics1 = TXLTypeNonEmptyStringOrNil(config1.crashlyticsApiKey);
+    NSString *crashlytics2 = TXLTypeNonEmptyStringOrNil(config2.crashlyticsApiKey);
+
+    if (!crashlytics1 && !crashlytics2)
+        crashlyticsIsEqualOrEmpty = YES;
+    else if (crashlytics1 && crashlytics2)
+        crashlyticsIsEqualOrEmpty = [crashlytics1 isEqualToString:crashlytics2];
+    else // One of these must be a string and the other is not
+        crashlyticsIsEqualOrEmpty = NO;
+
+    return crashlyticsIsEqualOrEmpty;
 }
 
