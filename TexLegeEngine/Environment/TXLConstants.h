@@ -47,6 +47,14 @@ BOOL TXLPrivateConfigsAreEqual(TXLPrivateConfigType config1, TXLPrivateConfigTyp
  */
 extern const  TXLPrivateConfigType TXLPrivateConfigDevelopment;
 
+/**
+ *  @author Greg Combs, Jun 16, 2016
+ *
+ *  Use the constant struct settings in TXLPrivateConfigProduction when running against
+ *  a the production/release REST server on TexLege.
+ */
+extern const  TXLPrivateConfigType TXLPrivateConfigProduction;
+
 extern NSURL * TXLOpenStatesBaseURL;
 extern NSTimeZone *TXLCapitolTimeZone;
 

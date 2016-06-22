@@ -40,9 +40,9 @@ const TXLPrivateConfigType TXLPrivateConfigDevelopment = {
 const TXLPrivateConfigType TXLPrivateConfigProduction = {
     .configType = @"release",
     .sunlightApiKey = @"350284d0c6af453b9b56f6c1c7fea1f9",
-    .texlegeBaseURL = @"http://data.texlege.com/texlege/v1/",
+    .texlegeBaseURL = @"http://data.texlege.com:8395/texlege/v1/",
     .texlegeUser = @"texlegeRead",
-    .texlegePassword = @"uiNrWFJmdMto6H6a7",
+    .texlegePassword = @"9ru7wQG)efsKxts",
     .crashlyticsApiKey = @"7f920088e925e57cb9f436fa327d06fefc4930dd",
 };
 

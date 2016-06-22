@@ -36,7 +36,6 @@ FOUNDATION_EXPORT const unsigned char TexLegeEngineVersionString[];
 #import <TexLegeEngine/TXLOpenStatesClient.h>
 #import <TexLegeEngine/TXLTexLegeClient.h>
 #import <TexLegeEngine/TXLBlockListDataSource.h>
-#import <TexLegeEngine/TXLLegislatorListViewController.h>
 #import <TexLegeEngine/TXLModelListViewController.h>
 #import <TexLegeEngine/TXLBlockTableViewController.h>
 

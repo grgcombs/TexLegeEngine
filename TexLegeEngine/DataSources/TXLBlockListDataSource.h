@@ -22,6 +22,7 @@ typedef NS_OPTIONS(NSUInteger, TXLBlockListHelperType) {
     TXLBlockListHelperDataSourceType = 1 << 1,
     TXLBlockListHelperDelegateAndDataSourceType = (1 << 0) | (1 << 1),
 };
+
 @interface TXLBlockListDataSource : NSObject <UITableViewDataSource,UITableViewDelegate>
 
 - (instancetype)initWithHelperType:(TXLBlockListHelperType)helperType NS_DESIGNATED_INITIALIZER;

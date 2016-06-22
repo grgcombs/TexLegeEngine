@@ -45,6 +45,17 @@ txlMeta_keys_impl(TXLModelList,stateControllerTitle,stateSearchActive,stateSearc
     return nil;
 }
 
++ (NSString *)modelCellReuseIdentifier
+{
+    NSAssert(NO, @"Subclasses must implement their own modelCellReuseIdentifier");
+    return nil;
+}
+
++ (NSString *)searchCellReuseIdentifier
+{
+    return [self modelCellReuseIdentifier];
+}
+
 + (BOOL)isSearchableList
 {
     return YES;
@@ -441,14 +452,57 @@ txlMeta_keys_impl(TXLModelList,stateControllerTitle,stateSearchActive,stateSearc
     return TXLValueIfClass(TXLModel, object);
 }
 
+- (TXLModel *)tableView:(UITableView *)tableView objectAtIndexPath:(NSIndexPath *)indexPath
+{
+    id dataObject = (tableView == self.tableView) ? [self objectAtIndexPath:indexPath] : self.searchResults[(NSUInteger)indexPath.row];
+    return TXLValueIfClass(TXLModel, dataObject);
+}
+
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
 {
-    NSAssert(NO, @"Subclasses must implement their own cellForRowAtIndexPath:");
-    return nil;
+    if (self.onConfigureCell)
+        return self.onConfigureCell(tableView, indexPath);
+
+    NSString *reuseIdentifier = TXLTypeNonEmptyStringOrNil([self.class modelCellReuseIdentifier]);
+    if (!reuseIdentifier)
+        return nil; // Expect a thrown exception.
+
+    UITableViewCell *dequeuedCell = [tableView dequeueReusableCellWithIdentifier:reuseIdentifier forIndexPath:indexPath];
+    if (!dequeuedCell)
+        return nil; // Expect a thrown exception.
+
+    if ([dequeuedCell conformsToProtocol:@protocol(TXLModelReceiverProtocol)])
+    {
+        UITableViewCell<TXLModelReceiverProtocol> *cell = (UITableViewCell <TXLModelReceiverProtocol> *)dequeuedCell;
+        TXLModel *modelObject = [self tableView:tableView objectAtIndexPath:indexPath];
+        if (modelObject)
+            [self tableView:tableView configureModelReceiverCell:cell indexPath:indexPath model:modelObject];
+
+        return cell;
+    }
+
+    NSAssert(NO, @"Subclasses must implement their own cellForRowAtIndexPath: or register a cell that conforms to TXLModelReceiverProtocol");
+    return dequeuedCell;
+}
+
+- (void)tableView:(UITableView *)tableView configureModelReceiverCell:(UITableViewCell<TXLModelReceiverProtocol> *)cell indexPath:(NSIndexPath *)indexPath model:(TXLModel *)modelObject
+{
+    if (!cell ||
+        ![cell respondsToSelector:@selector(setModelObject:)])
+        return;
+
+    cell.modelObject = TXLValueIfClass(TXLModel, modelObject);
 }
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
 {
+    if (self.onDidSelectRow)
+    {
+        self.onDidSelectRow(tableView,indexPath);
+
+        return;
+    }
+
     //TXLModel *selectedObject = (tableView == self.tableView) ? [self objectAtIndexPath:indexPath] : self.searchResults[(NSUInteger)indexPath.row];
 
     //TXLModelDetailViewController *detailViewController = [self.storyboard instantiateViewControllerWithIdentifier:@"TXLModelDetailViewController"];
@@ -464,6 +518,24 @@ txlMeta_keys_impl(TXLModelList,stateControllerTitle,stateSearchActive,stateSearc
 
 - (UITableViewCell *)tableView:(UITableView *)tableView searchCellForResult:(id)result atIndexPath:(NSIndexPath *)indexPath
 {
+    NSString *reuseIdentifier = TXLTypeNonEmptyStringOrNil([self.class searchCellReuseIdentifier]);
+    if (!reuseIdentifier)
+        return nil; // Expect a thrown exception.
+
+    UITableViewCell *dequeuedCell = [tableView dequeueReusableCellWithIdentifier:reuseIdentifier forIndexPath:indexPath];
+    if (!dequeuedCell)
+        return nil; // Expect a thrown exception.
+
+    if ([dequeuedCell conformsToProtocol:@protocol(TXLModelReceiverProtocol)])
+    {
+        UITableViewCell<TXLModelReceiverProtocol> *cell = (UITableViewCell <TXLModelReceiverProtocol> *)dequeuedCell;
+        TXLModel *modelObject = TXLValueIfClass(TXLModel, result);
+        if (modelObject)
+            [self tableView:tableView configureModelReceiverCell:cell indexPath:indexPath model:modelObject];
+
+        return cell;
+    }
+
     NSAssert(NO, @"Subclasses must implement their own searchCellForResult:");
     return nil;
 }

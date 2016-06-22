@@ -52,20 +52,16 @@
 		3706DE9D1CADC809001E3BA4 /* TXLStaffer.m in Sources */ = {isa = PBXBuildFile; fileRef = 3706DE8A1CADC809001E3BA4 /* TXLStaffer.m */; };
 		3706DEA51CADC810001E3BA4 /* TXLBlockTableViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 3706DE9F1CADC810001E3BA4 /* TXLBlockTableViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3706DEA61CADC810001E3BA4 /* TXLBlockTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3706DEA01CADC810001E3BA4 /* TXLBlockTableViewController.m */; };
-		3706DEA71CADC810001E3BA4 /* TXLLegislatorListViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 3706DEA11CADC810001E3BA4 /* TXLLegislatorListViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3706DEA81CADC810001E3BA4 /* TXLLegislatorListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3706DEA21CADC810001E3BA4 /* TXLLegislatorListViewController.m */; };
 		3706DEA91CADC810001E3BA4 /* TXLModelListViewController.h in Headers */ = {isa = PBXBuildFile; fileRef = 3706DEA31CADC810001E3BA4 /* TXLModelListViewController.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3706DEAA1CADC810001E3BA4 /* TXLModelListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3706DEA41CADC810001E3BA4 /* TXLModelListViewController.m */; };
 		3775A9F11CBC10D50098EE42 /* OvercoatReactiveCocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3775A9F01CBC10D50098EE42 /* OvercoatReactiveCocoa.framework */; };
 		3775A9F31CBC10DD0098EE42 /* ReactiveCocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3775A9F21CBC10DD0098EE42 /* ReactiveCocoa.framework */; };
 		3775A9F91CBC144E0098EE42 /* TexLege-Environment.h in Headers */ = {isa = PBXBuildFile; fileRef = 3775A9F81CBC144E0098EE42 /* TexLege-Environment.h */; };
+		3795B7B71D19F0F3007DE60A /* TXLModelReceiverProtocol.h in Headers */ = {isa = PBXBuildFile; fileRef = 3795B7B61D19F0F3007DE60A /* TXLModelReceiverProtocol.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		37D146DB1CAC5D7F00B73728 /* AFNetworking.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37D146D01CAC5D7F00B73728 /* AFNetworking.framework */; };
 		37D146DC1CAC5D7F00B73728 /* Asterism.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37D146D11CAC5D7F00B73728 /* Asterism.framework */; };
 		37D146DD1CAC5D7F00B73728 /* CocoaLumberjack.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37D146D21CAC5D7F00B73728 /* CocoaLumberjack.framework */; };
-		37D146DE1CAC5D7F00B73728 /* DateTools.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37D146D31CAC5D7F00B73728 /* DateTools.framework */; };
-		37D146DF1CAC5D7F00B73728 /* FormatterKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37D146D41CAC5D7F00B73728 /* FormatterKit.framework */; };
 		37D146E01CAC5D7F00B73728 /* Mantle.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37D146D51CAC5D7F00B73728 /* Mantle.framework */; };
-		37D146E11CAC5D7F00B73728 /* Masonry.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37D146D61CAC5D7F00B73728 /* Masonry.framework */; };
 		37D146E21CAC5D7F00B73728 /* Overcoat.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37D146D71CAC5D7F00B73728 /* Overcoat.framework */; };
 		37D146E51CAC5D7F00B73728 /* YapDatabase.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 37D146DA1CAC5D7F00B73728 /* YapDatabase.framework */; };
 		37EAA1041CBC653800549BBE /* TexLege-Prefix.pch in Headers */ = {isa = PBXBuildFile; fileRef = 37EAA1031CBC653800549BBE /* TexLege-Prefix.pch */; };
@@ -85,10 +81,7 @@
 		37EAA1261CBDC85B00549BBE /* AFNetworking.framework in Copy Carthage Frameworks */ = {isa = PBXBuildFile; fileRef = 37D146D01CAC5D7F00B73728 /* AFNetworking.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		37EAA1271CBDC85B00549BBE /* Asterism.framework in Copy Carthage Frameworks */ = {isa = PBXBuildFile; fileRef = 37D146D11CAC5D7F00B73728 /* Asterism.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		37EAA1281CBDC85B00549BBE /* CocoaLumberjack.framework in Copy Carthage Frameworks */ = {isa = PBXBuildFile; fileRef = 37D146D21CAC5D7F00B73728 /* CocoaLumberjack.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		37EAA1291CBDC85B00549BBE /* DateTools.framework in Copy Carthage Frameworks */ = {isa = PBXBuildFile; fileRef = 37D146D31CAC5D7F00B73728 /* DateTools.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		37EAA12A1CBDC85B00549BBE /* FormatterKit.framework in Copy Carthage Frameworks */ = {isa = PBXBuildFile; fileRef = 37D146D41CAC5D7F00B73728 /* FormatterKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		37EAA12B1CBDC85B00549BBE /* Mantle.framework in Copy Carthage Frameworks */ = {isa = PBXBuildFile; fileRef = 37D146D51CAC5D7F00B73728 /* Mantle.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		37EAA12C1CBDC85B00549BBE /* Masonry.framework in Copy Carthage Frameworks */ = {isa = PBXBuildFile; fileRef = 37D146D61CAC5D7F00B73728 /* Masonry.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		37EAA12E1CBDC85B00549BBE /* Overcoat.framework in Copy Carthage Frameworks */ = {isa = PBXBuildFile; fileRef = 37D146D71CAC5D7F00B73728 /* Overcoat.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		37EAA12F1CBDC85B00549BBE /* Reachability.framework in Copy Carthage Frameworks */ = {isa = PBXBuildFile; fileRef = 37EAA11F1CBDC7C200549BBE /* Reachability.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		37EAA1301CBDC85B00549BBE /* YapDatabase.framework in Copy Carthage Frameworks */ = {isa = PBXBuildFile; fileRef = 37D146DA1CAC5D7F00B73728 /* YapDatabase.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
@@ -118,10 +111,7 @@
 				37EAA1261CBDC85B00549BBE /* AFNetworking.framework in Copy Carthage Frameworks */,
 				37EAA1271CBDC85B00549BBE /* Asterism.framework in Copy Carthage Frameworks */,
 				37EAA1281CBDC85B00549BBE /* CocoaLumberjack.framework in Copy Carthage Frameworks */,
-				37EAA1291CBDC85B00549BBE /* DateTools.framework in Copy Carthage Frameworks */,
-				37EAA12A1CBDC85B00549BBE /* FormatterKit.framework in Copy Carthage Frameworks */,
 				37EAA12B1CBDC85B00549BBE /* Mantle.framework in Copy Carthage Frameworks */,
-				37EAA12C1CBDC85B00549BBE /* Masonry.framework in Copy Carthage Frameworks */,
 				37EAA12E1CBDC85B00549BBE /* Overcoat.framework in Copy Carthage Frameworks */,
 				37EAA12F1CBDC85B00549BBE /* Reachability.framework in Copy Carthage Frameworks */,
 				37EAA1301CBDC85B00549BBE /* YapDatabase.framework in Copy Carthage Frameworks */,
@@ -178,13 +168,12 @@
 		3706DE8A1CADC809001E3BA4 /* TXLStaffer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXLStaffer.m; sourceTree = "<group>"; };
 		3706DE9F1CADC810001E3BA4 /* TXLBlockTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXLBlockTableViewController.h; sourceTree = "<group>"; };
 		3706DEA01CADC810001E3BA4 /* TXLBlockTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXLBlockTableViewController.m; sourceTree = "<group>"; };
-		3706DEA11CADC810001E3BA4 /* TXLLegislatorListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXLLegislatorListViewController.h; sourceTree = "<group>"; };
-		3706DEA21CADC810001E3BA4 /* TXLLegislatorListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXLLegislatorListViewController.m; sourceTree = "<group>"; };
 		3706DEA31CADC810001E3BA4 /* TXLModelListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TXLModelListViewController.h; sourceTree = "<group>"; };
 		3706DEA41CADC810001E3BA4 /* TXLModelListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TXLModelListViewController.m; sourceTree = "<group>"; };
 		3775A9F01CBC10D50098EE42 /* OvercoatReactiveCocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OvercoatReactiveCocoa.framework; path = Carthage/Build/iOS/OvercoatReactiveCocoa.framework; sourceTree = "<group>"; };
 		3775A9F21CBC10DD0098EE42 /* ReactiveCocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ReactiveCocoa.framework; path = Carthage/Build/iOS/ReactiveCocoa.framework; sourceTree = "<group>"; };
 		3775A9F81CBC144E0098EE42 /* TexLege-Environment.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "TexLege-Environment.h"; sourceTree = "<group>"; };
+		3795B7B61D19F0F3007DE60A /* TXLModelReceiverProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TXLModelReceiverProtocol.h; path = TexLegeEngine/Protocols/TXLModelReceiverProtocol.h; sourceTree = SOURCE_ROOT; };
 		37D146D01CAC5D7F00B73728 /* AFNetworking.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AFNetworking.framework; path = Carthage/Build/iOS/AFNetworking.framework; sourceTree = "<group>"; };
 		37D146D11CAC5D7F00B73728 /* Asterism.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Asterism.framework; path = Carthage/Build/iOS/Asterism.framework; sourceTree = "<group>"; };
 		37D146D21CAC5D7F00B73728 /* CocoaLumberjack.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CocoaLumberjack.framework; path = Carthage/Build/iOS/CocoaLumberjack.framework; sourceTree = "<group>"; };
@@ -225,11 +214,8 @@
 				37D146DB1CAC5D7F00B73728 /* AFNetworking.framework in Frameworks */,
 				37D146DC1CAC5D7F00B73728 /* Asterism.framework in Frameworks */,
 				37D146DD1CAC5D7F00B73728 /* CocoaLumberjack.framework in Frameworks */,
-				37D146DE1CAC5D7F00B73728 /* DateTools.framework in Frameworks */,
-				37D146DF1CAC5D7F00B73728 /* FormatterKit.framework in Frameworks */,
 				37EAA1201CBDC7C200549BBE /* Reachability.framework in Frameworks */,
 				37D146E01CAC5D7F00B73728 /* Mantle.framework in Frameworks */,
-				37D146E11CAC5D7F00B73728 /* Masonry.framework in Frameworks */,
 				37D146E21CAC5D7F00B73728 /* Overcoat.framework in Frameworks */,
 				37D146E51CAC5D7F00B73728 /* YapDatabase.framework in Frameworks */,
 				3775A9F31CBC10DD0098EE42 /* ReactiveCocoa.framework in Frameworks */,
@@ -326,12 +312,18 @@
 			children = (
 				3706DE9F1CADC810001E3BA4 /* TXLBlockTableViewController.h */,
 				3706DEA01CADC810001E3BA4 /* TXLBlockTableViewController.m */,
-				3706DEA11CADC810001E3BA4 /* TXLLegislatorListViewController.h */,
-				3706DEA21CADC810001E3BA4 /* TXLLegislatorListViewController.m */,
 				3706DEA31CADC810001E3BA4 /* TXLModelListViewController.h */,
 				3706DEA41CADC810001E3BA4 /* TXLModelListViewController.m */,
 			);
 			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		3795B7B51D19F09F007DE60A /* Protocols */ = {
+			isa = PBXGroup;
+			children = (
+				3795B7B61D19F0F3007DE60A /* TXLModelReceiverProtocol.h */,
+			);
+			path = Protocols;
 			sourceTree = "<group>";
 		};
 		37D146FE1CAC600400B73728 /* Frameworks */ = {
@@ -397,6 +389,7 @@
 				3706DE2A1CADC7C8001E3BA4 /* Environment */,
 				3706DE6A1CADC7EE001E3BA4 /* Library */,
 				3706DE771CADC809001E3BA4 /* Models */,
+				3795B7B51D19F09F007DE60A /* Protocols */,
 				3706DE9E1CADC810001E3BA4 /* ViewControllers */,
 			);
 			path = TexLegeEngine;
@@ -429,10 +422,10 @@
 				3706DE361CADC7C8001E3BA4 /* TXLTypeCheck.h in Headers */,
 				3706DE8E1CADC809001E3BA4 /* TXLCommittee.h in Headers */,
 				3706DE351CADC7C8001E3BA4 /* TXLMetaMacros.h in Headers */,
-				3706DEA71CADC810001E3BA4 /* TXLLegislatorListViewController.h in Headers */,
 				3706DE9C1CADC809001E3BA4 /* TXLStaffer.h in Headers */,
 				3775A9F91CBC144E0098EE42 /* TexLege-Environment.h in Headers */,
 				3706DE311CADC7C8001E3BA4 /* TXLConstants.h in Headers */,
+				3795B7B71D19F0F3007DE60A /* TXLModelReceiverProtocol.h in Headers */,
 				3706DE711CADC7EE001E3BA4 /* TXLDataConversion.h in Headers */,
 				3706DE531CADC7DB001E3BA4 /* TXLDatabaseManager.h in Headers */,
 				3706DE901CADC809001E3BA4 /* TXLLegislator.h in Headers */,
@@ -556,10 +549,7 @@
 				"$(SRCROOT)/Carthage/Build/iOS/AFNetworking.framework",
 				"$(SRCROOT)/Carthage/Build/iOS/Asterism.framework",
 				"$(SRCROOT)/Carthage/Build/iOS/CocoaLumberjack.framework",
-				"$(SRCROOT)/Carthage/Build/iOS/DateTools.framework",
-				"$(SRCROOT)/Carthage/Build/iOS/FormatterKit.framework",
 				"$(SRCROOT)/Carthage/Build/iOS/Mantle.framework",
-				"$(SRCROOT)/Carthage/Build/iOS/Masonry.framework",
 				"$(SRCROOT)/Carthage/Build/iOS/Overcoat.framework",
 				"$(SRCROOT)/Carthage/Build/iOS/YapDatabase.framework",
 				"$(SRCROOT)/Carthage/Build/iOS/ReactiveCocoa.framework",
@@ -584,7 +574,6 @@
 				3706DE761CADC7EE001E3BA4 /* TXLReachability.m in Sources */,
 				3706DE931CADC809001E3BA4 /* TXLMetadata.m in Sources */,
 				3706DE9D1CADC809001E3BA4 /* TXLStaffer.m in Sources */,
-				3706DEA81CADC810001E3BA4 /* TXLLegislatorListViewController.m in Sources */,
 				3706DE8F1CADC809001E3BA4 /* TXLCommittee.m in Sources */,
 				3706DE581CADC7DB001E3BA4 /* TXLDataModelCombinator.m in Sources */,
 				3706DE321CADC7C8001E3BA4 /* TXLConstants.m in Sources */,

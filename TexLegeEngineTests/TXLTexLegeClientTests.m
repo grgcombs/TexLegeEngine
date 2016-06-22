@@ -29,7 +29,7 @@
 {
     [super setUp];
 
-    [TexLegeEngine instanceWithPrivateConfig:TXLPrivateConfigDevelopment];
+    [TexLegeEngine instanceWithPrivateConfig:TXLPrivateConfigProduction];
 
     _legislatorJSON = @{
                         @"bio_url": @"http://votesmart.org/candidate/biography/5465",

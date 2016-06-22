@@ -1,4 +1,3 @@
-
 # TexLege.rb
 require 'rubygems'
 require 'pp'
@@ -60,7 +59,7 @@ def load_and_parse_json json_file
   parsed = JSON.load json_file
   parsed
 rescue JSON::ParserError => e
-  puts "Now there's some ugly JSON! (#{e.message})"
+  puts "We can't parse malformed JSON! (#{e.message})"
   exit 2
 end
 
@@ -154,8 +153,8 @@ get '/:cloud/v1/metadata' do
   
   # DEFAULT to HCM-index
   file_to_serve = "#{params[:cloud]}.#{BUNDLE_SUFFIX}/metadata/index.json"
-  file_to_serve = "#{params[:cloud]}.#{BUNDLE_SUFFIX}/metadata/phone-index.json" if user_agent["iphone"]
-  file_to_serve = "#{params[:cloud]}.#{BUNDLE_SUFFIX}/metadata/tablet-index.json" if user_agent["ipad"]
+  # file_to_serve = "#{params[:cloud]}.#{BUNDLE_SUFFIX}/metadata/phone-index.json" if user_agent["iphone"]
+  # file_to_serve = "#{params[:cloud]}.#{BUNDLE_SUFFIX}/metadata/tablet-index.json" if user_agent["ipad"]
   
   if File.exists?(file_to_serve)
     # p "========= METADATA for #{user_agent} -- #{file_to_serve} -- cloud #{params[:cloud]} ================"
