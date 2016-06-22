@@ -25,6 +25,7 @@ typedef UITableViewCell<TXLModelReceiverProtocol>*(^TXLModelListTableCellBlock)(
                                                  TXLDatabaseObserver>
 
 @property (nonatomic,weak) IBOutlet UITableView *tableView;
+@property (nonatomic,weak) IBOutlet UIView *searchBarContainer;
 @property (nonatomic,strong) RACSignal *loadObjectsSignal;
 @property (nonatomic,copy) TXLBlockListIndexPathBlock onDidSelectRow;
 @property (nonatomic,copy) TXLModelListTableCellBlock onConfigureCell;

@@ -22,7 +22,6 @@
 @property (nonatomic,strong) TXLBlockTableViewController *resultsController;
 @property (nonatomic,strong) TXLBlockListDataSource *resultsDataSource;
 @property (nonatomic,strong) UISearchController *searchController;
-@property (nonatomic,weak) IBOutlet UIView *searchBarContainer;
 @property (nonatomic,strong) NSLayoutConstraint *searchBarOffset;
 @property (nonatomic,strong) NSArray *searchBarConstraints;
 @property (nonatomic,copy) NSArray *searchResults;
