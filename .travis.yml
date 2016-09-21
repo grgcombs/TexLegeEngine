@@ -2,7 +2,7 @@ language: objective-c
 osx_image: xcode8
 xcode_project: TexLegeEngine.xcodeproj
 xcode_scheme: TexLegeEngine-iOS
-#xcode_sdk: iphonesimulator9.2
+xcode_sdk: iphonesimulator10.0
 env:
   global:
     - FRAMEWORK_NAME=TexLegeEngine
@@ -24,5 +24,5 @@ notifications:
 #    - carthage archive $FRAMEWORK_NAME
 script: 
     - bin/setup
-    - xcrun xcodebuild test -project TexLegeEngine.xcodeproj -scheme TexLegeEngine-iOS -derivedDataPath ./Builds -destination 'platform=iOS Simulator,name=iPhone 7 Plus,OS=10.0'
+    - xcrun xcodebuild test -project TexLegeEngine.xcodeproj -scheme TexLegeEngine-iOS -derivedDataPath ./Builds -destination 'platform=iOS Simulator,name=iPhone 6 Plus,OS=10.0'
 
